@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="aiphlo-key" content="aiphlo-demo">
+  <title>AiPhlo Skeleton Template</title>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="skeleton.css">
+</head>
+<body>
+
+<!-- =========================================
+     BLOCK: NAV (aiphlo-nav)
+     Slots: logo, menu
+     ========================================= -->
+<div class="aiphlo-nav" data-block="nav">
+  <div class="nav-trigger">
+    <img class="nav-logo" data-slot="logo" src="" alt="Logo">
+    <span class="nav-label">NAV</span>
+  </div>
+  <div class="nav-dropdown">
+    <div class="nav-arrow"></div>
+    <ul class="nav-menu" data-slot="menu"></ul>
+  </div>
+</div>
+
+<!-- =========================================
+     BLOCK: HERO (hero-announce)
+     Slots: headline, subhead, body, cta
+     ========================================= -->
+<section class="hero-announce" data-block="hero">
+  <div class="hero-content">
+    <h1 class="hero-headline" data-slot="headline"></h1>
+    <p class="hero-arrow">▼</p>
+    <p class="hero-subhead" data-slot="subhead"></p>
+    <div class="hero-body" data-slot="body"></div>
+    <a class="hero-cta" data-slot="cta" href=""></a>
+  </div>
+</section>
+
+<!-- =========================================
+     BLOCK: TENEBRE (tenebre-gallery)
+     Slots: logo, toggle, slideshow, categories
+     ========================================= -->
+<section class="tenebre-gallery" data-block="tenebre">
+
+  <!-- Header with logo -->
+  <div class="tenebre-header">
+    <img class="tenebre-logo" data-slot="logo" src="" alt="Tenebre">
+  </div>
+
+  <!-- Slideshow container (expands on toggle) -->
+  <div class="tenebre-slideshow" data-slot="slideshow">
+    <div class="slideshow-canvas">
+      <div class="slideshow-overlay"></div>
+      <img class="slide-current" src="" alt="">
+      <img class="slide-next" src="" alt="">
+    </div>
+  </div>
+
+  <!-- ON/OFF Toggle -->
+  <div class="tenebre-toggle-container">
+    <div class="tenebre-toggle-wrapper">
+      <span class="toggle-label toggle-off active">OFF</span>
+      <div class="tenebre-toggle" data-slot="toggle">
+        <div class="toggle-knob"></div>
+      </div>
+      <span class="toggle-label toggle-on">ON</span>
+    </div>
+  </div>
+
+  <!-- Category tabs -->
+  <div class="tenebre-tabs-container">
+    <ul class="tenebre-tabs" data-slot="categories"></ul>
+  </div>
+
+  <!-- Gallery grid (populated by category selection) -->
+  <div class="tenebre-grid" data-slot="images"></div>
+
+</section>
+
+<!-- =========================================
+     BLOCK: FOOTER (footer-signup)
+     Slots: logo, copyright, notice, locations, contact
+     ========================================= -->
+<footer class="footer-signup" data-block="footer">
+  <p class="footer-film">FILM | DSLR | MIRRORLESS</p>
+  <p class="footer-notice" data-slot="notice"></p>
+  <p class="footer-copyright" data-slot="copyright"></p>
+  <p class="footer-locations" data-slot="locations"></p>
+</footer>
+
+<!-- =========================================
+     AIPHLO LISTENER SCRIPT
+     Fetches content from API, populates slots
+     ========================================= -->
+<script>
+(function() {
+  'use strict';
+
+  const API_ENDPOINT = 'http://localhost:3001/v1/populate';
+  const SITE_KEY = document.querySelector('meta[name="aiphlo-key"]')?.content;
+
+  if (!SITE_KEY) {
+    console.warn('AiPhlo: No site key found');
+    return;
+  }
+
+  console.log('[AiPhlo] Initializing with key:', SITE_KEY);
+
+  // Fetch content from API
+  fetch(API_ENDPOINT, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      site_key: SITE_KEY,
+      page: window.location.pathname
+    })
+  })
+  .then(res => {
+    if (!res.ok) throw new Error('API response not ok');
+    return res.json();
+  })
+  .then(data => {
+    console.log('[AiPhlo] Received data:', data);
+
+    if (!data.blocks) {
+      console.warn('[AiPhlo] No blocks in response');
+      return;
+    }
+
+    // Process each block
+    data.blocks.forEach(block => {
+      const el = document.querySelector(`[data-block="${block.id}"]`);
+      if (!el) {
+        console.warn(`[AiPhlo] Block not found: ${block.id}`);
+        return;
+      }
+
+      console.log(`[AiPhlo] Populating block: ${block.id}`);
+
+      // Process each slot
+      Object.entries(block.slots).forEach(([slot, value]) => {
+        const target = el.querySelector(`[data-slot="${slot}"]`);
+        if (!target) {
+          console.warn(`[AiPhlo] Slot not found: ${slot} in ${block.id}`);
+          return;
+        }
+
+        populateSlot(target, slot, value, block.id);
+      });
+
+      // Mark block as loaded
+      el.classList.add('aiphlo-loaded');
+    });
+
+    // Initialize interactions after content loads
+    initInteractions();
+  })
+  .catch(err => {
+    console.error('[AiPhlo] Error:', err);
+  });
+
+  // Populate a single slot with its value
+  function populateSlot(target, slot, value, blockId) {
+    // Image slots
+    if (target.tagName === 'IMG') {
+      target.src = value;
+      return;
+    }
+
+    // Link slots (object with text + url)
+    if (target.tagName === 'A') {
+      if (typeof value === 'object') {
+        target.href = value.url || '#';
+        target.textContent = value.text || '';
+      } else {
+        target.href = value;
+      }
+      return;
+    }
+
+    // Array slots (menu, categories, images, slideshow)
+    if (Array.isArray(value)) {
+      populateArray(target, value, slot, blockId);
+      return;
+    }
+
+    // String/HTML slots
+    target.innerHTML = value;
+  }
+
+  // Populate array-type slots
+  function populateArray(container, items, type, blockId) {
+    container.innerHTML = '';
+
+    if (type === 'menu') {
+      items.forEach(item => {
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="${item.url}">${item.text}</a>`;
+        container.appendChild(li);
+      });
+    }
+
+    else if (type === 'categories') {
+      items.forEach(item => {
+        const li = document.createElement('li');
+        li.className = 'tenebre-tab';
+        li.dataset.category = item.id;
+        li.dataset.preview = item.preview || '';
+        li.textContent = item.name;
+        // Store images data
+        li.dataset.images = JSON.stringify(item.images || []);
+        container.appendChild(li);
+      });
+    }
+
+    else if (type === 'images') {
+      items.forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'gallery-item';
+        div.innerHTML = `<img src="${item.src}" alt="${item.alt || ''}">`;
+        container.appendChild(div);
+      });
+    }
+
+    else if (type === 'slideshow') {
+      // Store slideshow images for later use
+      container.dataset.slideshowImages = JSON.stringify(items);
+    }
+  }
+
+  // =========================================
+  // INTERACTIONS (after content loads)
+  // =========================================
+  function initInteractions() {
+    initNav();
+    initTenebre();
+    console.log('[AiPhlo] Interactions initialized');
+  }
+
+  // NAV: hover/click dropdown
+  function initNav() {
+    const trigger = document.querySelector('.nav-trigger');
+    const dropdown = document.querySelector('.nav-dropdown');
+    if (!trigger || !dropdown) return;
+
+    let locked = false;
+    let timeout = null;
+
+    trigger.addEventListener('mouseenter', () => {
+      if (locked) return;
+      clearTimeout(timeout);
+      dropdown.classList.add('visible');
+    });
+
+    trigger.addEventListener('mouseleave', () => {
+      if (locked) return;
+      timeout = setTimeout(() => {
+        if (!dropdown.matches(':hover')) dropdown.classList.remove('visible');
+      }, 300);
+    });
+
+    dropdown.addEventListener('mouseleave', () => {
+      if (locked) return;
+      timeout = setTimeout(() => dropdown.classList.remove('visible'), 300);
+    });
+
+    dropdown.addEventListener('mouseenter', () => {
+      if (locked) return;
+      clearTimeout(timeout);
+    });
+
+    trigger.addEventListener('click', (e) => {
+      e.preventDefault();
+      locked = !locked;
+      dropdown.classList.toggle('locked', locked);
+      dropdown.classList.toggle('visible', locked);
+    });
+
+    document.addEventListener('click', (e) => {
+      if (locked && !trigger.contains(e.target) && !dropdown.contains(e.target)) {
+        locked = false;
+        dropdown.classList.remove('locked', 'visible');
+      }
+    });
+  }
+
+  // TENEBRE: toggle + category tabs + slideshow
+  function initTenebre() {
+    const toggle = document.querySelector('.tenebre-toggle');
+    const slideshow = document.querySelector('.tenebre-slideshow');
+    const tabs = document.querySelectorAll('.tenebre-tab');
+    const grid = document.querySelector('[data-slot="images"]');
+    const labelOff = document.querySelector('.toggle-off');
+    const labelOn = document.querySelector('.toggle-on');
+
+    if (!toggle) return;
+
+    let isOn = false;
+    let slideshowInterval = null;
+    let currentSlide = 0;
+    let slideshowImages = [];
+
+    // Get slideshow images from data attribute
+    if (slideshow && slideshow.dataset.slideshowImages) {
+      slideshowImages = JSON.parse(slideshow.dataset.slideshowImages);
+    }
+
+    // Toggle click - expand/collapse slideshow
+    toggle.addEventListener('click', () => {
+      isOn = !isOn;
+      toggle.classList.toggle('active', isOn);
+      slideshow.classList.toggle('expanded', isOn);
+
+      if (labelOff) labelOff.classList.toggle('active', !isOn);
+      if (labelOn) labelOn.classList.toggle('active', isOn);
+
+      if (isOn && slideshowImages.length) {
+        setTimeout(() => startSlideshow(), 1200);
+      } else {
+        stopSlideshow();
+      }
+    });
+
+    function startSlideshow() {
+      const current = slideshow.querySelector('.slide-current');
+      const next = slideshow.querySelector('.slide-next');
+      if (!current || !next || !slideshowImages.length) return;
+
+      current.src = slideshowImages[currentSlide];
+      current.classList.add('visible');
+
+      slideshowInterval = setInterval(() => {
+        const nextIdx = (currentSlide + 1) % slideshowImages.length;
+        next.src = slideshowImages[nextIdx];
+
+        setTimeout(() => next.classList.add('visible'), 50);
+        setTimeout(() => current.classList.remove('visible'), 100);
+
+        setTimeout(() => {
+          current.src = slideshowImages[nextIdx];
+          current.classList.add('visible');
+          next.classList.remove('visible');
+          currentSlide = nextIdx;
+        }, 2200);
+      }, 4000);
+    }
+
+    function stopSlideshow() {
+      if (slideshowInterval) clearInterval(slideshowInterval);
+      const current = slideshow?.querySelector('.slide-current');
+      const next = slideshow?.querySelector('.slide-next');
+      if (current) current.classList.remove('visible');
+      if (next) next.classList.remove('visible');
+      currentSlide = 0;
+    }
+
+    // Category tabs - show gallery images
+    let activeCategory = null;
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        const category = tab.dataset.category;
+        const images = JSON.parse(tab.dataset.images || '[]');
+
+        // Toggle off if same category
+        if (activeCategory === category) {
+          tab.classList.remove('active');
+          activeCategory = null;
+          grid.innerHTML = '';
+          grid.classList.remove('visible');
+          return;
+        }
+
+        // Deactivate others, activate this
+        tabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        activeCategory = category;
+
+        // Populate grid
+        grid.innerHTML = '';
+        images.forEach(img => {
+          const div = document.createElement('div');
+          div.className = 'gallery-item';
+          div.innerHTML = `<img src="${img.src}" alt="${img.alt || ''}">`;
+          grid.appendChild(div);
+        });
+        grid.classList.add('visible');
+
+        // Scroll to grid
+        setTimeout(() => {
+          grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 100);
+      });
+    });
+  }
+
+})();
+</script>
+
+</body>
+</html>

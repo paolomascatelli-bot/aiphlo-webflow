@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-02-05T03:07:23.529Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "captures": {
+    "original": true,
+    "local": true
+  },
+  "files": {
+    "original_footer": "original_home_BOTTOM_footer.png",
+    "original_viewport": "original_home_BOTTOM_BOTTOM_viewport.png",
+    "local_footer": "local_home_BOTTOM_footer.png",
+    "local_viewport": "local_home_BOTTOM_BOTTOM_viewport.png"
+  }
+}

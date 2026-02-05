@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "totalRaw": 2069803,
+    "regular": 8364,
+    "hover": 410,
+    "active": 42,
+    "focus": 165,
+    "before": 139,
+    "after": 124,
+    "keyframes": 81,
+    "mediaQueries": 1158
+  },
+  "relevant": {
+    "regular": 1154,
+    "hover": 58,
+    "active": 9,
+    "before": 15,
+    "after": 5
+  },
+  "patterns": [
+    "pm-nav",
+    "pm-dropdown",
+    "pm-footer",
+    "tenebre",
+    "gallery",
+    "toggle",
+    "slide",
+    "nav-btn",
+    "nav-trigger",
+    "dropdown-arrow"
+  ]
+}

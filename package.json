@@ -1,0 +1,31 @@
+{
+  "name": "aiphlo-webflow-migration",
+  "version": "1.0.0",
+  "description": "Migration scripts for Paolo Mascatelli website from Squarespace to Webflow",
+  "scripts": {
+    "start": "node api/server.js",
+    "server": "node api/server.js",
+    "scrape:all": "node scripts/extract-all.js",
+    "scrape:images": "node scripts/scrape-images.js",
+    "scrape:content": "node scripts/extract-content.js",
+    "scrape:urls": "node scripts/map-urls.js",
+    "scrape:galleries": "node scripts/analyze-galleries.js",
+    "analyze:design": "node scripts/design-analysis.js"
+  },
+  "keywords": [
+    "webflow",
+    "migration",
+    "puppeteer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "puppeteer": "^24.0.0"
+  },
+  "devDependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

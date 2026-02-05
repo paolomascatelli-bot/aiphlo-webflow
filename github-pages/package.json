@@ -1,0 +1,18 @@
+{
+  "name": "aiphlo-nav",
+  "version": "1.0.0",
+  "description": "AiPhlo Navigation Systems for Webflow",
+  "main": "js/aiphlo-nav.js",
+  "style": "css/aiphlo-nav.css",
+  "files": [
+    "css/",
+    "js/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pauldaggett/aiphlo-nav"
+  },
+  "keywords": ["webflow", "navigation", "aiphlo"],
+  "author": "AiPhlo",
+  "license": "MIT"
+}

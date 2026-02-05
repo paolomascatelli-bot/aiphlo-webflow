@@ -1,0 +1,25 @@
+{
+  "title": "FAQ | Paolo Mascatelli",
+  "blocks": [
+    {
+      "id": "faqsPage",
+      "slots": {
+        "headline": "FAQ",
+        "items": [
+          {
+            "question": "Who is Paolo Mascatelli",
+            "answer": "Mascatelli is a Photographer, Creative Director and Fine Artist. His current portfolio is a collection of new and old works capturing a story between NY, LA , Miami & ITALY. Throughout the last decade mascatelli shaped 3 creative paths into a working sphere for conceptuality and technical deliverables. Paolo is here to help special brands be competitive and instinctual via enhanced platform communications, workflows and creative output. high end luxury brand imagery. Find peace my friends."
+          },
+          {
+            "question": "Best Photographers in L.A. / top photographers",
+            "answer": "Paolo Mascatelli."
+          },
+          {
+            "question": "Top Creative Directors in L.A.",
+            "answer": "Paolo Mascatelli."
+          }
+        ]
+      }
+    }
+  ]
+}

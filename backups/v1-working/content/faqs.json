@@ -1,0 +1,81 @@
+{
+  "title": "FAQs",
+  "blocks": [
+    {
+      "id": "nav",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "menu": [
+          {
+            "text": "Home",
+            "url": "/"
+          },
+          {
+            "text": "Projects",
+            "url": "/projects"
+          },
+          {
+            "text": "Photography",
+            "url": "/photography"
+          },
+          {
+            "text": "Social Media",
+            "url": "/socialmedia"
+          },
+          {
+            "text": "FAQs",
+            "url": "/faqs"
+          },
+          {
+            "text": "Contact",
+            "url": "/contact"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "slots": {
+        "headline": "FAQs",
+        "subhead": "Frequently Asked Questions",
+        "body": "Everything you need to know about our services."
+      }
+    },
+    {
+      "id": "faqs",
+      "slots": {
+        "items": [
+          {
+            "question": "What services do you offer?",
+            "answer": "We provide luxury interior design, custom furniture, and professional photography services."
+          },
+          {
+            "question": "What areas do you serve?",
+            "answer": "We operate in Los Angeles, New York City, and Miami, with select projects worldwide."
+          },
+          {
+            "question": "How do I start a project?",
+            "answer": "Contact us through our form or email to schedule an initial consultation."
+          },
+          {
+            "question": "What is your pricing structure?",
+            "answer": "Pricing varies by project scope. We provide detailed quotes after initial consultation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "copyright": "ALL RIGHTS RESERVED",
+        "notice": "NOT FOR PUBLIC USE",
+        "locations": "L.A.  NYC  MIAMI",
+        "contact": {
+          "text": "contact us",
+          "url": "/contact"
+        }
+      }
+    }
+  ]
+}

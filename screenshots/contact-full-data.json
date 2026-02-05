@@ -1,0 +1,1005 @@
+{
+  "url": "https://www.paolomascatelli.com/",
+  "title": "Paolo Mascatelli",
+  "sections": [
+    {
+      "index": 0,
+      "id": "highest-peak",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      section-height--small\n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n       has-background\n    \n    \n    white-bold",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "THIS SPACE IS COMING\n\nProof of concept",
+      "html": "\n  <div class=\"section-border\">\n    <div class=\"section-background\">\n    \n      \n        \n        \n          \n\n\n\n\n\n  <div class=\"section-background-content\" data-controller=\"BackgroundImageFXParallax\" data-controllers-bound=\"BackgroundImageFXParallax\">\n  \n\n\n\n<img alt=\"\" data-image-focal-point=\"0.504496276521006,0.6720840105013126\" crossorigin=\"\" data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png\" data-image-dimensions=\"2499x1405\" data-load=\"false\" elementtiming=\"nbf-background-image-fx\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png\" width=\"2499\" height=\"1405\" sizes=\"(max-width: 799px) 200vw, 100vw\" class=\"background-image-fx\" style=\"display:block;object-position: 50.4496276521006% 67.20840105013126%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png?format=2500w 2500w\" fetchpriority=\"high\" loading=\"eager\" decoding=\"async\" data-loader=\"sqs\">\n\n  <div class=\"section-background-canvas background-fx-canvas\" style=\"overflow: hidden;\"><canvas width=\"1400\" height=\"887\" style=\"display: none; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;\"></canvas><canvas width=\"1400\" height=\"887\" style=\"position: absolute; left: 0px; top: 0px; width: 1400px; height: 887px;\"></canvas></div>\n</div>\n\n\n        \n        <div class=\"section-background-overlay\" style=\"opacity: 0;\"></div>\n      \n    \n    </div>\n  </div>\n  <div class=\"content-wrapper\" style=\"\n      \n        \n      \n    \">\n    <div class=\"content\">\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      <div data-fluid-engine=\"true\"><style>\n\n.fe-68a55e854218b9d5f401ff56 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );\n\n  display: grid;\n  position: relative;\n  grid-area: 1/1/-"
+    },
+    {
+      "index": 1,
+      "id": "tenebregallery",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      section-height--small\n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    black-bold",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "OFF\nON\nSEAT STYLES\nCHANDELIERS\nPATIO & POOL\nKING BED/BATH\nGUEST BED/BATH",
+      "html": "\n  <div class=\"section-border\">\n    <div class=\"section-background\">\n    \n      \n    \n    </div>\n  </div>\n  <div class=\"content-wrapper\" style=\"\n      \n        \n      \n    \">\n    <div class=\"content\">\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      <div data-fluid-engine=\"true\"><style>\n\n.fe-696856dff565413d63adfcb6 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );\n\n  display: grid;\n  position: relative;\n  grid-area: 1/1/-1/-1;\n  grid-template-rows: repeat(16,minmax(24px, auto));\n  grid-template-columns:\n    minmax(var(--grid-gutter), 1fr)\n    repeat(8, minmax(0, var(--cell-max-width)))\n    minmax(var(--grid-gutter), 1fr);\n  row-gap: 11.0px;\n  column-gap: 11.0px;\n  overflow-x: hidden;\n  overflow-x: clip;\n}\n\n@media (min-width: 768px) {\n  .background-width--inset .fe-696856dff565413d63adfcb6 {\n    --inset-padding: calc(var(--sqs-site-gutter) * 2);\n  }\n\n  .fe-696856dff565413d63adfcb6 {\n    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);\n    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );\n    --inset-padding: 0vw;\n\n    --row-height-scaling-factor: 0.0215;\n    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));\n\n    grid-template-rows: repeat(6,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));\n    grid-template-columns:\n      minmax(var(--grid-gutter), 1fr)\n      repeat(24, minmax(0, var(--cell-max-width)))\n      minmax(var(--grid-gutter), 1fr);\n  }\n}\n\n\n  .fe-block-yui_3_17_2_1_1768903079910_2774 {\n    grid-area: 1/2/8/10;\n    z-index: 5;\n\n    @media (max-width: 767px) {\n      \n        \n      \n      \n    }\n  }\n\n  .fe-block-yui_3_17_2_1_1768903079910_2774 .sqs-block {\n    justify-content: flex-start;\n  }\n\n  .fe-block-yui_3_17_2_1_1768903079910_2774 .sqs-block-alignment-wrapper {\n    align-items: flex-start;\n  }\n\n  @media (min-width: 768px) {\n    .fe-block-yui_3_17_2_1_1768903079910_2774 {\n      grid-area: 1/1/2/27;\n      z-index: 5;\n\n      \n        \n      \n\n      \n    }\n\n    .fe-block-yui_3_17_2_1_1768903079910_2774 .sqs-block {\n      justify-content: flex-start;\n    }\n\n    .fe-block-yui_3_17_2_1_1768903079910_2774 .sqs-block-alignment-wrapper {\n      align-items: flex-start;\n    }\n  }\n\n  .fe-block-yui_3_17_2_1_1768907108772_1547 {\n    grid-area: 10/1/17/11;\n    z-index: 6;\n\n    @media (max-width: 767px) {\n      \n        \n      \n      \n    }\n  }\n\n  .fe-block-yui_3_17_2_1_1768907108772_1547 .sqs-block {\n    justify-content: flex-start;\n  }\n\n  .fe-block-yui_3_17_2_1_1768907108772_1547 .sqs-block-alignment-wrapper {\n    align-items: flex-start;\n  }\n\n  @media (min-width: 768px) {\n    .fe-block-yui_3_17_2_1_1768907108772_1547 {\n      grid-area: 4/6/7/22;\n      z-index: 6;\n\n      \n        \n      \n\n      \n    }\n\n    .fe-block-yui_3_17_2_1_1768907108772_1547 .sqs-"
+    },
+    {
+      "index": 2,
+      "id": "kingbedbath",
+      "className": "page-section \n    \n      gallery-section\n      full-bleed-section\n    \n    background-width--full-bleed\n    \n      section-height--medium\n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    white",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "\n  \n    \n    \n      \n    \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        \n          \n\n\n  \n    \n  \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n ",
+      "html": "\n  <div class=\"section-border\">\n    <div class=\"section-background\">\n    \n      \n    \n    </div>\n  </div>\n  <div class=\"content-wrapper\" style=\"\n      \n        \n      \n    \">\n    <div class=\"content\">\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        <div class=\"gallery gallery-section-wrapper\" style=\"min-height: 100px;\">\n          \n\n<div class=\"gallery\" style=\"min-height: 100px;\">\n  \n    <!-- Gallery Grid --><div class=\"gallery-grid gallery-grid--layout-grid\" data-controller=\"GalleryGrid\" data-section-id=\"696ffb28080dd12cb01e7079\" data-animation=\"scale-up\" data-lightbox=\"true\" data-width=\"full-bleed\" data-aspect-ratio=\"square\" data-columns=\"3\" data-gutter=\"9\" data-props=\"{\n&quot;aspectRatio&quot;: &quot;square&quot;,\n&quot;scrollAnimation&quot;: &quot;scale-up&quot;,\n&quot;gutter&quot;: 9,\n&quot;numColumns&quot;: 3,\n&quot;width&quot;: &quot;full-bleed&quot;,\n&quot;lightboxEnabled&quot;: true\n}\" data-show-captions=\"false\" data-test=\"gallery-grid-simple\" data-controllers-bound=\"GalleryGrid\">\n  <div class=\"gallery-grid-wrapper\" style=\"grid-template-columns: repeat(3, 1fr); grid-column-gap: 0.45vw; \n      grid-row-gap: 0.45vw; padding: 0vw 0.45vw; width: auto\">\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=ej4u6s4zufuc57r8zvlwuqdcm5a4g0\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png\" data-image-dimensions=\"2137x2136\" data-image-focal-point=\"0.5,0.5\" alt=\"SnakesCropped.png\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png\" width=\"2137\" height=\"2136\" sizes=\"(max-width:768px)49.79830290262172vw,33.04879837702871vw\" style=\"display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-"
+    },
+    {
+      "index": 3,
+      "id": "696ffb28080dd12cb01e7079",
+      "className": "gallery-grid gallery-grid--layout-grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "\n  \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n      ",
+      "html": "\n  <div class=\"gallery-grid-wrapper\" style=\"grid-template-columns: repeat(3, 1fr); grid-column-gap: 0.45vw; \n      grid-row-gap: 0.45vw; padding: 0vw 0.45vw; width: auto\">\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=ej4u6s4zufuc57r8zvlwuqdcm5a4g0\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png\" data-image-dimensions=\"2137x2136\" data-image-focal-point=\"0.5,0.5\" alt=\"SnakesCropped.png\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png\" width=\"2137\" height=\"2136\" sizes=\"(max-width:768px)49.79830290262172vw,33.04879837702871vw\" style=\"display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n              <span class=\"visually-hidden\">View fullsize</span>\n            </a>\n          \n        \n      </div>\n      \n    </figure>\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=w17fh906r64z7qaceikb7ivqca933d\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/bd165567-e295-423c-b3ca-0cc371dde125/shagbedside1.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/bd165567-e295-423c-b3ca-0cc371dde125/shagbedside1.png\" data-image-dimensions=\"2043x2043\" data-image-focal-point=\"0.49,0.25\" alt=\"shagbedside1.pn"
+    },
+    {
+      "index": 4,
+      "id": "lighting",
+      "className": "page-section \n    \n      gallery-section\n      full-bleed-section\n    \n    \n    \n      \n    \n    \n      \n    \n    \n    \n    \n    \n    white-bold",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "\n  \n    \n    \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        \n          \n\n\n  \n    \n  \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n    ",
+      "html": "\n  <div class=\"section-border\">\n    <div class=\"section-background\">\n    \n    </div>\n  </div>\n  <div class=\"content-wrapper\" style=\"\n      \n        \n      \n    \">\n    <div class=\"content\">\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        <div class=\"gallery gallery-section-wrapper\" style=\"min-height: 100px;\">\n          \n\n<div class=\"gallery\" style=\"min-height: 100px;\">\n  \n    <!-- Gallery Grid --><div class=\"gallery-grid gallery-grid--layout-grid\" data-controller=\"GalleryGrid\" data-section-id=\"69183d7460a70c2365d065d4\" data-animation=\"none\" data-lightbox=\"true\" data-width=\"full-bleed\" data-aspect-ratio=\"standard-vertical\" data-columns=\"4\" data-gutter=\"7\" data-props=\"{\n&quot;aspectRatio&quot;: &quot;standard-vertical&quot;,\n&quot;scrollAnimation&quot;: &quot;none&quot;,\n&quot;gutter&quot;: 7,\n&quot;numColumns&quot;: 4,\n&quot;width&quot;: &quot;full-bleed&quot;,\n&quot;lightboxEnabled&quot;: true\n}\" data-show-captions=\"false\" data-test=\"gallery-grid-simple\" data-controllers-bound=\"GalleryGrid\">\n  <div class=\"gallery-grid-wrapper\" style=\"grid-template-columns: repeat(4, 1fr); grid-column-gap: 0.35vw; \n      grid-row-gap: 0.35vw; padding: 0vw 0.35vw; width: auto\">\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=rk8zld2hvoz9wv9t5yqk0sbrgq2wba\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg\" data-image-dimensions=\"1366x2048\" data-image-focal-point=\"0.5,0.5\" alt=\"A large, ornate chandelier made of gold-colored rectangular metallic pieces, hanging from a chain in a dimly lit room.\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg\" width=\"1366\" height=\"2048\" sizes=\"(max-width:768px)49.84932861328126vw,(max-width:992px)33.116162109375004vw,24.749578857421877vw\" style=\"display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A053"
+    },
+    {
+      "index": 5,
+      "id": "69183d7460a70c2365d065d4",
+      "className": "gallery-grid gallery-grid--layout-grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "\n  \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n      ",
+      "html": "\n  <div class=\"gallery-grid-wrapper\" style=\"grid-template-columns: repeat(4, 1fr); grid-column-gap: 0.35vw; \n      grid-row-gap: 0.35vw; padding: 0vw 0.35vw; width: auto\">\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=rk8zld2hvoz9wv9t5yqk0sbrgq2wba\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg\" data-image-dimensions=\"1366x2048\" data-image-focal-point=\"0.5,0.5\" alt=\"A large, ornate chandelier made of gold-colored rectangular metallic pieces, hanging from a chain in a dimly lit room.\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg\" width=\"1366\" height=\"2048\" sizes=\"(max-width:768px)49.84932861328126vw,(max-width:992px)33.116162109375004vw,24.749578857421877vw\" style=\"display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n              <span class=\"visually-hidden\">View fullsize</span>\n            </a>\n          \n        \n      </div>\n      \n    </figure>\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=5ul1b2vfv9v6ouf6uxtmro3fz4sr87\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/018a5eac-db69-4d4e-85a0-e483a408ed8d/file_00000000bde461f9b3fbf768fd9133af+%281%29.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/0"
+    },
+    {
+      "index": 6,
+      "id": "waterfall",
+      "className": "page-section \n    \n      gallery-section\n      full-bleed-section\n    \n    \n    \n      \n    \n    \n      \n    \n    \n    \n    \n    \n    white-bold",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "\n  \n    \n    \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        \n          \n\n\n  \n    \n  \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n  ",
+      "html": "\n  <div class=\"section-border\">\n    <div class=\"section-background\">\n    \n    </div>\n  </div>\n  <div class=\"content-wrapper\" style=\"\n      \n        \n      \n    \">\n    <div class=\"content\">\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        <div class=\"gallery gallery-section-wrapper\" style=\"min-height: 100px;\">\n          \n\n<div class=\"gallery\" style=\"min-height: 100px;\">\n  \n    <!-- Gallery Grid --><div class=\"gallery-grid gallery-grid--layout-grid\" data-controller=\"GalleryGrid\" data-section-id=\"68a54ff31345e077a3d25524\" data-animation=\"none\" data-lightbox=\"false\" data-width=\"full-bleed\" data-aspect-ratio=\"square\" data-columns=\"5\" data-gutter=\"7\" data-props=\"{\n&quot;aspectRatio&quot;: &quot;square&quot;,\n&quot;scrollAnimation&quot;: &quot;none&quot;,\n&quot;gutter&quot;: 7,\n&quot;numColumns&quot;: 5,\n&quot;width&quot;: &quot;full-bleed&quot;,\n&quot;lightboxEnabled&quot;: false\n}\" data-show-captions=\"false\" data-test=\"gallery-grid-simple\" data-controllers-bound=\"GalleryGrid\">\n  <div class=\"gallery-grid-wrapper\" style=\"grid-template-columns: repeat(5, 1fr); grid-column-gap: 0.35vw; \n      grid-row-gap: 0.35vw; padding: 0vw 0.35vw; width: auto\">\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n          \n            \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png\" data-image-dimensions=\"2528x2022\" data-image-focal-point=\"0.5,0.5\" alt=\"Close-up of purple and green plants with water droplets on the leaves and falling droplets in the background\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png\" width=\"2528\" height=\"2022\" sizes=\"(max-width:576px)62.29357072205737vw,(max-width:768px)41.38318496538081vw,(max-width:992px)30.927992087042533vw,24.654876360039562vw\" style=\"display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f"
+    },
+    {
+      "index": 7,
+      "id": "68a54ff31345e077a3d25524",
+      "className": "gallery-grid gallery-grid--layout-grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "\n  \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n          \n            \n\n\n          \n          \n       ",
+      "html": "\n  <div class=\"gallery-grid-wrapper\" style=\"grid-template-columns: repeat(5, 1fr); grid-column-gap: 0.35vw; \n      grid-row-gap: 0.35vw; padding: 0vw 0.35vw; width: auto\">\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n          \n            \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png\" data-image-dimensions=\"2528x2022\" data-image-focal-point=\"0.5,0.5\" alt=\"Close-up of purple and green plants with water droplets on the leaves and falling droplets in the background\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png\" width=\"2528\" height=\"2022\" sizes=\"(max-width:576px)62.29357072205737vw,(max-width:768px)41.38318496538081vw,(max-width:992px)30.927992087042533vw,24.654876360039562vw\" style=\"display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n          \n          \n        \n      </div>\n      \n    </figure>\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n          \n            \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a486082d-92b4-4df4-9f6d-4fe264cbb3c8/DU9A4326-2.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a486082d-92b4-4df4-9f6d-4fe264cbb3c8/DU9A4326-2.png\" data-image-dimensions=\"3982x2655\" data-image-focal-point=\"0.5,0.5\" alt=\"DU9A4326-2.png\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a486082d-92b4-4df4-9f6d-4fe264cbb3c8/DU9A4326-2.png\" width=\"3982\" height=\"2655\" sizes=\"(max-width:576px)74.72"
+    },
+    {
+      "index": 8,
+      "id": "guest-bedroom",
+      "className": "page-section \n    \n      gallery-section\n      full-bleed-section\n    \n    \n    \n      \n    \n    \n      \n    \n    \n    \n    \n    \n    white-bold",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "\n  \n    \n    \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        \n          \n\n\n  \n    \n  \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n    ",
+      "html": "\n  <div class=\"section-border\">\n    <div class=\"section-background\">\n    \n    </div>\n  </div>\n  <div class=\"content-wrapper\" style=\"\n      \n        \n      \n    \">\n    <div class=\"content\">\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        <div class=\"gallery gallery-section-wrapper\" style=\"min-height: 100px;\">\n          \n\n<div class=\"gallery\" style=\"min-height: 100px;\">\n  \n    <!-- Gallery Grid --><div class=\"gallery-grid gallery-grid--layout-grid\" data-controller=\"GalleryGrid\" data-section-id=\"69187e75641ed413d6b54249\" data-animation=\"none\" data-lightbox=\"true\" data-width=\"full-bleed\" data-aspect-ratio=\"four-three\" data-columns=\"4\" data-gutter=\"7\" data-props=\"{\n&quot;aspectRatio&quot;: &quot;four-three&quot;,\n&quot;scrollAnimation&quot;: &quot;none&quot;,\n&quot;gutter&quot;: 7,\n&quot;numColumns&quot;: 4,\n&quot;width&quot;: &quot;full-bleed&quot;,\n&quot;lightboxEnabled&quot;: true\n}\" data-show-captions=\"false\" data-test=\"gallery-grid-simple\" data-controllers-bound=\"GalleryGrid\">\n  <div class=\"gallery-grid-wrapper\" style=\"grid-template-columns: repeat(4, 1fr); grid-column-gap: 0.35vw; \n      grid-row-gap: 0.35vw; padding: 0vw 0.35vw; width: auto\">\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=rfo4guerksov4iwy6x4swxnqgmtkgn-jyxpb\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg\" data-image-dimensions=\"1440x960\" data-image-focal-point=\"0.5,0.5\" alt=\"A woman with platinum blonde hair and makeup lying on a plush green cushion, wearing a richly embroidered floral jacket with fur trim.\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg\" width=\"1440\" height=\"960\" sizes=\"(max-width:768px)56.05312500000001vw,(max-width:992px)37.237500000000004vw,27.829687500000002vw\" style=\"display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0"
+    },
+    {
+      "index": 9,
+      "id": "69187e75641ed413d6b54249",
+      "className": "gallery-grid gallery-grid--layout-grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "\n  \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n      ",
+      "html": "\n  <div class=\"gallery-grid-wrapper\" style=\"grid-template-columns: repeat(4, 1fr); grid-column-gap: 0.35vw; \n      grid-row-gap: 0.35vw; padding: 0vw 0.35vw; width: auto\">\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=rfo4guerksov4iwy6x4swxnqgmtkgn-jyxpb\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg\" data-image-dimensions=\"1440x960\" data-image-focal-point=\"0.5,0.5\" alt=\"A woman with platinum blonde hair and makeup lying on a plush green cushion, wearing a richly embroidered floral jacket with fur trim.\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg\" width=\"1440\" height=\"960\" sizes=\"(max-width:768px)56.05312500000001vw,(max-width:992px)37.237500000000004vw,27.829687500000002vw\" style=\"display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n              <span class=\"visually-hidden\">View fullsize</span>\n            </a>\n          \n        \n      </div>\n      \n    </figure>\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=gg40g2nsr7yn2k9srwrn5v7b1y5npa\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-"
+    },
+    {
+      "index": 10,
+      "id": "seating",
+      "className": "page-section \n    \n      gallery-section\n      full-bleed-section\n    \n    \n    \n      \n    \n    \n      \n    \n    \n    \n    \n    \n    white-bold",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "\n  \n    \n    \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        \n          \n\n\n  \n    \n  \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n    ",
+      "html": "\n  <div class=\"section-border\">\n    <div class=\"section-background\">\n    \n    </div>\n  </div>\n  <div class=\"content-wrapper\" style=\"\n      \n        \n      \n    \">\n    <div class=\"content\">\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        <div class=\"gallery gallery-section-wrapper\" style=\"min-height: 100px;\">\n          \n\n<div class=\"gallery\" style=\"min-height: 100px;\">\n  \n    <!-- Gallery Grid --><div class=\"gallery-grid gallery-grid--layout-grid\" data-controller=\"GalleryGrid\" data-section-id=\"69187b2f730f0d69f2dbd405\" data-animation=\"none\" data-lightbox=\"true\" data-width=\"full-bleed\" data-aspect-ratio=\"square\" data-columns=\"4\" data-gutter=\"7\" data-props=\"{\n&quot;aspectRatio&quot;: &quot;square&quot;,\n&quot;scrollAnimation&quot;: &quot;none&quot;,\n&quot;gutter&quot;: 7,\n&quot;numColumns&quot;: 4,\n&quot;width&quot;: &quot;full-bleed&quot;,\n&quot;lightboxEnabled&quot;: true\n}\" data-show-captions=\"false\" data-test=\"gallery-grid-simple\" data-controllers-bound=\"GalleryGrid\">\n  <div class=\"gallery-grid-wrapper\" style=\"grid-template-columns: repeat(4, 1fr); grid-column-gap: 0.35vw; \n      grid-row-gap: 0.35vw; padding: 0vw 0.35vw; width: auto\">\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=msljeiye3b10mwdcx3210uok2as8up\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png\" data-image-dimensions=\"2538x1693\" data-image-focal-point=\"0.5,0.5\" alt=\"DU9A2089.png\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png\" width=\"2538\" height=\"1693\" sizes=\"(max-width:768px)74.69335499113998vw,(max-width:992px)49.62067336089781vw,37.084332545776725vw\" style=\"display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089."
+    },
+    {
+      "index": 11,
+      "id": "69187b2f730f0d69f2dbd405",
+      "className": "gallery-grid gallery-grid--layout-grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "innerText": "\n  \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n          \n        \n      \n      \n    \n    \n    \n      \n        \n          \n            \n              \n\n\n              View fullsize\n            \n      ",
+      "html": "\n  <div class=\"gallery-grid-wrapper\" style=\"grid-template-columns: repeat(4, 1fr); grid-column-gap: 0.35vw; \n      grid-row-gap: 0.35vw; padding: 0vw 0.35vw; width: auto\">\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=msljeiye3b10mwdcx3210uok2as8up\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png\" data-image-dimensions=\"2538x1693\" data-image-focal-point=\"0.5,0.5\" alt=\"DU9A2089.png\" data-load=\"false\" src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png\" width=\"2538\" height=\"1693\" sizes=\"(max-width:768px)74.69335499113998vw,(max-width:992px)49.62067336089781vw,37.084332545776725vw\" style=\"display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%\" srcset=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n              <span class=\"visually-hidden\">View fullsize</span>\n            </a>\n          \n        \n      </div>\n      \n    </figure>\n    \n    <figure class=\"gallery-grid-item\" data-loaded=\"true\">\n      <div class=\"gallery-grid-item-wrapper\">\n        \n          \n            <a href=\"?itemId=lkacczjg06oy483co1t3oqltfbt55z\" class=\"gallery-grid-lightbox-link\" data-test=\"gallery-lightbox-link\">\n              \n<img data-src=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/3bb53f54-efcf-4956-a867-0fb9c6bc24ef/DU9A2083-2.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/3bb53f54-efcf-4956-a867-0fb9c6bc24ef/DU9A2083-2.jpg\" data-image-dimensions=\"2048x2048\" data-image-focal-point=\"0.5,0.5\" alt=\"Black leather chair with four wooden l"
+    }
+  ],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "THIS SPACE IS COMING",
+      "className": ""
+    }
+  ],
+  "paragraphs": [
+    {
+      "text": "Proof of concept",
+      "className": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png",
+      "alt": "",
+      "className": "background-image-fx",
+      "width": 1400,
+      "height": 786
+    },
+    {
+      "src": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/697060ea7b39843e1ecc2320/1768972523086/TENEBRE-WHITE.png",
+      "alt": "Tenebre",
+      "className": "",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "src": "",
+      "alt": "Tenebre Collection",
+      "className": "tenebre-slide-layer",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "",
+      "alt": "Tenebre Collection",
+      "className": "tenebre-slide-layer",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/697060ea7b39843e1ecc2320/1768972523086/TENEBRE-WHITE.png",
+      "alt": "Tenebre",
+      "className": "",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d27f8888-01ea-40c4-8f81-52070f89fe3c/SnakesCropped.png",
+      "alt": "SnakesCropped.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/bd165567-e295-423c-b3ca-0cc371dde125/shagbedside1.png",
+      "alt": "shagbedside1.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c281a47d-82d2-4ca7-9935-6e64238b737f/DU9A7439.jpg",
+      "alt": "DU9A7439.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b4129fc7-3080-4bdc-bcac-c60d41af1a00/DU9A7383.jpg",
+      "alt": "DU9A7383.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a0c0ca31-e8df-4fa3-b2f1-330fa1815836/bathbronze.jpg",
+      "alt": "bathbronze.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/15d7bf53-15cf-4f58-8581-ac65532b3f55/DU9A4760.jpg",
+      "alt": "DU9A4760.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1763210110407-JV8RT00V5Q85C2HRX2E9/DU9A4790.jpg",
+      "alt": "DU9A4790.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6c5f9fd-406d-45a8-888d-355b0d4e8adb/DU9A4794.png",
+      "alt": "DU9A4794.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d15c2806-d254-4945-87fd-5ff57fc62f3c/RUGCLEAN.png",
+      "alt": "RUGCLEAN.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d4c44de0-5d3e-4529-978b-788f68839141/DU9A4764.png",
+      "alt": "DU9A4764.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/ae21bb24-f939-4685-9c64-b6f016f067ec/DU9A4773.png",
+      "alt": "DU9A4773.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d62fa7e4-34f7-40a1-bc2f-79a24509f795/DU9A4788.png",
+      "alt": "DU9A4788.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/847e2968-efbd-4c9e-b550-4ac4307eca65/DU9A3975.png",
+      "alt": "DU9A3975.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a79268fd-3820-4eee-b925-6d5b47fe8a13/handle3.png",
+      "alt": "handle3.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/af4d483a-e0ca-423c-afe7-781a2b965c17/saunalounge.png",
+      "alt": "saunalounge.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/6f5d2543-802b-4795-ba32-61f93dd182ac/bedr3.png",
+      "alt": "bedr3.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/158c8e87-8266-4e4a-b872-e7fe58f0d3fd/up.png",
+      "alt": "up.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/262aed9e-dde9-406f-b770-29faaa424cea/bogshoer.png",
+      "alt": "bogshoer.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg",
+      "alt": "A large, ornate chandelier made of gold-colored rectangular metallic pieces, hanging from a chain in a dimly lit room.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/018a5eac-db69-4d4e-85a0-e483a408ed8d/file_00000000bde461f9b3fbf768fd9133af+%281%29.jpg",
+      "alt": "file_00000000bde461f9b3fbf768fd9133af (1).jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/791967dd-25a4-482a-865a-9b35fb204693/DU9A0654.png",
+      "alt": "A large chandelier made of stacked green glass pieces hangs from a metallic ceiling.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/56082020-9bc8-48d2-8be9-744ffcfb0158/DU9A3129.png",
+      "alt": "A dark hallway with an elegant green chandelier hanging from the ceiling.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1763202709356-3ADQH2X0F4PH7J12B1UE/DU9A0799.png",
+      "alt": "DU9A0799.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/bf226373-c821-4e55-b358-b33ff3179792/DU9A3033-Edit.jpg",
+      "alt": "A dark room with wooden walls, a gold circular chandelier hanging from the ceiling, a round gold rug on the floor, and a large black-framed mirror or window on the back wall.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d76918a4-a93f-403a-a906-3a20e6dad3df/0FDBA21A-1FCC-46B0-AB8D-FE8E10D225D8.jpg",
+      "alt": "A large, ornate chandelier with multiple tiers of glass or crystal elements hanging from a ceiling with a dark, textured surface.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a47227ee-9fc4-4ca1-86fa-3e0f466e8f41/DU9A7439.jpg",
+      "alt": "Luxurious bedroom with a large bed on a furry rug, dark walls, floral artwork, a gold chandelier on the ceiling, a fan on a tripod stand, and a window with curtains.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a69f9fea-eb9e-4cec-93a5-c0e1fb6f1fb3/DU9A4286.png",
+      "alt": "Close-up of purple and green plants with water droplets on the leaves and falling droplets in the background",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a486082d-92b4-4df4-9f6d-4fe264cbb3c8/DU9A4326-2.png",
+      "alt": "DU9A4326-2.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/0e485171-8347-41d2-957e-0768b37c6671/umbrella.png",
+      "alt": "An outdoor seating area with modern chairs and a patio umbrella, behind a green wall with succulents and hanging plants.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1763189553229-KXRGOBTKFO6IE39F5L9O/DU9A4187.png",
+      "alt": "DU9A4187.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/ba5dc635-da1e-4855-92a3-3c08a335e795/planterout23.png",
+      "alt": "planterout23.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/6a598afb-fce4-485c-a35f-6ea0e40433e9/outdoorlifestyle.png",
+      "alt": "Outdoor patio area with a glass dining table, six chairs with cushions, and two small side tables, surrounded by greenery and a pool in the background.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1bd7061d-3523-4b27-a15c-40d95818ca62/processed_DU9A1056.jpg",
+      "alt": "processed_DU9A1056.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/321f4dbc-1c1a-4062-abe2-11ede435cb11/processed_DU9A1060.jpg",
+      "alt": "processed_DU9A1060.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/9cf1b161-a85c-4f7b-ac94-6737606fde65/processed_DU9A1044+%281%29.jpg",
+      "alt": "processed_DU9A1044 (1).jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/ff5f811b-7563-4492-8744-4dbe0b954817/processed_DU9A1011.jpg",
+      "alt": "processed_DU9A1011.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/0024ffc5-5536-4ebf-a2eb-b9f60019aaf3/DU9A3832.jpg",
+      "alt": "DU9A3832.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c96e2c4a-dc61-43af-8e21-f9d7ada76fae/headshothottub.png",
+      "alt": "headshothottub.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/9bb74807-d998-42f5-91a1-33eddd9e685b/DU9A3804.jpg",
+      "alt": "DU9A3804.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/38effd9f-9a89-4893-a018-cd5ef526feef/poolswingSquare.png",
+      "alt": "poolswingSquare.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/118e0f7d-84db-4b9d-98be-7078bb5e839a/swingsquareside.png",
+      "alt": "swingsquareside.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b632a69d-41b7-4bb9-a0e0-95c03362e4e5/11682343-C91C-4BB5-9552-905E587E677D.jpg",
+      "alt": "A woman with platinum blonde hair and makeup lying on a plush green cushion, wearing a richly embroidered floral jacket with fur trim.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/385e3f19-3275-4246-916e-bad08660b5c4/floorbed.png",
+      "alt": "A bedroom with a bed placed under a sloped ceiling, featuring dark wooden walls on either side and a green marble-textured wall behind the headboard. The bed has light-colored bedding, pillows, and a fluffy beige rug at the foot, with a window above ",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1232d80f-ff73-439e-9016-b881bf7e5416/DU9A2621-Edit.jpg",
+      "alt": "DU9A2621-Edit.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/f138c2c6-1276-4f5c-8855-510021240165/DU9A5796.png",
+      "alt": "A bedroom with a sloped ceiling, a large bed with beige bedding and pillows, a small bedside table, a window with natural light, and a plush area rug on the floor.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/f80a26b5-c10e-4f40-ac1a-7d6eebcad5f8/2bedside.png",
+      "alt": "A cozy bedroom with a bed featuring dark brown and white pillows, a furry blanket, large windows allowing natural light, and a sloped ceiling with marble and wooden paneling.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/3ee95d36-2221-4c43-a9cf-18d38493ba5e/DU9A5849.png",
+      "alt": "Close-up of a fluffy, cream-colored sheep's wool with a background featuring peeled pineapple slices.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/297621f7-d638-482e-a96c-f9744db1f0e4/SideTable%3Abedroom.png",
+      "alt": "A vintage wooden bedside table with a single drawer, set against a marbled wall with green and brown veins.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/0a2fe2cf-dba3-43a6-8cd7-9c21a272c578/sideside.png",
+      "alt": "sideside.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png",
+      "alt": "DU9A2089.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/3bb53f54-efcf-4956-a867-0fb9c6bc24ef/DU9A2083-2.jpg",
+      "alt": "Black leather chair with four wooden legs isolated on white background.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/eaee5397-0412-47cd-8d04-c0cd6d7be0a3/DU9A2074.jpg",
+      "alt": "Black leather armchair with wooden legs, featuring a curved backrest and armrests with decorative stitching details.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/f1c83caa-efd3-48f0-89f9-55ecf27be046/DU9A2076.jpg",
+      "alt": "Black leather chair with four legs, view from back, isolated on white background.",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/6d1430f3-a254-4374-843d-bd7610d3a2c5/DU9A1989.jpg",
+      "alt": "DU9A1989.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/0027ecc3-576a-4c52-88d0-8a0f9907de6a/DU9A1815.jpg",
+      "alt": "DU9A1815.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/75c6c0ba-d32f-4e71-9432-ca5a152ab5b2/DU9A6857.jpg",
+      "alt": "DU9A6857.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/3e97f8e6-42c5-4bf7-bff9-213ec0cc5892/DU9A2817.jpg",
+      "alt": "DU9A2817.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/973b4e6a-b83c-462d-b0d4-468a9313b109/DU9A2120.png",
+      "alt": "DU9A2120.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/71f0ba41-e17e-427d-908e-94a5f4fa3ea8/GOLDCHAIRWED2-08.png",
+      "alt": "GOLDCHAIRWED2-08.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/128f4b62-9368-4210-9b77-c4282f8780b4/DU9A2106-Edit.jpg",
+      "alt": "DU9A2106-Edit.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/5729c342-c3ca-44d9-944e-1e981ab45506/SCALECHAIR.png",
+      "alt": "SCALECHAIR.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/6db5ca87-91e9-45c2-bf2d-2fe100865499/DU9A2178.jpg",
+      "alt": "DU9A2178.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/ac0cce55-6e28-4bc0-9569-fd3040fa0c13/DU9A2143.jpg",
+      "alt": "DU9A2143.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/77d8fd70-7f72-44c1-9682-2be9f2162e26/DU9A2155.jpg",
+      "alt": "DU9A2155.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/cec1bb8d-b7d2-4782-b047-128957c95b21/DU9A2159.jpg",
+      "alt": "DU9A2159.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b20ef080-b029-4739-9905-fb083726dd20/DU9A6481.jpg",
+      "alt": "DU9A6481.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/94350a19-6e5e-4d13-b66f-b4ef98edf8b1/DU9A6537-Edit.png",
+      "alt": "DU9A6537-Edit.png",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/896d0808-3547-48ab-8164-a2849c863590/DU9A6562.jpg",
+      "alt": "DU9A6562.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/0e832822-c5a6-4753-a307-385dc95396fd/DU9A6534.jpg",
+      "alt": "DU9A6534.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1f37f7b4-a9ac-40d5-8307-1f46342762d4/DU9A6799.jpg",
+      "alt": "DU9A6799.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/2021c416-b7b1-4f8e-82c8-24a65aa4fed9/DU9A6808.jpg",
+      "alt": "DU9A6808.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/067b0d2b-f1d3-46a6-964e-8d7b82db8330/image.jpg",
+      "alt": "image.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/ca17d0f7-402a-4421-aa51-a7e59f8f3caf/DU9A6674-Edit.jpg",
+      "alt": "DU9A6674-Edit.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/0eab6951-d301-422f-907c-a912f5c9427b/DU9A6736.jpg",
+      "alt": "DU9A6736.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/7cf44ecb-59a3-4ad2-bad9-fef924d3ea18/DU9A6782.jpg",
+      "alt": "DU9A6782.jpg",
+      "className": "",
+      "width": 0,
+      "height": 0
+    }
+  ],
+  "links": [
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=ej4u6s4zufuc57r8zvlwuqdcm5a4g0",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=w17fh906r64z7qaceikb7ivqca933d",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=amrmyedm7ot0707r32trwb551qfdph",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=ufpcl6k7b89l5za2zio418q0oeiwph",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=cjw4zt6milou2c0o0a7oh6b7r17rbr",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=9shys5roq3cen1s7l4d9vamwiyfjnj",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=dq8tualiwp01i52wykwz8ob41ztc7l",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=fgnxw1cydn4ud1mvyat71z77e3px7d",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=xx1dhjh57766wmskabqfa8s9hmv721",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=jg8iaupc21dmi6qvwev8rfymn654ec",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=wa8sxaoxyx3ycusaebzgh8zc2rqkba",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=v9gdlgyoy5f56lrlz851pkqfef7zhb",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=yba2ynuuqxi8x7q1vtok05j3y768lm",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=w9309xbiv4mpakzq8rypogxohimqed",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=iv3v52luog0xjkq728d4dft2usha5a",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=poa54ww131e5axw86xzy2r6n2rigax",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=l3vx3ehv3dqo6ueyuw6xjgsexy5fts",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=jgpk4fkbnbyv3vagcaqng916k0rznm",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=rk8zld2hvoz9wv9t5yqk0sbrgq2wba",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=5ul1b2vfv9v6ouf6uxtmro3fz4sr87",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=dleijvjrpixmxoz37gtq7jhl7ry2de-44z34",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=d58alvpl0x159rttftx61rxczsffuu-ysx3s",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=3p79qf2hu1mtqndoaz5tazap3zp6yw",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=z0z0wq1ublnayilxptko5t15z2m5zj",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=n1ed2gfjssdjmcprlhdjyjqit543tl",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=hvheot84n2s4rhjtc2xm748jck1sf5",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=rfo4guerksov4iwy6x4swxnqgmtkgn-jyxpb",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=gg40g2nsr7yn2k9srwrn5v7b1y5npa",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=qycpxru76mifwebkl2vanv2ph6xh27",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=c31b15v64c9rznifqlap9g0th7582i",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=nzuy28ib3udjgi17npwhkkdhms9tr0",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=whuknxeisf2ttp450ps1gcxc0on2k6",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=k4smubmwzlgf7qibyge4besqjq234q",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=dqayes2es4l1my82nvhnjd9q4z11qq",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=msljeiye3b10mwdcx3210uok2as8up",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=lkacczjg06oy483co1t3oqltfbt55z",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=j2za16lzuvkfbqj8l65ws76b7eqyuh",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=hdeqdjk8x07o0pxa03tsk77aldcvs7",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=a3n021p43mj1qkb728yv5di2672ibm",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=0v4my314m09f6u5e242jhsrveot8hm",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=enek9syj2ksi7ofbksi47h1rwcm50o",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=usf2y85488p9zfokz3w5h1hqufur4x",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=lkd8p9gmkr8w5zafecbfyevygk1auq",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=cpaz83umruqmg4tmnktvlx57qe84m5",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=gcjkugetggzzt4451feo35kgg2al2z",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=chhq55l8c4bwfpd6oyfxrv942gwu96",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=b17mrwu3ziao00ukuz3ucv9mdxgt95",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=pvq9o3glv77wmmciuaa0iphfy1wz6b",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=sgfygr0mig2jbjzrp3gwzf4p20dwbf",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=zy9b3txkedo01i7c7qy22bj07wiftj",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=9k42hi43ozswluti0mfazjq5l5je4c",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=53mjjzc8ndcjobpb0sxahi4r37p1ip",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=ovhkqf8gechkzdq66o2yh10jb8dir2",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=3quim5wrmqgmglek0zouy6stob49nt",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=9rtcvp5iax5i9cmiu2q88e5xwc7dn0",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=gsoexy6j64kmjnaj6vm8pwumom51z7",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=tb6qf13or4m32652r67p80m948fzor",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=7ezlekzth4hhmfv80m3m1bt1mvegk6",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=2rrtz419c2ogk6urqrq9988q3xci3i",
+      "className": "gallery-grid-lightbox-link"
+    },
+    {
+      "text": "View fullsize",
+      "href": "https://www.paolomascatelli.com/?itemId=k5fbbvy2kw5i5j04kd11dpri7xdlye",
+      "className": "gallery-grid-lightbox-link"
+    }
+  ],
+  "forms": [],
+  "embeds": [
+    {
+      "tag": "DIV",
+      "className": "sqs-block website-component-block sqs-block-website-component sqs-block-code code-block",
+      "html": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-code code-block\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/bf7eb8e6-a47e-49e3-8682-2da1080431c6_199/website.components.code.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/bf7eb8e6-a47e-49e3-8682-2da1080431c6_199/website.components.code.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.code\" data-sqsp-block=\"code\" id=\"block-yui_3_17_2_1_1768903079910_2774\"><div class=\"sqs-block-content\"><div class=\"sqs-code-container\" data-localized=\"{&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\">\n  \n    <!-- TENEBRE HEADER - MASKED EXPANSION -->\n<style>\n/* Logo Container */\n#tenebre-header-logo {\n  position: relative;\n  width: 100%;\n  padding: 40px 0 20px 0;\n  background: #000000;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  z-index: 10;\n}\n\n#tenebre-header-logo img {\n  width: 160px;\n  height: auto;\n  opacity: 0.95;\n  filter: drop-shadow(0 4px 12px rgba(255, 255, 255, 0.15));\n  transition: all 0.5s ease;\n}\n\n#tenebre-header-logo img:hover {\n  opacity: 1;\n  filter: drop-shadow(0 6px 16px rgba(255, 255, 255, 0.25));\n  transform: translateY(-2px);\n}\n\n/* Slideshow Container - EASED EXPANSION */\n#tenebre-slideshow-container {\n  position: relative;\n  width: 100%;\n  height: 0;\n  overflow: hidden;\n  background: #000000;\n  transition: height 1.2s cubic-bezier(0.4, 0, 0.2, 1);\n}\n\n#tenebre-slideshow-container.expanded {\n  height: calc(85vh - 8px);\n  min-height: 500px;\n}\n\n/* Slideshow Canvas */\n#tenebre-slideshow-canvas {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  background: #000000;\n}\n\n/* Black Overlay */\n#tenebre-black-overlay {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background: #000000;\n  opacity: 0;\n  pointer-events: none;\n  transition: opacity 1s ease;\n  z-index: 2;\n}\n\n#tenebre-black-overlay.tenebre-fading {\n  opacity: 1;\n}\n\n/* Image Layers - SLOWER FADE */\n.tenebre-slide-layer {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  max-height: 100%;\n  max-width: 100%;\n  height:"
+    },
+    {
+      "tag": "DIV",
+      "className": "sqs-block website-component-block sqs-block-website-component sqs-block-code code-block",
+      "html": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-code code-block\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/bf7eb8e6-a47e-49e3-8682-2da1080431c6_199/website.components.code.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/bf7eb8e6-a47e-49e3-8682-2da1080431c6_199/website.components.code.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.code\" data-sqsp-block=\"code\" id=\"block-yui_3_17_2_1_1768907108772_1547\"><div class=\"sqs-block-content\"><div class=\"sqs-code-container\" data-localized=\"{&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\">\n  \n    <!-- TENEBRE GALLERY NAVIGATION - NUCLEAR CONTAINMENT -->\n<style>\n/* FORCE Squarespace code block to behave */\n.sqs-block-code {\n  margin: 0 !important;\n  padding: 0 !important;\n  min-height: auto !important;\n  height: auto !important;\n}\n\n.sqs-block-content {\n  padding: 0 !important;\n  margin: 0 !important;\n}\n\n/* Wrapper - FORCE collapse and contain */\n#tenebre-gallery-nav-wrapper {\n  position: relative !important;\n  margin: 0 !important;\n  padding: 0 !important;\n  background: transparent;\n  overflow: hidden !important;\n  min-height: auto !important;\n  height: auto !important;\n  display: block !important;\n}\n\n/* Navigation Container - FORCE inside wrapper */\n#tenebre-gallery-nav {\n  position: relative !important;\n  top: 0 !important;\n  left: 0 !important;\n  right: 0 !important;\n  width: 100%;\n  max-width: 1200px;\n  margin: 0 auto !important;\n  padding: 25px 20px !important;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 60px;\n  flex-wrap: wrap;\n  z-index: 50;\n  transform: none !important;\n}\n\n/* Gallery Button */\n.tenebre-nav-btn {\n  position: relative;\n  background: transparent;\n  border: none;\n  cursor: pointer;\n  padding: 16px 24px;\n  transition: all 0.5s ease;\n  opacity: 0;\n  animation: tenebreButtonFadeIn 0.8s ease forwards;\n}\n\n.tenebre-nav-btn:nth-child(1) { animation-delay: 0.1s; }\n.tenebre-nav-btn:nth-child(2) { animation-delay: 0.2s; }\n.tenebre-nav-btn:nth-child(3) { animation-delay: 0.3s; }\n.tenebre-nav-btn:nth-child(4) { animation-delay: 0.4s; }\n.tenebre-nav-btn:nth-child(5) { animation-delay: 0.5s; }\n\n@keyframes tenebreButt"
+    }
+  ],
+  "fullText": "THIS SPACE IS COMING\n\nProof of concept\n\nOFF\nON\nSEAT STYLES\nCHANDELIERS\nPATIO & POOL\nKING BED/BATH\nGUEST BED/BATH"
+}

@@ -1,0 +1,165 @@
+{
+  "layouts": {
+    "seating": {
+      "sectionId": "seating",
+      "columns": 3,
+      "aspect": "square",
+      "aspectRatio": "1:1",
+      "paddingBottom": "100%",
+      "imageCount": 26
+    },
+    "lighting": {
+      "sectionId": "lighting",
+      "columns": 3,
+      "aspect": "standard-vertical",
+      "aspectRatio": "2:3",
+      "paddingBottom": "150%",
+      "imageCount": 8
+    },
+    "waterfall": {
+      "sectionId": "waterfall",
+      "columns": 4,
+      "aspect": "square",
+      "aspectRatio": "1:1",
+      "paddingBottom": "100%",
+      "imageCount": 15
+    },
+    "kingbedbath": {
+      "sectionId": "kingbedbath",
+      "columns": 3,
+      "aspect": "square",
+      "aspectRatio": "1:1",
+      "paddingBottom": "100%",
+      "imageCount": 18
+    },
+    "guest-bedroom": {
+      "sectionId": "guest-bedroom",
+      "columns": 3,
+      "aspect": "four-three",
+      "aspectRatio": "4:3",
+      "paddingBottom": "75%",
+      "imageCount": 8
+    }
+  },
+  "images": {
+    "seating": [
+      "/assets/images/img_52.png",
+      "/assets/images/img_53.jpg",
+      "/assets/images/img_54.jpg",
+      "/assets/images/img_55.jpg",
+      "/assets/images/img_56.jpg",
+      "/assets/images/img_57.jpg",
+      "/assets/images/img_58.jpg",
+      "/assets/images/img_59.jpg",
+      "/assets/images/img_60.png",
+      "/assets/images/img_61.png",
+      "/assets/images/img_62.jpg",
+      "/assets/images/img_63.png",
+      "/assets/images/img_64.jpg",
+      "/assets/images/img_65.jpg",
+      "/assets/images/img_66.jpg",
+      "/assets/images/img_67.jpg",
+      "/assets/images/img_68.jpg",
+      "/assets/images/img_69.png",
+      "/assets/images/img_70.jpg",
+      "/assets/images/img_71.jpg",
+      "/assets/images/img_72.jpg",
+      "/assets/images/img_73.jpg",
+      "/assets/images/img_74.jpg",
+      "/assets/images/img_75.jpg",
+      "/assets/images/img_76.jpg",
+      "/assets/images/img_77.jpg"
+    ],
+    "lighting": [
+      "/assets/images/img_21.jpg",
+      "/assets/images/img_22.jpg",
+      "/assets/images/img_23.png",
+      "/assets/images/img_24.png",
+      "/assets/images/img_25.png",
+      "/assets/images/img_26.jpg",
+      "/assets/images/img_27.jpg",
+      "/assets/images/img_28.jpg"
+    ],
+    "waterfall": [
+      "/assets/images/img_29.png",
+      "/assets/images/img_30.png",
+      "/assets/images/img_31.png",
+      "/assets/images/img_32.png",
+      "/assets/images/img_33.png",
+      "/assets/images/img_34.png",
+      "/assets/images/img_35.jpg",
+      "/assets/images/img_36.jpg",
+      "/assets/images/img_37.jpg",
+      "/assets/images/img_38.jpg",
+      "/assets/images/img_39.jpg",
+      "/assets/images/img_40.png",
+      "/assets/images/img_41.jpg",
+      "/assets/images/img_42.png",
+      "/assets/images/img_43.png"
+    ],
+    "kingbedbath": [
+      "/assets/images/img_3.png",
+      "/assets/images/img_4.png",
+      "/assets/images/img_5.jpg",
+      "/assets/images/img_6.jpg",
+      "/assets/images/img_7.jpg",
+      "/assets/images/img_8.jpg",
+      "/assets/images/img_9.jpg",
+      "/assets/images/img_10.png",
+      "/assets/images/img_11.png",
+      "/assets/images/img_12.png",
+      "/assets/images/img_13.png",
+      "/assets/images/img_14.png",
+      "/assets/images/img_15.png",
+      "/assets/images/img_16.png",
+      "/assets/images/img_17.png",
+      "/assets/images/img_18.png",
+      "/assets/images/img_19.png",
+      "/assets/images/img_20.png"
+    ],
+    "guest-bedroom": [
+      "/assets/images/img_44.jpg",
+      "/assets/images/img_45.png",
+      "/assets/images/img_46.jpg",
+      "/assets/images/img_47.png",
+      "/assets/images/img_48.png",
+      "/assets/images/img_49.png",
+      "/assets/images/img_50.png",
+      "/assets/images/img_51.png"
+    ]
+  },
+  "aspectRatios": {
+    "square": {
+      "ratio": "1:1",
+      "padding": "100%"
+    },
+    "standard-vertical": {
+      "ratio": "2:3",
+      "padding": "150%"
+    },
+    "standard-horizontal": {
+      "ratio": "3:2",
+      "padding": "66.67%"
+    },
+    "four-three": {
+      "ratio": "4:3",
+      "padding": "75%"
+    },
+    "three-two": {
+      "ratio": "3:2",
+      "padding": "66.67%"
+    },
+    "sixteen-nine": {
+      "ratio": "16:9",
+      "padding": "56.25%"
+    },
+    "two-three": {
+      "ratio": "2:3",
+      "padding": "150%"
+    },
+    "nine-sixteen": {
+      "ratio": "9:16",
+      "padding": "177.78%"
+    }
+  }
+}

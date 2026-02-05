@@ -1,0 +1,36 @@
+/*
+ * Design Tokens extracted from: https://www.paolomascatelli.com/contact
+ * Generated: 2026-02-05T04:48:15.998Z
+ *
+ * Copy these variables to your stylesheet for consistent styling.
+ */
+
+:root {
+  /* Primary Accent Color */
+  --color-primary: #00d1ff;
+  --color-primary-rgb: rgb(0, 209, 255);
+
+  /* Cyan/Teal Colors */
+  --color-cyan-1: #00d1ff;
+  --color-cyan-2: #00d1ff;
+  --color-cyan-3: #00d1ff;
+
+  /* Accent Colors */
+  --color-accent-1: #999999; /* gray */
+  --color-accent-2: #666666; /* gray */
+  --color-accent-3: #c02428; /* red */
+  --color-accent-4: #c1c1c1; /* gray */
+
+  /* Typography */
+  --font-family-1: "sans-serif";
+  --font-family-2: "Nunito Sans";
+  --font-family-3: "-apple-system";
+  --font-family-4: "Manrope";
+
+  /* Border Radii */
+  --radius-1: 6px;
+  --radius-2: 14px;
+  --radius-3: 50%;
+  --radius-4: 50px;
+  --radius-5: 20px;
+}

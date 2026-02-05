@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Photography | Paolo Mascatelli</title>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<!-- SITEWIDE FLOATING NAV -->
+<div id="pm-nav-trigger">
+  <img src="../assets/images/projects_161_Aiphloweb1nlk_red.png" alt="AiPhlo Icon">
+  <span>NAV</span>
+</div>
+
+<div id="pm-nav-dropdown">
+  <div class="pm-dropdown-arrow"></div>
+  <a href="../index.html">Home</a>
+  <a href="projects.html">Projects</a>
+  <a href="photography.html">Photography</a>
+  <a href="socialmedia.html">Social Media</a>
+  <a href="faqs.html">FAQs</a>
+  <a href="contact.html">Contact</a>
+</div>
+
+<!-- =========================================
+     PHOTOGRAPHY NAV (from embed)
+     ========================================= -->
+<div id="pm-photo-nav-v3">
+  <div class="pm-photo-pill-track">
+
+    <button type="button"
+            class="pm-pill pm-pill-toggle"
+            data-role="toggle"
+            aria-label="Toggle navigation visibility">
+      <span class="pm-toggle-text">GALLERIES</span>
+      <svg class="pm-toggle-icon pm-icon-visible" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="8" cy="8" r="2.5" stroke="currentColor" stroke-width="1.2"/>
+        <path d="M2 8h2M12 8h2M8 2v2M8 12v2" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      </svg>
+      <svg class="pm-toggle-icon pm-icon-hidden" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="8" cy="8" r="2.5" stroke="currentColor" stroke-width="1.2" opacity="0.3"/>
+        <line x1="3" y1="13" x2="13" y2="3" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      </svg>
+    </button>
+
+    <div class="pm-pill-group">
+      <button type="button" class="pm-pill" data-target="fashion-editorial" data-detail="pm-detail-g1">
+        <span class="pm-pill-label-full">FASHION EDITORIAL</span>
+        <span class="pm-pill-label-mobile">G1</span>
+      </button>
+
+      <button type="button" class="pm-pill" data-target="portrait-headshots" data-detail="pm-detail-g2">
+        <span class="pm-pill-label-full">PORTRAITS &amp; HEADSHOTS</span>
+        <span class="pm-pill-label-mobile">G2</span>
+      </button>
+
+      <button type="button" class="pm-pill" data-target="outdoor-lifestyle" data-detail="pm-detail-g3">
+        <span class="pm-pill-label-full">OUTDOOR LIFESTYLE</span>
+        <span class="pm-pill-label-mobile">G3</span>
+      </button>
+
+      <button type="button" class="pm-pill" data-target="lifestyle-fashion" data-detail="pm-detail-g4">
+        <span class="pm-pill-label-full">LIFESTYLE FASHION</span>
+        <span class="pm-pill-label-mobile">G4</span>
+      </button>
+
+      <button type="button" class="pm-pill" data-target="fashion-boudoir" data-detail="pm-detail-g5">
+        <span class="pm-pill-label-full">FASHION BOUDOIR</span>
+        <span class="pm-pill-label-mobile">G5</span>
+      </button>
+    </div>
+  </div>
+
+  <div class="pm-detail-track">
+    <div id="pm-detail-g1" class="pm-detail">Fashion Editorial – NYC winter 2017</div>
+    <div id="pm-detail-g2" class="pm-detail">Portraits &amp; Headshots – NYC &amp; LA – ongoing</div>
+    <div id="pm-detail-g3" class="pm-detail">Outdoor Lifestyle – Colombia – shot on Android Pixel Pro 7 for social media</div>
+    <div id="pm-detail-g4" class="pm-detail">Lifestyle Fashion – Series 1 – LA, Wyoming, Tunisia, NYC</div>
+    <div id="pm-detail-g5" class="pm-detail">Fashion Boudoir – Venezia, L.A.</div>
+  </div>
+</div>
+
+<!-- PHOTOGRAPHY PAGE CONTENT -->
+<main class="photography-page">
+  <section id="fashion-editorial" class="pm-photo-section" data-section="fashion-editorial"></section>
+  <section id="portrait-headshots" class="pm-photo-section" data-section="portrait-headshots"></section>
+  <section id="outdoor-lifestyle" class="pm-photo-section" data-section="outdoor-lifestyle"></section>
+  <section id="lifestyle-fashion" class="pm-photo-section" data-section="lifestyle-fashion"></section>
+  <section id="fashion-boudoir" class="pm-photo-section" data-section="fashion-boudoir"></section>
+</main>
+
+<!-- FOOTER -->
+<footer class="pm-footer">
+  <p class="pm-footer-notice">NOT FOR PUBLIC USE</p>
+  <p class="pm-footer-rights">ALL RIGHTS RESERVED</p>
+  <p class="pm-footer-locations">L.A.  NYC  MIAMI</p>
+</footer>
+
+<script src="../interactions.js"></script>
+
+</body>
+</html>

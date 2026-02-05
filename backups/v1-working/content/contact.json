@@ -1,0 +1,88 @@
+{
+  "title": "Contact",
+  "blocks": [
+    {
+      "id": "nav",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "menu": [
+          {
+            "text": "Home",
+            "url": "/"
+          },
+          {
+            "text": "Projects",
+            "url": "/projects"
+          },
+          {
+            "text": "Photography",
+            "url": "/photography"
+          },
+          {
+            "text": "Social Media",
+            "url": "/socialmedia"
+          },
+          {
+            "text": "FAQs",
+            "url": "/faqs"
+          },
+          {
+            "text": "Contact",
+            "url": "/contact"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "slots": {
+        "headline": "Contact",
+        "subhead": "Let's create something extraordinary",
+        "body": "Reach out to discuss your project."
+      }
+    },
+    {
+      "id": "contact",
+      "slots": {
+        "email": "hello@paolomascatelli.com",
+        "locations": [
+          {
+            "city": "Los Angeles",
+            "address": "Beverly Hills, CA"
+          },
+          {
+            "city": "New York",
+            "address": "Manhattan, NY"
+          },
+          {
+            "city": "Miami",
+            "address": "Miami Beach, FL"
+          }
+        ],
+        "social": [
+          {
+            "platform": "Instagram",
+            "url": "https://instagram.com"
+          },
+          {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "copyright": "ALL RIGHTS RESERVED",
+        "notice": "NOT FOR PUBLIC USE",
+        "locations": "L.A.  NYC  MIAMI",
+        "contact": {
+          "text": "contact us",
+          "url": "/contact"
+        }
+      }
+    }
+  ]
+}

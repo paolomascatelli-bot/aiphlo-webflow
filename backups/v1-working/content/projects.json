@@ -1,0 +1,83 @@
+{
+  "title": "Projects",
+  "blocks": [
+    {
+      "id": "nav",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "menu": [
+          {
+            "text": "Home",
+            "url": "/"
+          },
+          {
+            "text": "Projects",
+            "url": "/projects"
+          },
+          {
+            "text": "Photography",
+            "url": "/photography"
+          },
+          {
+            "text": "Social Media",
+            "url": "/socialmedia"
+          },
+          {
+            "text": "FAQs",
+            "url": "/faqs"
+          },
+          {
+            "text": "Contact",
+            "url": "/contact"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "slots": {
+        "headline": "Projects",
+        "subhead": "Luxury interior design and custom furniture collections",
+        "body": "Explore our portfolio of high-end residential and commercial projects."
+      }
+    },
+    {
+      "id": "projects",
+      "slots": {
+        "items": [
+          {
+            "title": "Tenebre Collection",
+            "description": "Dark luxury furniture line",
+            "image": "http://localhost:3001/assets/images/home_6_TENEBRE-WHITE.png",
+            "url": "/#tenebre"
+          },
+          {
+            "title": "Residential Interiors",
+            "description": "Custom home design",
+            "image": "http://localhost:3001/assets/images/home_23_bedr3.png",
+            "url": "#"
+          },
+          {
+            "title": "Outdoor Living",
+            "description": "Patio and pool furniture",
+            "image": "http://localhost:3001/assets/images/home_47_poolswingSquare.png",
+            "url": "#"
+          }
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "copyright": "ALL RIGHTS RESERVED",
+        "notice": "NOT FOR PUBLIC USE",
+        "locations": "L.A.  NYC  MIAMI",
+        "contact": {
+          "text": "contact us",
+          "url": "/contact"
+        }
+      }
+    }
+  ]
+}

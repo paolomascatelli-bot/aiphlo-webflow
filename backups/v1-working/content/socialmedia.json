@@ -1,0 +1,77 @@
+{
+  "title": "Social Media",
+  "blocks": [
+    {
+      "id": "nav",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "menu": [
+          { "text": "Home", "url": "/" },
+          { "text": "Projects", "url": "/projects" },
+          { "text": "Photography", "url": "/photography" },
+          { "text": "Social Media", "url": "/socialmedia" },
+          { "text": "FAQs", "url": "/faqs" },
+          { "text": "Contact", "url": "/contact" }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "slots": {
+        "headline": "Social Media",
+        "subhead": "Campaign content and brand storytelling",
+        "body": "Visual content designed for engagement."
+      }
+    },
+    {
+      "id": "campaigns",
+      "slots": {
+        "items": [
+          {
+            "id": "vyayama",
+            "name": "Vyayama",
+            "description": "Wellness & Fitness Campaign",
+            "icon": "http://localhost:3001/assets/images/home_5_amandaedit.png",
+            "images": [
+              { "src": "http://localhost:3001/assets/images/img_9.jpg", "alt": "Vyayama Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_10.png", "alt": "Vyayama Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_11.png", "alt": "Vyayama Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_12.png", "alt": "Vyayama Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_13.png", "alt": "Vyayama Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_14.png", "alt": "Vyayama Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_15.png", "alt": "Vyayama Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_16.png", "alt": "Vyayama Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_17.png", "alt": "Vyayama Campaign" }
+            ]
+          },
+          {
+            "id": "victoria",
+            "name": "Victoria",
+            "description": "Luxury Lifestyle Campaign",
+            "icon": "http://localhost:3001/assets/images/home_79_image.jpg",
+            "images": [
+              { "src": "http://localhost:3001/assets/images/img_44.jpg", "alt": "Victoria Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_45.png", "alt": "Victoria Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_46.jpg", "alt": "Victoria Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_47.png", "alt": "Victoria Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_48.png", "alt": "Victoria Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_49.png", "alt": "Victoria Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_50.png", "alt": "Victoria Campaign" },
+              { "src": "http://localhost:3001/assets/images/img_51.png", "alt": "Victoria Campaign" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "copyright": "ALL RIGHTS RESERVED",
+        "notice": "NOT FOR PUBLIC USE",
+        "locations": "L.A.  NYC  MIAMI",
+        "contact": { "text": "contact us", "url": "/contact" }
+      }
+    }
+  ]
+}

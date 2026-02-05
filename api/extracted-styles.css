@@ -1,0 +1,476 @@
+/* =========================================
+   EXTRACTED CSS FROM SQUARESPACE
+   Generated: 2026-02-02T22:25:47.229Z
+   Source: Paolo Mascatelli
+   ========================================= */
+
+:root {
+  --aiphlo-gold: #d4af37;
+  --aiphlo-green: #6fb886;
+  --aiphlo-black: #000000;
+  --aiphlo-white: #ffffff;
+  --pm-nav-bg: rgba(70, 76, 82, 0.96);
+}
+
+#pm-nav-trigger {
+  background-position: 0% 0%;
+  bottom: 982.531px;
+  color: rgba(0, 0, 0, 0.94);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  height: 73.4688px;
+  left: 960px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  position: fixed;
+  right: 906px;
+  text-align: center;
+  top: 24px;
+  transform: matrix(1, 0, 0, 1, -27, 0);
+  visibility: visible;
+  width: 54px;
+  z-index: 99999;
+}
+
+#pm-nav-dropdown {
+  background-color: rgb(255, 255, 255);
+  background-position: 0% 0%;
+  bottom: 715px;
+  box-shadow: rgba(0, 0, 0, 0.22) 0px 15px 40px 0px;
+  color: rgba(0, 0, 0, 0.94);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  height: 208px;
+  left: 960px;
+  opacity: 0;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding-bottom: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 16px;
+  position: fixed;
+  right: 815px;
+  top: 125px;
+  transform: matrix(1, 0, 0, 1, -72.5, -12);
+  visibility: hidden;
+  width: 105px;
+  z-index: 999999;
+}
+
+.pm-dropdown-arrow {
+  background-position: 0% 0%;
+  bottom: 246px;
+  color: rgba(0, 0, 0, 0.94);
+  cursor: pointer;
+  display: block;
+  filter: drop-shadow(rgba(0, 0, 0, 0.1) 0px -2px 4px);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  left: 72.5px;
+  opacity: 0;
+  overflow-x: visible;
+  overflow-y: visible;
+  position: absolute;
+  right: 52.5px;
+  top: -16px;
+  transform: matrix(1, 0, 0, 1, -10, 20);
+  visibility: hidden;
+  z-index: 10000;
+}
+
+#tenebre-header-logo {
+  align-items: center;
+  background-position: 0% 0%;
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  height: 160px;
+  justify-content: center;
+  line-height: 24px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding-bottom: 20px;
+  padding-top: 40px;
+  position: relative;
+  visibility: visible;
+  width: 1920px;
+  z-index: 10;
+}
+
+#tenebre-slideshow-container {
+  background-position: 0% 0%;
+  color: rgb(255, 255, 255);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  opacity: 1;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: relative;
+  visibility: visible;
+  width: 1920px;
+  z-index: 1;
+}
+
+#tenebre-slideshow-canvas {
+  align-items: center;
+  background-position: 0% 0%;
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  justify-content: center;
+  line-height: 24px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  position: absolute;
+  visibility: visible;
+  width: 1920px;
+}
+
+#tenebre-toggle-container {
+  align-items: center;
+  background-position: 0% 0%;
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  height: 34px;
+  justify-content: center;
+  line-height: 24px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  position: relative;
+  visibility: visible;
+  width: 1920px;
+  z-index: 10;
+}
+
+#tenebre-toggle {
+  background-color: rgba(212, 175, 55, 0.2);
+  background-position: 0% 0%;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 8px 0px inset;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  height: 32px;
+  line-height: 24px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  position: relative;
+  visibility: visible;
+  width: 64px;
+}
+
+#tenebre-gallery-nav-wrapper {
+  background-position: 0% 0%;
+  color: rgb(255, 255, 255);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  height: 104px;
+  line-height: 24px;
+  opacity: 1;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: relative;
+  visibility: visible;
+  width: 1225.16px;
+}
+
+#tenebre-gallery-nav {
+  align-items: center;
+  background-position: 0% 0%;
+  bottom: 80px;
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  height: 54px;
+  justify-content: center;
+  line-height: 24px;
+  margin-right: -14.8438px;
+  max-width: 1200px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding-bottom: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 25px;
+  position: relative;
+  visibility: visible;
+  width: 1200px;
+  z-index: 50;
+}
+
+.tenebre-toggle-wrapper {
+  align-items: center;
+  background-position: 0% 0%;
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  height: 34px;
+  line-height: 24px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  position: static;
+  visibility: visible;
+  width: 139.219px;
+}
+
+.tenebre-toggle-label {
+  background-position: 0% 0%;
+  color: rgb(111, 184, 134);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 10px;
+  font-weight: 400;
+  height: 24px;
+  letter-spacing: 1.5px;
+  line-height: 24px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  position: static;
+  text-transform: uppercase;
+  visibility: visible;
+  width: 23.1406px;
+}
+
+.tenebre-toggle-switch {
+  background-color: rgba(212, 175, 55, 0.2);
+  background-position: 0% 0%;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 8px 0px inset;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  height: 32px;
+  line-height: 24px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  position: relative;
+  visibility: visible;
+  width: 64px;
+}
+
+.tenebre-toggle-knob {
+  background-image: linear-gradient(135deg, rgb(212, 175, 55), rgb(184, 134, 11));
+  background-position: 0% 0%;
+  bottom: 5px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 6px 0px, rgba(212, 175, 55, 0.4) 0px 0px 8px 0px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  left: 3px;
+  line-height: 24px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  position: absolute;
+  right: 37px;
+  top: 3px;
+  visibility: visible;
+  width: 24px;
+}
+
+.tenebre-nav-btn {
+  background-position: 0% 0%;
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  height: 54px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding-bottom: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 16px;
+  position: relative;
+  text-align: center;
+  visibility: visible;
+  width: 158.609px;
+}
+
+.tenebre-nav-text {
+  background-position: 0% 0%;
+  color: rgb(212, 175, 55);
+  cursor: pointer;
+  display: inline;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 2.1px;
+  opacity: 1;
+  overflow-x: visible;
+  overflow-y: visible;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  visibility: visible;
+  z-index: 2;
+}
+
+.tenebre-slide-layer {
+  background-position: 0% 0%;
+  color: rgb(255, 255, 255);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  font-weight: 400;
+  left: 960px;
+  line-height: 24px;
+  max-height: 100%;
+  max-width: 100%;
+  opacity: 0;
+  overflow-x: clip;
+  overflow-y: clip;
+  position: absolute;
+  right: 810.188px;
+  transform: matrix(1, 0, 0, 1, -74.9062, 0);
+  visibility: visible;
+  width: 149.812px;
+  z-index: 1;
+}
+
+
+/* added 66 selectors */
+.pm-dropdown-arrow{ /* TODO: re-extract computed */ }
+.tenebre-slide-layer{ /* TODO: re-extract computed */ }
+.tenebre-toggle-wrapper{ /* TODO: re-extract computed */ }
+.tenebre-toggle-label{ /* TODO: re-extract computed */ }
+.tenebre-toggle-switch{ /* TODO: re-extract computed */ }
+.tenebre-toggle-knob{ /* TODO: re-extract computed */ }
+.tenebre-nav-btn{ /* TODO: re-extract computed */ }
+.tenebre-nav-text{ /* TODO: re-extract computed */ }
+.tenebre-logo-grid{ /* TODO: re-extract computed */ }
+.pm-campaign-pill-track{ /* TODO: re-extract computed */ }
+.pm-campaign-btn{ /* TODO: re-extract computed */ }
+.pm-campaign-icon{ /* TODO: re-extract computed */ }
+.pm-campaign-name{ /* TODO: re-extract computed */ }
+.pm-campaign-arrow{ /* TODO: re-extract computed */ }
+.pm-photo-pill-track{ /* TODO: re-extract computed */ }
+.pm-pill{ /* TODO: re-extract computed */ }
+.pm-pill-toggle{ /* TODO: re-extract computed */ }
+.pm-toggle-text{ /* TODO: re-extract computed */ }
+.pm-pill-group{ /* TODO: re-extract computed */ }
+.pm-pill-label-full{ /* TODO: re-extract computed */ }
+.pm-pill-label-mobile{ /* TODO: re-extract computed */ }
+.pm-detail-track{ /* TODO: re-extract computed */ }
+.pm-detail{ /* TODO: re-extract computed */ }
+.pm-project-track{ /* TODO: re-extract computed */ }
+.pm-project-toggle{ /* TODO: re-extract computed */ }
+.pm-project-group{ /* TODO: re-extract computed */ }
+.pm-project-circle{ /* TODO: re-extract computed */ }
+.pm-bg-animated{ /* TODO: re-extract computed */ }
+.pm-container{ /* TODO: re-extract computed */ }
+.pm-hero{ /* TODO: re-extract computed */ }
+.pm-hero-image-wrapper{ /* TODO: re-extract computed */ }
+.pm-hero-image{ /* TODO: re-extract computed */ }
+.pm-hero-name{ /* TODO: re-extract computed */ }
+.pm-hero-title{ /* TODO: re-extract computed */ }
+.pm-hero-tagline{ /* TODO: re-extract computed */ }
+.pm-cta-group{ /* TODO: re-extract computed */ }
+.pm-btn{ /* TODO: re-extract computed */ }
+.pm-btn-primary{ /* TODO: re-extract computed */ }
+.pm-btn-secondary{ /* TODO: re-extract computed */ }
+.pm-contact-selector{ /* TODO: re-extract computed */ }
+.pm-contact-tab{ /* TODO: re-extract computed */ }
+.pm-active{ /* TODO: re-extract computed */ }
+.pm-contact-cards{ /* TODO: re-extract computed */ }
+.pm-contact-card{ /* TODO: re-extract computed */ }
+.pm-contact-icon{ /* TODO: re-extract computed */ }
+.pm-resume-section{ /* TODO: re-extract computed */ }
+.pm-section-header{ /* TODO: re-extract computed */ }
+.pm-section-title{ /* TODO: re-extract computed */ }
+.pm-download-btn{ /* TODO: re-extract computed */ }
+.pm-cover-toggle{ /* TODO: re-extract computed */ }
+.pm-cover-toggle-header{ /* TODO: re-extract computed */ }
+.pm-cover-toggle-text{ /* TODO: re-extract computed */ }
+.pm-cover-toggle-arrow{ /* TODO: re-extract computed */ }
+.pm-cover-content{ /* TODO: re-extract computed */ }
+.pm-summary{ /* TODO: re-extract computed */ }
+.pm-subsection-title{ /* TODO: re-extract computed */ }
+.pm-experience{ /* TODO: re-extract computed */ }
+.pm-experience-item{ /* TODO: re-extract computed */ }
+.pm-experience-title{ /* TODO: re-extract computed */ }
+.pm-experience-company{ /* TODO: re-extract computed */ }
+.pm-experience-dates{ /* TODO: re-extract computed */ }
+.pm-experience-description{ /* TODO: re-extract computed */ }
+.pm-skills{ /* TODO: re-extract computed */ }
+.pm-skills-grid{ /* TODO: re-extract computed */ }
+.pm-skill-badge{ /* TODO: re-extract computed */ }
+.pm-footer{ /* TODO: re-extract computed */ }

@@ -1,0 +1,2732 @@
+{
+  "timestamp": "2026-02-04T08:27:08.887Z",
+  "pages": [
+    {
+      "name": "Home",
+      "original": {
+        "page": "Home",
+        "url": "https://www.paolomascatelli.com/",
+        "source": "ORIGINAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 886.875,
+            "hasImage": true,
+            "imageUrl": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png",
+            "hasHeadline": true,
+            "headlineText": "THIS SPACE IS COMING",
+            "hasCTA": false,
+            "ctaText": null
+          },
+          "secondaryNav": {
+            "type": "pills",
+            "count": 1,
+            "items": [
+              {
+                "text": "NAV\n\n\n\n  \n  Home\n  Projects\n  Photography\n  Social",
+                "classes": "form-field-style-solid form-field-shape-rounded form-field-border-none form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-right image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-center tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-author tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-excerpt-and-title tweak-blog-item-width-wide tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date tweak-blog-item-show-author-name  tweak-blog-item-delimiter-bullet primary-button-style-solid primary-button-shape-square secondary-button-style-solid secondary-button-shape-square tertiary-button-style-outline tertiary-button-shape-rounded tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-43-four-three tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-author tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show header-overlay-alignment-right tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show  tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show header-width-full   tweak-fixed-header-style-basic tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-68a54ff31345e077a3d25502 collection-type-page collection-layout-default homepage mobile-style-available sqs-seven-one\n      \n        \n          \n            \n              \n            \n          \n        \n      \n     seven-one-global-animations"
+              }
+            ],
+            "isSticky": false,
+            "position": null
+          },
+          "content": {
+            "headingsCount": 3,
+            "headings": [
+              {
+                "tag": "H1",
+                "text": "THIS SPACE IS COMING"
+              },
+              {
+                "tag": "H2",
+                "text": "Stay in the loop"
+              },
+              {
+                "tag": "H1",
+                "text": "L.A.  NYC  MIAMI"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "Proof of concept",
+              "ALL RIGHTS RESERVED",
+              "NOT FOR PUBLIC USE",
+              "",
+              "Sign up with your email address to receive news and updates."
+            ],
+            "imagesCount": 148
+          },
+          "assets": [
+            {
+              "src": "Aiphloweb1nlk_red.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 54,
+              "displayHeight": 54,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "amandaedit.png",
+              "naturalWidth": 1400,
+              "naturalHeight": 786,
+              "displayWidth": 1400,
+              "displayHeight": 887,
+              "alt": ""
+            },
+            {
+              "src": "TENEBRE-WHITE.png",
+              "naturalWidth": 1440,
+              "naturalHeight": 1440,
+              "displayWidth": 160,
+              "displayHeight": 160,
+              "alt": "Tenebre"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 150,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 150,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            },
+            {
+              "src": "TENEBRE-WHITE.png",
+              "naturalWidth": 1440,
+              "naturalHeight": 1440,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre"
+            },
+            {
+              "src": "SnakesCropped.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "SnakesCropped.png"
+            },
+            {
+              "src": "shagbedside1.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "shagbedside1.png"
+            },
+            {
+              "src": "DU9A7439.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "DU9A7439.jpg"
+            },
+            {
+              "src": "DU9A7383.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "DU9A7383.jpg"
+            },
+            {
+              "src": "bathbronze.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "bathbronze.jpg"
+            },
+            {
+              "src": "DU9A4760.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "DU9A4760.jpg"
+            },
+            {
+              "src": "DU9A4790.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "DU9A4790.jpg"
+            },
+            {
+              "src": "DU9A4794.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "DU9A4794.png"
+            },
+            {
+              "src": "RUGCLEAN.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "RUGCLEAN.png"
+            },
+            {
+              "src": "DU9A4764.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "DU9A4764.png"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "Manrope",
+              "fontSize": "66.4px",
+              "fontWeight": "500",
+              "color": "rgb(255, 255, 255)",
+              "letterSpacing": "-1.328px"
+            },
+            "h2": {
+              "fontFamily": "Manrope",
+              "fontSize": "36.16px",
+              "fontWeight": "500",
+              "color": "rgb(0, 0, 0)",
+              "letterSpacing": "-0.7232px"
+            },
+            "body": {
+              "fontFamily": "\"Nunito Sans\"",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "color": "rgb(0, 0, 0)",
+              "letterSpacing": "normal"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "home-original.png"
+      },
+      "local": {
+        "page": "Home",
+        "url": "http://localhost:3001/",
+        "source": "LOCAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "url(\"http://localhost:3001/assets/images/home_5_amandaedit.png\")",
+              "backgroundSize": "cover",
+              "backgroundPosition": "50% 50%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 720,
+            "hasImage": false,
+            "imageUrl": null,
+            "hasHeadline": true,
+            "headlineText": "PAOLO MASCATELLI | AIPHLO",
+            "hasCTA": true,
+            "ctaText": "View Projects"
+          },
+          "secondaryNav": {
+            "type": null,
+            "count": 0,
+            "items": [],
+            "isSticky": false,
+            "position": null
+          },
+          "content": {
+            "headingsCount": 1,
+            "headings": [
+              {
+                "tag": "H1",
+                "text": "PAOLO MASCATELLI | AIPHLO"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "Creative and Art Direction, Photography & Design",
+              "Boutique creative agency, scalable production, Luxury art direction. Custom AIPHLO Navigation Systems in development.",
+              "FILM | DSLR | MIRRORLESS",
+              "NOT FOR PUBLIC USE",
+              "ALL RIGHTS RESERVED"
+            ],
+            "imagesCount": 4
+          },
+          "assets": [
+            {
+              "src": "img_79.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "img_150.png",
+              "naturalWidth": 2500,
+              "naturalHeight": 2500,
+              "displayWidth": 160,
+              "displayHeight": 160,
+              "alt": "Tenebre"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 150,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 150,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "48px",
+              "fontWeight": "700",
+              "color": "rgb(212, 175, 55)",
+              "letterSpacing": "4.8px"
+            },
+            "h2": null,
+            "body": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "18px",
+              "fontWeight": "500",
+              "color": "rgba(255, 255, 255, 0.8)",
+              "letterSpacing": "0.9px"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "home-local.png"
+      },
+      "issues": [
+        {
+          "type": "BACKGROUND",
+          "severity": "HIGH",
+          "message": "Body background mismatch - Original: rgb(255, 255, 255), Local: rgb(0, 0, 0)"
+        },
+        {
+          "type": "HERO",
+          "severity": "HIGH",
+          "message": "Missing hero image"
+        },
+        {
+          "type": "CONTENT",
+          "severity": "MEDIUM",
+          "message": "Headline mismatch - Original: \"THIS SPACE IS COMING\", Local: \"PAOLO MASCATELLI | AIPHLO\""
+        },
+        {
+          "type": "NAV",
+          "severity": "HIGH",
+          "message": "Missing secondary nav - Original has pills"
+        },
+        {
+          "type": "CONTENT",
+          "severity": "MEDIUM",
+          "message": "Missing images - Original: 148, Local: 4"
+        }
+      ],
+      "status": "NEEDS_FIX"
+    },
+    {
+      "name": "Projects",
+      "original": {
+        "page": "Projects",
+        "url": "https://www.paolomascatelli.com/projects",
+        "source": "ORIGINAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 297,
+            "hasImage": false,
+            "imageUrl": null,
+            "hasHeadline": false,
+            "headlineText": null,
+            "hasCTA": false,
+            "ctaText": null
+          },
+          "secondaryNav": {
+            "type": "pills",
+            "count": 1,
+            "items": [
+              {
+                "text": "NAV\n\n\n\n  \n  Home\n  Projects\n  Photography\n  Social",
+                "classes": "form-field-style-solid form-field-shape-rounded form-field-border-none form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-right image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-center tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-author tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-excerpt-and-title tweak-blog-item-width-wide tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date tweak-blog-item-show-author-name  tweak-blog-item-delimiter-bullet primary-button-style-solid primary-button-shape-square secondary-button-style-solid secondary-button-shape-square tertiary-button-style-outline tertiary-button-shape-rounded tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-43-four-three tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-author tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show header-overlay-alignment-right tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show  tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show header-width-full   tweak-fixed-header-style-basic tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-64714d2a9219247161890d2d collection-layout-default mobile-style-available sqs-seven-one\n      \n        \n          \n            \n              \n            \n          \n        \n      \n     seven-one-global-animations"
+              }
+            ],
+            "isSticky": false,
+            "position": null
+          },
+          "content": {
+            "headingsCount": 10,
+            "headings": [
+              {
+                "tag": "H3",
+                "text": "Project Portfolio"
+              },
+              {
+                "tag": "H3",
+                "text": "Photography"
+              },
+              {
+                "tag": "H1",
+                "text": "Luxury Navigation.Zero Code."
+              },
+              {
+                "tag": "H2",
+                "text": "Your Brand Deserves Better Than Template Navigation"
+              },
+              {
+                "tag": "H2",
+                "text": "Plug-In Luxury: AiPhlo 1.0"
+              },
+              {
+                "tag": "H2",
+                "text": "Navigation Systems"
+              },
+              {
+                "tag": "H3",
+                "text": "Phantom Gallery Navigation"
+              },
+              {
+                "tag": "H3",
+                "text": "Smart Product Nav"
+              },
+              {
+                "tag": "H3",
+                "text": "Project Reveal System"
+              },
+              {
+                "tag": "H3",
+                "text": "Photography Nav"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "PAOLO MASCATELLI | AIPHLO: Live build\n            ▼",
+              "My site is an example of the Custom AIPHLO Navigation Systems in development (showcasing my work as part portfolio). Use the site wide \"Phantom Nav\" and galleries within for the secondary Phantom Nav ",
+              "Film | DSLR | Mirrorless",
+              "not for public use",
+              "High-end luxury platform-agnostic UX/UI augmentation for open-source platforms. Built for boutique brands who refuse to look basic."
+            ],
+            "imagesCount": 25
+          },
+          "assets": [
+            {
+              "src": "Aiphloweb1nlk_red.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 54,
+              "displayHeight": 54,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "IMG_5275.png",
+              "naturalWidth": 116,
+              "naturalHeight": 53,
+              "displayWidth": 102,
+              "displayHeight": 47,
+              "alt": ""
+            },
+            {
+              "src": "TENEBRE-WHITE.png",
+              "naturalWidth": 1440,
+              "naturalHeight": 1440,
+              "displayWidth": 160,
+              "displayHeight": 160,
+              "alt": "Tenebre"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 150,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 150,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            },
+            {
+              "src": "Tenebre_Branding_072125.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 199,
+              "displayHeight": 199,
+              "alt": "A black background with white outlined text and an intricate crest. The large text says 'TENEBRÉ' at the top. The crest features two winged lions facing each other, a shield with ornate detailing, and a banner below reading 'TENEBRÉ'. Under the crest, small text reads 'LOS ANGELES EST. 2025'."
+            },
+            {
+              "src": "TENEBRE-WHITE.png",
+              "naturalWidth": 1440,
+              "naturalHeight": 1440,
+              "displayWidth": 160,
+              "displayHeight": 160,
+              "alt": "Tenebre"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 150,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 150,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            },
+            {
+              "src": "cpi.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 341,
+              "displayHeight": 324,
+              "alt": ""
+            },
+            {
+              "src": "GraffDigital.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 224,
+              "displayHeight": 213,
+              "alt": ""
+            },
+            {
+              "src": "Screen+Shot+2019-08-30+at+4.44.37+PM.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 448,
+              "displayHeight": 230,
+              "alt": ""
+            },
+            {
+              "src": "DB0F4C18-147C-4CC3-9516-80A4641A63EA.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 71,
+              "displayHeight": 71,
+              "alt": "Graffiti-style tag inside a heart outline"
+            },
+            {
+              "src": "NetFlix+USHE+by+Paolo+Mascatelli",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 448,
+              "displayHeight": 297,
+              "alt": "NeStylized digital artwork of Angela canoe as She from the Netflix Series, with a red face mask, black and white  ornate clothing with red and black accents, featuring a symmetrical composition, abstract background elements, drawn by Paolo Mascatelli"
+            },
+            {
+              "src": "footer4.png",
+              "naturalWidth": 1400,
+              "naturalHeight": 787,
+              "displayWidth": 1400,
+              "displayHeight": 627,
+              "alt": ""
+            },
+            {
+              "src": "Aiphloweb1nlk_red.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 72,
+              "displayHeight": 69,
+              "alt": ""
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "Manrope",
+              "fontSize": "56px",
+              "fontWeight": "700",
+              "color": "rgba(40, 26, 23, 0.1)",
+              "letterSpacing": "-1.12px"
+            },
+            "h2": {
+              "fontFamily": "Manrope",
+              "fontSize": "20px",
+              "fontWeight": "700",
+              "color": "rgb(255, 59, 48)",
+              "letterSpacing": "-0.4px"
+            },
+            "body": {
+              "fontFamily": "\"Nunito Sans\"",
+              "fontSize": "14px",
+              "fontWeight": "500",
+              "color": "rgba(255, 255, 255, 0.9)",
+              "letterSpacing": "2px"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "projects-original.png"
+      },
+      "local": {
+        "page": "Projects",
+        "url": "http://localhost:3001/projects",
+        "source": "LOCAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgba(255, 255, 255, 0.02)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 996.796875,
+            "hasImage": true,
+            "imageUrl": "http://localhost:3001/assets/images/contact_321_AiPhlo_Color_Drop",
+            "hasHeadline": false,
+            "headlineText": null,
+            "hasCTA": false,
+            "ctaText": null
+          },
+          "secondaryNav": {
+            "type": "thumbs",
+            "count": 9,
+            "items": [
+              {
+                "text": "AIPHLO\n        \n      \n        \n          \n       ",
+                "classes": "pm-project-thumbs"
+              },
+              {
+                "text": "AIPHLO",
+                "classes": "pm-project-thumb active"
+              },
+              {
+                "text": "AIPHLO",
+                "classes": "pm-thumb-label"
+              },
+              {
+                "text": "TENEBRE",
+                "classes": "pm-project-thumb"
+              },
+              {
+                "text": "TENEBRE",
+                "classes": "pm-thumb-label"
+              }
+            ],
+            "isSticky": true,
+            "position": "sticky"
+          },
+          "content": {
+            "headingsCount": 6,
+            "headings": [
+              {
+                "tag": "H1",
+                "text": "Projects"
+              },
+              {
+                "tag": "H2",
+                "text": "AIPHLO"
+              },
+              {
+                "tag": "H2",
+                "text": "TENEBRE"
+              },
+              {
+                "tag": "H2",
+                "text": "CPI"
+              },
+              {
+                "tag": "H2",
+                "text": "GRAFFDIGITAL"
+              },
+              {
+                "tag": "H1",
+                "text": "PAOLO MASCATELLI | AIPHLO"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "PAOLO MASCATELLI | AIPHLO: Live build",
+              "My site is an example of the Custom AIPHLO Navigation Systems in development",
+              "Luxury Navigation. Zero Code.",
+              "High-end luxury platform-agnostic UX/UI augmentation for open-source platforms",
+              "modern geometric | light brutalism"
+            ],
+            "imagesCount": 13
+          },
+          "assets": [
+            {
+              "src": "img_79.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "contact_321_AiPhlo_Color_Drop",
+              "naturalWidth": 1320,
+              "naturalHeight": 1310,
+              "displayWidth": 44,
+              "displayHeight": 44,
+              "alt": "AIPHLO"
+            },
+            {
+              "src": "projects_154_TENEBRE-WHITE.png",
+              "naturalWidth": 1440,
+              "naturalHeight": 1440,
+              "displayWidth": 44,
+              "displayHeight": 44,
+              "alt": "TENEBRE"
+            },
+            {
+              "src": "projects_155_cpi.png",
+              "naturalWidth": 841,
+              "naturalHeight": 800,
+              "displayWidth": 44,
+              "displayHeight": 42,
+              "alt": "CPI"
+            },
+            {
+              "src": "projects_156_GraffDigital.png",
+              "naturalWidth": 841,
+              "naturalHeight": 800,
+              "displayWidth": 44,
+              "displayHeight": 42,
+              "alt": "GRAFFDIGITAL"
+            },
+            {
+              "src": "contact_321_AiPhlo_Color_Drop",
+              "naturalWidth": 1320,
+              "naturalHeight": 1310,
+              "displayWidth": 818,
+              "displayHeight": 812,
+              "alt": "AIPHLO"
+            },
+            {
+              "src": "projects_154_TENEBRE-WHITE.png",
+              "naturalWidth": 1440,
+              "naturalHeight": 1440,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre White"
+            },
+            {
+              "src": "projects_153_Tenebre_Branding_072125.png",
+              "naturalWidth": 2500,
+              "naturalHeight": 2500,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre Branding"
+            },
+            {
+              "src": "projects_155_cpi.png",
+              "naturalWidth": 841,
+              "naturalHeight": 800,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "CPI"
+            },
+            {
+              "src": "projects_156_GraffDigital.png",
+              "naturalWidth": 841,
+              "naturalHeight": 800,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "GRAFFDIGITAL"
+            },
+            {
+              "src": "img_150.png",
+              "naturalWidth": 2500,
+              "naturalHeight": 2500,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre"
+            },
+            {
+              "src": "projects",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            },
+            {
+              "src": "projects",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "42px",
+              "fontWeight": "700",
+              "color": "rgb(212, 175, 55)",
+              "letterSpacing": "6.3px"
+            },
+            "h2": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "28px",
+              "fontWeight": "700",
+              "color": "rgb(255, 255, 255)",
+              "letterSpacing": "2.8px"
+            },
+            "body": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "color": "rgba(255, 255, 255, 0.7)",
+              "letterSpacing": "0.8px"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "projects-local.png"
+      },
+      "issues": [
+        {
+          "type": "BACKGROUND",
+          "severity": "HIGH",
+          "message": "Body background mismatch - Original: rgb(255, 255, 255), Local: rgb(0, 0, 0)"
+        },
+        {
+          "type": "NAV",
+          "severity": "MEDIUM",
+          "message": "Sticky behavior mismatch - Original: false, Local: true"
+        },
+        {
+          "type": "CONTENT",
+          "severity": "MEDIUM",
+          "message": "Missing images - Original: 25, Local: 13"
+        }
+      ],
+      "status": "NEEDS_FIX"
+    },
+    {
+      "name": "Photography",
+      "original": {
+        "page": "Photography",
+        "url": "https://www.paolomascatelli.com/photography",
+        "source": "ORIGINAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 204.453125,
+            "hasImage": false,
+            "imageUrl": null,
+            "hasHeadline": false,
+            "headlineText": null,
+            "hasCTA": true,
+            "ctaText": "GALLERIES"
+          },
+          "secondaryNav": {
+            "type": "pills",
+            "count": 19,
+            "items": [
+              {
+                "text": "NAV\n\n\n\n  \n  Home\n  Projects\n  Photography\n  Social",
+                "classes": "form-field-style-solid form-field-shape-rounded form-field-border-none form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-right image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-center tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-author tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-excerpt-and-title tweak-blog-item-width-wide tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date tweak-blog-item-show-author-name  tweak-blog-item-delimiter-bullet primary-button-style-solid primary-button-shape-square secondary-button-style-solid secondary-button-shape-square tertiary-button-style-outline tertiary-button-shape-rounded tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-43-four-three tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-author tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show header-overlay-alignment-right tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show  tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show header-width-full   tweak-fixed-header-style-basic tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-56fc3604356fb0fe45c8dd9a collection-type-page collection-layout-default mobile-style-available sqs-seven-one\n      \n        \n          \n            \n              \n            \n          \n        \n      \n     seven-one-global-animations"
+              },
+              {
+                "text": "GALLERIES\n\n\n\n\n\n\n\n\n\n\n\n\nFASHION EDITORIAL\nG1\n\n\n\nPORT",
+                "classes": "pm-photo-pill-track"
+              },
+              {
+                "text": "GALLERIES",
+                "classes": "pm-pill pm-pill-toggle"
+              },
+              {
+                "text": "FASHION EDITORIAL\nG1\n\n\n\nPORTRAITS & HEADSHOTS\nG2\n\n",
+                "classes": "pm-pill-group"
+              },
+              {
+                "text": "FASHION EDITORIAL\nG1",
+                "classes": "pm-pill"
+              }
+            ],
+            "isSticky": false,
+            "position": null
+          },
+          "content": {
+            "headingsCount": 2,
+            "headings": [
+              {
+                "tag": "H2",
+                "text": "Stay in the loop"
+              },
+              {
+                "tag": "H1",
+                "text": "L.A.  NYC  MIAMI"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "ALL RIGHTS RESERVED",
+              "NOT FOR PUBLIC USE",
+              "",
+              "Sign up with your email address to receive news and updates.",
+              "contact us"
+            ],
+            "imagesCount": 131
+          },
+          "assets": [
+            {
+              "src": "Aiphloweb1nlk_red.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 54,
+              "displayHeight": 54,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "51957EF4-1C09-4D92-991D-069B53D4EAEA.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "IMG_4163.JPG"
+            },
+            {
+              "src": "0B097307-AD96-4BC3-BFD6-BDA3BCEB890E.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "0B097307-AD96-4BC3-BFD6-BDA3BCEB890E.jpg"
+            },
+            {
+              "src": "FE6098E9-852F-408E-8B76-73BD2585533E.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "FE6098E9-852F-408E-8B76-73BD2585533E.jpeg"
+            },
+            {
+              "src": "DSC_1311.JPG",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "DSC_1311.JPG"
+            },
+            {
+              "src": "Katkacoldshoot.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Katka shoot"
+            },
+            {
+              "src": "DSC_1321.JPG",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "DSC_1321.JPG"
+            },
+            {
+              "src": "compassion+1.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "compassion 1.jpg"
+            },
+            {
+              "src": "littlerita-web.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "littlerita-web.png"
+            },
+            {
+              "src": "amandabest+lue.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "amandabest lue.jpg"
+            },
+            {
+              "src": "4CB9F1D7-AD33-4192-AE6C-03D1509D4AC6.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "4CB9F1D7-AD33-4192-AE6C-03D1509D4AC6.jpeg"
+            },
+            {
+              "src": "6E26CC25-0899-4363-966D-950FCCEE09A7.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "6E26CC25-0899-4363-966D-950FCCEE09A7.jpeg"
+            },
+            {
+              "src": "4E9D5986-B684-4DA2-A65D-2F7C4B9CE262.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "4E9D5986-B684-4DA2-A65D-2F7C4B9CE262.jpeg"
+            },
+            {
+              "src": "59B3546B-37CB-40FE-8302-D24CDED8F21E.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "59B3546B-37CB-40FE-8302-D24CDED8F21E.jpeg"
+            },
+            {
+              "src": "F62FCA95-E52A-4669-9B4B-B0C127412173.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "F62FCA95-E52A-4669-9B4B-B0C127412173.jpeg"
+            },
+            {
+              "src": "CB95C03F-4B3F-4263-8878-D635979E1AFB.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "CB95C03F-4B3F-4263-8878-D635979E1AFB.png"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "Manrope",
+              "fontSize": "66.4px",
+              "fontWeight": "500",
+              "color": "rgb(0, 0, 0)",
+              "letterSpacing": "-1.328px"
+            },
+            "h2": {
+              "fontFamily": "Manrope",
+              "fontSize": "36.16px",
+              "fontWeight": "500",
+              "color": "rgb(0, 0, 0)",
+              "letterSpacing": "-0.7232px"
+            },
+            "body": {
+              "fontFamily": "\"Nunito Sans\"",
+              "fontSize": "22.72px",
+              "fontWeight": "400",
+              "color": "rgba(0, 0, 0, 0.94)",
+              "letterSpacing": "normal"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "photography-original.png"
+      },
+      "local": {
+        "page": "Photography",
+        "url": "http://localhost:3001/photography",
+        "source": "LOCAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 540,
+            "hasImage": false,
+            "imageUrl": null,
+            "hasHeadline": true,
+            "headlineText": "Photography",
+            "hasCTA": false,
+            "ctaText": null
+          },
+          "secondaryNav": {
+            "type": "pills",
+            "count": 18,
+            "items": [
+              {
+                "text": "GALLERIES\n        \n          \n          \n        \n",
+                "classes": "pm-photo-pill-track"
+              },
+              {
+                "text": "GALLERIES",
+                "classes": "pm-pill pm-pill-toggle"
+              },
+              {
+                "text": "FASHION EDITORIAL\n          G1\n        \n      \n   ",
+                "classes": "pm-pill-group"
+              },
+              {
+                "text": "FASHION EDITORIAL\n          G1",
+                "classes": "pm-pill"
+              },
+              {
+                "text": "FASHION EDITORIAL",
+                "classes": "pm-pill-label-full"
+              }
+            ],
+            "isSticky": false,
+            "position": null
+          },
+          "content": {
+            "headingsCount": 2,
+            "headings": [
+              {
+                "tag": "H1",
+                "text": "Photography"
+              },
+              {
+                "tag": "H1",
+                "text": "PAOLO MASCATELLI | AIPHLO"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "Professional portraiture, fashion, fine art and commercial photography",
+              "Capturing luxury in every frame. Film | DSLR | Mirrorless",
+              "Creative and Art Direction, Photography & Design",
+              "Boutique creative agency, scalable production, Luxury art direction. Custom AIPHLO Navigation Systems in development.",
+              "FILM | DSLR | MIRRORLESS"
+            ],
+            "imagesCount": 71
+          },
+          "assets": [
+            {
+              "src": "img_79.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "photography_172_51957EF4-1C09-4D92-991D-069B53D4EAEA.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "IMG_4163.JPG"
+            },
+            {
+              "src": "photography_173_0B097307-AD96-4BC3-BFD6-BDA3BCEB890E.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "0B097307-AD96-4BC3-BFD6-BDA3BCEB890E.jpg"
+            },
+            {
+              "src": "photography_174_FE6098E9-852F-408E-8B76-73BD2585533E.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "FE6098E9-852F-408E-8B76-73BD2585533E.jpeg"
+            },
+            {
+              "src": "photography_175_DSC_1311.JPG",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "DSC_1311.JPG"
+            },
+            {
+              "src": "photography_176_Katkacoldshoot.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Katka shoot"
+            },
+            {
+              "src": "photography_177_DSC_1321.JPG",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "DSC_1321.JPG"
+            },
+            {
+              "src": "compassion+1.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "compassion 1.jpg"
+            },
+            {
+              "src": "photography_179_littlerita-web.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "littlerita-web.png"
+            },
+            {
+              "src": "amandabest+lue.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "amandabest lue.jpg"
+            },
+            {
+              "src": "photography_181_4CB9F1D7-AD33-4192-AE6C-03D1509D4AC6.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "4CB9F1D7-AD33-4192-AE6C-03D1509D4AC6.jpeg"
+            },
+            {
+              "src": "photography_182_6E26CC25-0899-4363-966D-950FCCEE09A7.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "6E26CC25-0899-4363-966D-950FCCEE09A7.jpeg"
+            },
+            {
+              "src": "photography_183_4E9D5986-B684-4DA2-A65D-2F7C4B9CE262.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "4E9D5986-B684-4DA2-A65D-2F7C4B9CE262.jpeg"
+            },
+            {
+              "src": "photography_184_59B3546B-37CB-40FE-8302-D24CDED8F21E.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "59B3546B-37CB-40FE-8302-D24CDED8F21E.jpeg"
+            },
+            {
+              "src": "photography_185_F62FCA95-E52A-4669-9B4B-B0C127412173.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "F62FCA95-E52A-4669-9B4B-B0C127412173.jpeg"
+            },
+            {
+              "src": "photography_186_CB95C03F-4B3F-4263-8878-D635979E1AFB.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "CB95C03F-4B3F-4263-8878-D635979E1AFB.png"
+            },
+            {
+              "src": "photography_187_JOE5.jpg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "JOE5.jpg"
+            },
+            {
+              "src": "photography_188_37655767-5466-48EB-9C9A-11C87773E747.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "37655767-5466-48EB-9C9A-11C87773E747.jpeg"
+            },
+            {
+              "src": "photography_189_561286B1-633C-49E7-9AC4-1E339DF31840.jpeg",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "561286B1-633C-49E7-9AC4-1E339DF31840.jpeg"
+            },
+            {
+              "src": "photography_190_loneclose.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "loneclose.png"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "48px",
+              "fontWeight": "700",
+              "color": "rgb(212, 175, 55)",
+              "letterSpacing": "4.8px"
+            },
+            "h2": null,
+            "body": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "18px",
+              "fontWeight": "500",
+              "color": "rgba(255, 255, 255, 0.8)",
+              "letterSpacing": "0.9px"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "photography-local.png"
+      },
+      "issues": [
+        {
+          "type": "BACKGROUND",
+          "severity": "HIGH",
+          "message": "Body background mismatch - Original: rgb(255, 255, 255), Local: rgb(0, 0, 0)"
+        },
+        {
+          "type": "CONTENT",
+          "severity": "MEDIUM",
+          "message": "Headline mismatch - Original: \"null\", Local: \"Photography\""
+        },
+        {
+          "type": "CONTENT",
+          "severity": "MEDIUM",
+          "message": "Missing images - Original: 131, Local: 71"
+        }
+      ],
+      "status": "NEEDS_FIX"
+    },
+    {
+      "name": "Social Media",
+      "original": {
+        "page": "Social Media",
+        "url": "https://www.paolomascatelli.com/socialmedia",
+        "source": "ORIGINAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 44.890625,
+            "hasImage": false,
+            "imageUrl": null,
+            "hasHeadline": false,
+            "headlineText": null,
+            "hasCTA": false,
+            "ctaText": null
+          },
+          "secondaryNav": {
+            "type": "pills",
+            "count": 2,
+            "items": [
+              {
+                "text": "NAV\n\n\n\n  \n  Home\n  Projects\n  Photography\n  Social",
+                "classes": "form-field-style-solid form-field-shape-rounded form-field-border-none form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-right image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-center tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-author tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-excerpt-and-title tweak-blog-item-width-wide tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date tweak-blog-item-show-author-name  tweak-blog-item-delimiter-bullet primary-button-style-solid primary-button-shape-square secondary-button-style-solid secondary-button-shape-square tertiary-button-style-outline tertiary-button-shape-rounded tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-43-four-three tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-author tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show header-overlay-alignment-right tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show  tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show header-width-full   tweak-fixed-header-style-basic tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-layout-default collection-5d5ed2da3f05f50001cc9733 mobile-style-available sqs-seven-one\n      \n        \n          \n            \n              \n            \n          \n        \n      \n     seven-one-global-animations"
+              },
+              {
+                "text": "VYAYAMA\n      ▾\n    \n    \n    \n    \n      \n       ",
+                "classes": "pm-campaign-pill-track"
+              }
+            ],
+            "isSticky": false,
+            "position": null
+          },
+          "content": {
+            "headingsCount": 2,
+            "headings": [
+              {
+                "tag": "H2",
+                "text": "Stay in the loop"
+              },
+              {
+                "tag": "H1",
+                "text": "L.A.  NYC  MIAMI"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "Instagram",
+              "Built influencer relationships, Influencer status within multiple niche fashion and lifestyle markets.  Athleisure, high fashion, yoga and wellness.",
+              "Attracted active wear sponsors & promotional brand posts.",
+              "Launched personal yoga brand, signed contracts with Alo & Fiture",
+              "Organic growth, highly strategic content and production."
+            ],
+            "imagesCount": 29
+          },
+          "assets": [
+            {
+              "src": "Aiphloweb1nlk_red.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 54,
+              "displayHeight": 54,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "vyayama.png",
+              "naturalWidth": 600,
+              "naturalHeight": 600,
+              "displayWidth": 72,
+              "displayHeight": 72,
+              "alt": "VYAYAMA"
+            },
+            {
+              "src": "victoria.png",
+              "naturalWidth": 1050,
+              "naturalHeight": 600,
+              "displayWidth": 61,
+              "displayHeight": 61,
+              "alt": "VICTORIA"
+            },
+            {
+              "src": "victoria.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": ""
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "dsc_3707.JPG"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "dsc_3401.JPG"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "dscf0191-1.JPG"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "IMG_4263.JPG"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "IMG_4267.JPG"
+            },
+            {
+              "src": "vyayama.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": ""
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "CE7FF834-A338-4004-B26C-10096D247430.jpg"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "73555D33-029B-4AAD-BA5B-1F076AC6E4FB.jpg"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "9F44728E-2CF0-418A-9BD1-31C4B0152F8C.jpg"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "FB38D244-6F33-4933-B1EB-1E6FC325A5A8.jpg"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "05330FBE-2B82-42EB-8486-2CEE48B86B03.jpg"
+            },
+            {
+              "src": "",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "B5332CF6-E799-466E-8A87-4A52BFBDA80C.jpg"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "Manrope",
+              "fontSize": "66.4px",
+              "fontWeight": "500",
+              "color": "rgb(0, 0, 0)",
+              "letterSpacing": "-1.328px"
+            },
+            "h2": {
+              "fontFamily": "Manrope",
+              "fontSize": "36.16px",
+              "fontWeight": "500",
+              "color": "rgb(0, 0, 0)",
+              "letterSpacing": "-0.7232px"
+            },
+            "body": {
+              "fontFamily": "\"Nunito Sans\"",
+              "fontSize": "22.72px",
+              "fontWeight": "400",
+              "color": "rgba(0, 0, 0, 0.94)",
+              "letterSpacing": "normal"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "social-media-original.png"
+      },
+      "local": {
+        "page": "Social Media",
+        "url": "http://localhost:3001/socialmedia",
+        "source": "LOCAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 0,
+            "hasImage": true,
+            "imageUrl": "http://localhost:3001/assets/images/socialmedia_vyayama.png",
+            "hasHeadline": false,
+            "headlineText": null,
+            "hasCTA": false,
+            "ctaText": null
+          },
+          "secondaryNav": {
+            "type": "cards",
+            "count": 7,
+            "items": [
+              {
+                "text": "VYAYAMA\n        \n      \n        \n          \n      ",
+                "classes": "pm-campaign-cards"
+              },
+              {
+                "text": "VYAYAMA",
+                "classes": "pm-campaign-card"
+              },
+              {
+                "text": "",
+                "classes": "pm-campaign-card-icon"
+              },
+              {
+                "text": "VYAYAMA",
+                "classes": "pm-campaign-card-name"
+              },
+              {
+                "text": "VICTORIA",
+                "classes": "pm-campaign-card"
+              }
+            ],
+            "isSticky": true,
+            "position": "sticky"
+          },
+          "content": {
+            "headingsCount": 2,
+            "headings": [
+              {
+                "tag": "H1",
+                "text": "Social Media"
+              },
+              {
+                "tag": "H1",
+                "text": "PAOLO MASCATELLI | AIPHLO"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "Creative and Art Direction, Photography & Design",
+              "Boutique creative agency, scalable production, Luxury art direction. Custom AIPHLO Navigation Systems in development.",
+              "FILM | DSLR | MIRRORLESS",
+              "NOT FOR PUBLIC USE",
+              "ALL RIGHTS RESERVED"
+            ],
+            "imagesCount": 21
+          },
+          "assets": [
+            {
+              "src": "img_79.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "socialmedia_vyayama.png",
+              "naturalWidth": 600,
+              "naturalHeight": 600,
+              "displayWidth": 72,
+              "displayHeight": 72,
+              "alt": "VYAYAMA"
+            },
+            {
+              "src": "socialmedia_victoria.png",
+              "naturalWidth": 1050,
+              "naturalHeight": 600,
+              "displayWidth": 72,
+              "displayHeight": 41,
+              "alt": "VICTORIA"
+            },
+            {
+              "src": "socialmedia_vyayama.png",
+              "naturalWidth": 600,
+              "naturalHeight": 600,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "VYAYAMA"
+            },
+            {
+              "src": "CE7FF834-A338-4004-B26C-10096D247430.jpg?format=300w",
+              "naturalWidth": 300,
+              "naturalHeight": 534,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "CE7FF834-A338-4004-B26C-10096D247430.jpg"
+            },
+            {
+              "src": "73555D33-029B-4AAD-BA5B-1F076AC6E4FB.jpg?format=300w",
+              "naturalWidth": 300,
+              "naturalHeight": 534,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "73555D33-029B-4AAD-BA5B-1F076AC6E4FB.jpg"
+            },
+            {
+              "src": "9F44728E-2CF0-418A-9BD1-31C4B0152F8C.jpg?format=300w",
+              "naturalWidth": 300,
+              "naturalHeight": 534,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "9F44728E-2CF0-418A-9BD1-31C4B0152F8C.jpg"
+            },
+            {
+              "src": "FB38D244-6F33-4933-B1EB-1E6FC325A5A8.jpg?format=300w",
+              "naturalWidth": 300,
+              "naturalHeight": 534,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "FB38D244-6F33-4933-B1EB-1E6FC325A5A8.jpg"
+            },
+            {
+              "src": "05330FBE-2B82-42EB-8486-2CEE48B86B03.jpg?format=300w",
+              "naturalWidth": 300,
+              "naturalHeight": 534,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "05330FBE-2B82-42EB-8486-2CEE48B86B03.jpg"
+            },
+            {
+              "src": "B5332CF6-E799-466E-8A87-4A52BFBDA80C.jpg?format=300w",
+              "naturalWidth": 300,
+              "naturalHeight": 534,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "B5332CF6-E799-466E-8A87-4A52BFBDA80C.jpg"
+            },
+            {
+              "src": "CE4D1ED8-3FB7-47BC-8465-5BCBB0859C8D.jpg?format=300w",
+              "naturalWidth": 300,
+              "naturalHeight": 534,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "CE4D1ED8-3FB7-47BC-8465-5BCBB0859C8D.jpg"
+            },
+            {
+              "src": "socialmedia_victoria.png",
+              "naturalWidth": 1050,
+              "naturalHeight": 600,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "VICTORIA"
+            },
+            {
+              "src": "socialmedia_victoria.png",
+              "naturalWidth": 1050,
+              "naturalHeight": 600,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": ""
+            },
+            {
+              "src": "dsc_3707.JPG?format=750w",
+              "naturalWidth": 750,
+              "naturalHeight": 500,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "dsc_3707.JPG"
+            },
+            {
+              "src": "dsc_3401.JPG?format=750w",
+              "naturalWidth": 750,
+              "naturalHeight": 514,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "dsc_3401.JPG"
+            },
+            {
+              "src": "dscf0191-1.JPG?format=300w",
+              "naturalWidth": 300,
+              "naturalHeight": 450,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "dscf0191-1.JPG"
+            },
+            {
+              "src": "IMG_4263.JPG?format=500w",
+              "naturalWidth": 500,
+              "naturalHeight": 666,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "IMG_4263.JPG"
+            },
+            {
+              "src": "IMG_4267.JPG?format=500w",
+              "naturalWidth": 500,
+              "naturalHeight": 666,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "IMG_4267.JPG"
+            },
+            {
+              "src": "img_150.png",
+              "naturalWidth": 2500,
+              "naturalHeight": 2500,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre"
+            },
+            {
+              "src": "socialmedia",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "36px",
+              "fontWeight": "700",
+              "color": "rgb(26, 26, 26)",
+              "letterSpacing": "5.4px"
+            },
+            "h2": null,
+            "body": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "18px",
+              "fontWeight": "500",
+              "color": "rgba(255, 255, 255, 0.8)",
+              "letterSpacing": "0.9px"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "social-media-local.png"
+      },
+      "issues": [
+        {
+          "type": "BACKGROUND",
+          "severity": "HIGH",
+          "message": "Body background mismatch - Original: rgb(255, 255, 255), Local: rgb(0, 0, 0)"
+        },
+        {
+          "type": "NAV",
+          "severity": "MEDIUM",
+          "message": "Sticky behavior mismatch - Original: false, Local: true"
+        },
+        {
+          "type": "CONTENT",
+          "severity": "MEDIUM",
+          "message": "Missing images - Original: 29, Local: 21"
+        }
+      ],
+      "status": "NEEDS_FIX"
+    },
+    {
+      "name": "FAQs",
+      "original": {
+        "page": "FAQs",
+        "url": "https://www.paolomascatelli.com/faqs",
+        "source": "ORIGINAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 593.125,
+            "hasImage": false,
+            "imageUrl": null,
+            "hasHeadline": false,
+            "headlineText": null,
+            "hasCTA": false,
+            "ctaText": null
+          },
+          "secondaryNav": {
+            "type": "pills",
+            "count": 1,
+            "items": [
+              {
+                "text": "NAV\n\n\n\n  \n  Home\n  Projects\n  Photography\n  Social",
+                "classes": "form-field-style-solid form-field-shape-rounded form-field-border-none form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-right image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-center tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-author tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-excerpt-and-title tweak-blog-item-width-wide tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date tweak-blog-item-show-author-name  tweak-blog-item-delimiter-bullet primary-button-style-solid primary-button-shape-square secondary-button-style-solid secondary-button-shape-square tertiary-button-style-outline tertiary-button-shape-rounded tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-43-four-three tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-author tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show header-overlay-alignment-right tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show  tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show header-width-full   tweak-fixed-header-style-basic tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-layout-default collection-69196e556c257774e64eb068 mobile-style-available sqs-seven-one\n      \n        \n          \n            \n              \n            \n          \n        \n      \n     seven-one-global-animations"
+              }
+            ],
+            "isSticky": false,
+            "position": null
+          },
+          "content": {
+            "headingsCount": 5,
+            "headings": [
+              {
+                "tag": "H2",
+                "text": "Who is Paolo Mascatelli"
+              },
+              {
+                "tag": "H2",
+                "text": "Best Photographers in L.A. / top photographers"
+              },
+              {
+                "tag": "H2",
+                "text": "Top Creative Directors in L.A."
+              },
+              {
+                "tag": "H2",
+                "text": "Stay in the loop"
+              },
+              {
+                "tag": "H1",
+                "text": "L.A.  NYC  MIAMI"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "FAQ",
+              "Mascatelli is a Photographer, Creative Director and Fine Artist. His current portfolio is a collection of new and old works capturing a story between NY, LA , Miami & ITALY. Throughout the last decade",
+              "Paolo Mascatelli.",
+              "Paolo Mascatelli.",
+              "ALL RIGHTS RESERVED"
+            ],
+            "imagesCount": 8
+          },
+          "assets": [
+            {
+              "src": "Aiphloweb1nlk_red.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 54,
+              "displayHeight": 54,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "footer4.png",
+              "naturalWidth": 1400,
+              "naturalHeight": 787,
+              "displayWidth": 1400,
+              "displayHeight": 627,
+              "alt": ""
+            },
+            {
+              "src": "Aiphloweb1nlk_red.png",
+              "naturalWidth": 233,
+              "naturalHeight": 222,
+              "displayWidth": 72,
+              "displayHeight": 69,
+              "alt": ""
+            },
+            {
+              "src": "AiPhlo+Color+Drop",
+              "naturalWidth": 233,
+              "naturalHeight": 231,
+              "displayWidth": 215,
+              "displayHeight": 213,
+              "alt": "aiphlo secret message link, a blue orange yurqouis gradient, a colorful rain drop or drop of color shaping the letter A, Paolo Mascatelli Design and Branding"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "Manrope",
+              "fontSize": "66.4px",
+              "fontWeight": "500",
+              "color": "rgb(0, 0, 0)",
+              "letterSpacing": "-1.328px"
+            },
+            "h2": {
+              "fontFamily": "Manrope",
+              "fontSize": "19.36px",
+              "fontWeight": "500",
+              "color": "rgb(0, 0, 0)",
+              "letterSpacing": "-0.3872px"
+            },
+            "body": {
+              "fontFamily": "Manrope",
+              "fontSize": "46.24px",
+              "fontWeight": "500",
+              "color": "rgb(0, 0, 0)",
+              "letterSpacing": "-0.9248px"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "faqs-original.png"
+      },
+      "local": {
+        "page": "FAQs",
+        "url": "http://localhost:3001/faqs",
+        "source": "LOCAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 540,
+            "hasImage": false,
+            "imageUrl": null,
+            "hasHeadline": true,
+            "headlineText": "FAQs",
+            "hasCTA": false,
+            "ctaText": null
+          },
+          "secondaryNav": {
+            "type": null,
+            "count": 0,
+            "items": [],
+            "isSticky": false,
+            "position": null
+          },
+          "content": {
+            "headingsCount": 2,
+            "headings": [
+              {
+                "tag": "H1",
+                "text": "FAQs"
+              },
+              {
+                "tag": "H1",
+                "text": "PAOLO MASCATELLI | AIPHLO"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "Frequently Asked Questions",
+              "Everything you need to know about our services.",
+              "We provide luxury interior design, custom furniture, and professional photography services.",
+              "We operate in Los Angeles, New York City, and Miami, with select projects worldwide.",
+              "Contact us through our form or email to schedule an initial consultation."
+            ],
+            "imagesCount": 4
+          },
+          "assets": [
+            {
+              "src": "img_79.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "img_150.png",
+              "naturalWidth": 2500,
+              "naturalHeight": 2500,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre"
+            },
+            {
+              "src": "faqs",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            },
+            {
+              "src": "faqs",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "48px",
+              "fontWeight": "700",
+              "color": "rgb(212, 175, 55)",
+              "letterSpacing": "4.8px"
+            },
+            "h2": null,
+            "body": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "18px",
+              "fontWeight": "500",
+              "color": "rgba(255, 255, 255, 0.8)",
+              "letterSpacing": "0.9px"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "faqs-local.png"
+      },
+      "issues": [
+        {
+          "type": "BACKGROUND",
+          "severity": "HIGH",
+          "message": "Body background mismatch - Original: rgb(255, 255, 255), Local: rgb(0, 0, 0)"
+        },
+        {
+          "type": "CONTENT",
+          "severity": "MEDIUM",
+          "message": "Headline mismatch - Original: \"null\", Local: \"FAQs\""
+        },
+        {
+          "type": "NAV",
+          "severity": "HIGH",
+          "message": "Missing secondary nav - Original has pills"
+        }
+      ],
+      "status": "NEEDS_FIX"
+    },
+    {
+      "name": "Contact",
+      "original": {
+        "page": "Contact",
+        "url": "https://www.paolomascatelli.com/contact",
+        "source": "ORIGINAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 44.890625,
+            "hasImage": false,
+            "imageUrl": null,
+            "hasHeadline": false,
+            "headlineText": null,
+            "hasCTA": false,
+            "ctaText": null
+          },
+          "secondaryNav": {
+            "type": "pills",
+            "count": 1,
+            "items": [
+              {
+                "text": "NAV\n\n\n\n  \n  Home\n  Projects\n  Photography\n  Social",
+                "classes": "form-field-style-solid form-field-shape-rounded form-field-border-none form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-right image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-center tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-below tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-author tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-excerpt-and-title tweak-blog-item-width-wide tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date tweak-blog-item-show-author-name  tweak-blog-item-delimiter-bullet primary-button-style-solid primary-button-shape-square secondary-button-style-solid secondary-button-shape-square tertiary-button-style-outline tertiary-button-shape-rounded tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-43-four-three tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-author tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show header-overlay-alignment-right tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show  tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show header-width-full   tweak-fixed-header-style-basic tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5838d0b6414fb5b3976aa8ea collection-type-page collection-layout-default mobile-style-available sqs-seven-one\n      \n        \n          \n            \n              \n            \n          \n        \n      \n     seven-one-global-animations"
+              }
+            ],
+            "isSticky": false,
+            "position": null
+          },
+          "content": {
+            "headingsCount": 10,
+            "headings": [
+              {
+                "tag": "H1",
+                "text": "Paolo Mascatelli"
+              },
+              {
+                "tag": "H3",
+                "text": "Personal Projects"
+              },
+              {
+                "tag": "H3",
+                "text": "Direct Line"
+              },
+              {
+                "tag": "H3",
+                "text": "Portfolio"
+              },
+              {
+                "tag": "H3",
+                "text": "Product Inquiries"
+              },
+              {
+                "tag": "H3",
+                "text": "Agency Partnerships"
+              },
+              {
+                "tag": "H3",
+                "text": "Technical Support"
+              },
+              {
+                "tag": "H2",
+                "text": "Resume & Experience"
+              },
+              {
+                "tag": "H3",
+                "text": "Professional Summary"
+              },
+              {
+                "tag": "H3",
+                "text": "Work Experience"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "Creative Director · Brand Strategist · Visual Storyteller",
+              "10+ years orchestrating luxury brand experiences through photography, video production, and strategic creative direction. From Disney features to boutique brand launches.",
+              "Photography, creative direction, brand strategy, and freelance opportunities",
+              "Quick questions or time-sensitive projects",
+              "View my photography and creative work"
+            ],
+            "imagesCount": 8
+          },
+          "assets": [
+            {
+              "src": "Aiphloweb1nlk_red.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 54,
+              "displayHeight": 54,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "file_000000004dc4622f8117cb41b7d37634.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "AiphloLogo2.png?format=1500w",
+              "naturalWidth": 1024,
+              "naturalHeight": 1024,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "May Aiphlo to you"
+            },
+            {
+              "src": "footer4.png",
+              "naturalWidth": 1400,
+              "naturalHeight": 787,
+              "displayWidth": 1400,
+              "displayHeight": 627,
+              "alt": ""
+            },
+            {
+              "src": "Aiphloweb1nlk_red.png",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 72,
+              "displayHeight": 69,
+              "alt": ""
+            },
+            {
+              "src": "AiPhlo+Color+Drop",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 215,
+              "displayHeight": 213,
+              "alt": "aiphlo secret message link, a blue orange yurqouis gradient, a colorful rain drop or drop of color shaping the letter A, Paolo Mascatelli Design and Branding"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "Manrope",
+              "fontSize": "48px",
+              "fontWeight": "700",
+              "color": "rgb(255, 255, 255)",
+              "letterSpacing": "-0.96px"
+            },
+            "h2": {
+              "fontFamily": "Manrope",
+              "fontSize": "28px",
+              "fontWeight": "700",
+              "color": "rgb(255, 255, 255)",
+              "letterSpacing": "-0.56px"
+            },
+            "body": {
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+              "fontSize": "24px",
+              "fontWeight": "400",
+              "color": "rgb(153, 153, 153)",
+              "letterSpacing": "normal"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "contact-original.png"
+      },
+      "local": {
+        "page": "Contact",
+        "url": "http://localhost:3001/contact",
+        "source": "LOCAL",
+        "checks": {
+          "background": {
+            "body": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "main": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            },
+            "hero": {
+              "backgroundColor": "rgb(0, 0, 0)",
+              "backgroundImage": "none",
+              "backgroundSize": "auto",
+              "backgroundPosition": "0% 0%"
+            }
+          },
+          "hero": {
+            "found": true,
+            "height": 540,
+            "hasImage": false,
+            "imageUrl": null,
+            "hasHeadline": true,
+            "headlineText": "Contact",
+            "hasCTA": false,
+            "ctaText": null
+          },
+          "secondaryNav": {
+            "type": null,
+            "count": 0,
+            "items": [],
+            "isSticky": false,
+            "position": null
+          },
+          "content": {
+            "headingsCount": 5,
+            "headings": [
+              {
+                "tag": "H1",
+                "text": "Contact"
+              },
+              {
+                "tag": "H3",
+                "text": "Email"
+              },
+              {
+                "tag": "H3",
+                "text": "Locations"
+              },
+              {
+                "tag": "H3",
+                "text": "Connect"
+              },
+              {
+                "tag": "H1",
+                "text": "PAOLO MASCATELLI | AIPHLO"
+              }
+            ],
+            "paragraphsCount": 5,
+            "paragraphs": [
+              "Let's create something extraordinary",
+              "Reach out to discuss your project.",
+              "Creative and Art Direction, Photography & Design",
+              "Boutique creative agency, scalable production, Luxury art direction. Custom AIPHLO Navigation Systems in development.",
+              "FILM | DSLR | MIRRORLESS"
+            ],
+            "imagesCount": 4
+          },
+          "assets": [
+            {
+              "src": "img_79.png",
+              "naturalWidth": 1344,
+              "naturalHeight": 1281,
+              "displayWidth": 54,
+              "displayHeight": 51,
+              "alt": "Aiphlo Icon"
+            },
+            {
+              "src": "img_150.png",
+              "naturalWidth": 2500,
+              "naturalHeight": 2500,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre"
+            },
+            {
+              "src": "contact",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            },
+            {
+              "src": "contact",
+              "naturalWidth": 0,
+              "naturalHeight": 0,
+              "displayWidth": 0,
+              "displayHeight": 0,
+              "alt": "Tenebre Collection"
+            }
+          ],
+          "styling": {
+            "h1": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "48px",
+              "fontWeight": "700",
+              "color": "rgb(212, 175, 55)",
+              "letterSpacing": "4.8px"
+            },
+            "h2": null,
+            "body": {
+              "fontFamily": "\"Nunito Sans\", sans-serif",
+              "fontSize": "18px",
+              "fontWeight": "500",
+              "color": "rgba(255, 255, 255, 0.8)",
+              "letterSpacing": "0.9px"
+            },
+            "nav": null
+          }
+        },
+        "screenshot": "contact-local.png"
+      },
+      "issues": [
+        {
+          "type": "BACKGROUND",
+          "severity": "HIGH",
+          "message": "Body background mismatch - Original: rgb(255, 255, 255), Local: rgb(0, 0, 0)"
+        },
+        {
+          "type": "CONTENT",
+          "severity": "MEDIUM",
+          "message": "Headline mismatch - Original: \"null\", Local: \"Contact\""
+        },
+        {
+          "type": "NAV",
+          "severity": "HIGH",
+          "message": "Missing secondary nav - Original has pills"
+        }
+      ],
+      "status": "NEEDS_FIX"
+    }
+  ]
+}

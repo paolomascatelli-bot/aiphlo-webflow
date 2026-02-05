@@ -1,0 +1,108 @@
+<!--
+  =============================================
+  AIPHLO WEBFLOW LISTENER - READY TO PASTE
+  =============================================
+
+  Copy EVERYTHING below and paste into:
+  Webflow → Project Settings → Custom Code → Footer Code
+
+  Then update YOUR_API_URL with your deployed API address
+  =============================================
+-->
+
+<script>
+// ═══════════════════════════════════════════
+// AIPHLO CONFIG - UPDATE THIS SECTION
+// ═══════════════════════════════════════════
+window.AIPHLO_CONFIG = {
+  API_URL: 'https://YOUR_API_URL.railway.app',  // ← CHANGE THIS to your deployed API
+  SITE_KEY: 'aiphlo-demo',
+  DEBUG: false
+};
+// ═══════════════════════════════════════════
+
+(function(){
+  'use strict';
+  const C = window.AIPHLO_CONFIG;
+  const log = (...a) => C.DEBUG && console.log('[AiPhlo]', ...a);
+
+  const SLOTS = {
+    text: (e,v) => e.textContent = v,
+    html: (e,v) => e.innerHTML = v,
+    image: (e,v) => e.tagName === 'IMG' ? e.src = v : e.style.backgroundImage = `url(${v})`,
+    link: (e,v) => { e.href = typeof v === 'object' ? v.url||'#' : v; if(v.text) e.textContent = v.text; }
+  };
+
+  function getVal(o,p) { return p.split('.').reduce((c,k) => c && c[k], o); }
+
+  function populate(el,val,type='text') { (SLOTS[type]||SLOTS.text)(el,val); }
+
+  function renderRepeater(container, items) {
+    if(!container||!items) return;
+    const tpl = container.querySelector('[data-template]');
+    container.innerHTML = '';
+    if(tpl) container.appendChild(tpl);
+    items.forEach(item => {
+      const clone = tpl ? tpl.cloneNode(true) : document.createElement('div');
+      clone.removeAttribute('data-template');
+      clone.style.display = '';
+      clone.querySelectorAll('[data-slot]').forEach(el => {
+        const v = getVal(item, el.dataset.slot);
+        if(v !== undefined) populate(el, v, el.dataset.slotType||'text');
+      });
+      container.appendChild(clone);
+    });
+  }
+
+  async function init() {
+    log('Starting');
+    const page = location.pathname === '/' || location.pathname === '/index.html' ? '/' : location.pathname;
+
+    try {
+      const res = await fetch(`${C.API_URL}/v1/populate`, {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({ site_key: C.SITE_KEY, page })
+      });
+      if(!res.ok) throw new Error(`API ${res.status}`);
+      const data = await res.json();
+      log('Content received', data);
+
+      (data.blocks||[]).forEach(b => {
+        const block = document.querySelector(`[data-block="${b.id}"]`);
+        if(!block) return log('Block not found:', b.id);
+
+        // Handle repeaters
+        block.querySelectorAll('[data-repeater]').forEach(r => {
+          const items = getVal(b.slots, r.dataset.repeater);
+          if(items) renderRepeater(r, items);
+        });
+
+        // Handle slots
+        block.querySelectorAll('[data-slot]').forEach(el => {
+          if(el.closest('[data-repeater]')) return;
+          const v = getVal(b.slots, el.dataset.slot);
+          if(v !== undefined) populate(el, v, el.dataset.slotType||'text');
+        });
+
+        // Background image shortcut
+        if(b.slots.background) {
+          const bg = block.querySelector('[data-slot="background"]') || block;
+          bg.style.backgroundImage = `url(${b.slots.background})`;
+        }
+      });
+
+      document.dispatchEvent(new CustomEvent('aiphlo:loaded', {detail: data}));
+      log('Done');
+    } catch(e) {
+      console.error('[AiPhlo] Error:', e);
+    }
+  }
+
+  document.readyState === 'loading'
+    ? document.addEventListener('DOMContentLoaded', init)
+    : init();
+
+  window.AiPhlo = { config: C, refresh: init };
+})();
+</script>

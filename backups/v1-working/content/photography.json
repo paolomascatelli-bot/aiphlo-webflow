@@ -1,0 +1,85 @@
+{
+  "title": "Photography",
+  "blocks": [
+    {
+      "id": "nav",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "menu": [
+          { "text": "Home", "url": "/" },
+          { "text": "Projects", "url": "/projects" },
+          { "text": "Photography", "url": "/photography" },
+          { "text": "Social Media", "url": "/socialmedia" },
+          { "text": "FAQs", "url": "/faqs" },
+          { "text": "Contact", "url": "/contact" }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "slots": {
+        "headline": "Photography",
+        "subhead": "Professional interior and product photography",
+        "body": "Capturing luxury in every frame."
+      }
+    },
+    {
+      "id": "photo-nav",
+      "slots": {
+        "categories": [
+          { "id": "interiors", "name": "Interiors" },
+          { "id": "products", "name": "Products" },
+          { "id": "lifestyle", "name": "Lifestyle" },
+          { "id": "architecture", "name": "Architecture" }
+        ],
+        "galleries": {
+          "interiors": [
+            { "src": "http://localhost:3001/assets/images/img_3.png", "alt": "Interior Design" },
+            { "src": "http://localhost:3001/assets/images/img_4.png", "alt": "Interior Design" },
+            { "src": "http://localhost:3001/assets/images/img_5.jpg", "alt": "Interior Design" },
+            { "src": "http://localhost:3001/assets/images/img_6.jpg", "alt": "Interior Design" },
+            { "src": "http://localhost:3001/assets/images/img_7.jpg", "alt": "Interior Design" },
+            { "src": "http://localhost:3001/assets/images/img_8.jpg", "alt": "Interior Design" },
+            { "src": "http://localhost:3001/assets/images/img_52.png", "alt": "Interior Design" },
+            { "src": "http://localhost:3001/assets/images/img_53.jpg", "alt": "Interior Design" },
+            { "src": "http://localhost:3001/assets/images/img_54.jpg", "alt": "Interior Design" }
+          ],
+          "products": [
+            { "src": "http://localhost:3001/assets/images/img_21.jpg", "alt": "Product Shot" },
+            { "src": "http://localhost:3001/assets/images/img_22.jpg", "alt": "Product Shot" },
+            { "src": "http://localhost:3001/assets/images/img_23.png", "alt": "Product Shot" },
+            { "src": "http://localhost:3001/assets/images/img_24.png", "alt": "Product Shot" },
+            { "src": "http://localhost:3001/assets/images/img_25.png", "alt": "Product Shot" },
+            { "src": "http://localhost:3001/assets/images/img_26.jpg", "alt": "Product Shot" }
+          ],
+          "lifestyle": [
+            { "src": "http://localhost:3001/assets/images/img_29.png", "alt": "Lifestyle" },
+            { "src": "http://localhost:3001/assets/images/img_30.png", "alt": "Lifestyle" },
+            { "src": "http://localhost:3001/assets/images/img_31.png", "alt": "Lifestyle" },
+            { "src": "http://localhost:3001/assets/images/img_32.png", "alt": "Lifestyle" },
+            { "src": "http://localhost:3001/assets/images/img_33.png", "alt": "Lifestyle" },
+            { "src": "http://localhost:3001/assets/images/img_34.png", "alt": "Lifestyle" }
+          ],
+          "architecture": [
+            { "src": "http://localhost:3001/assets/images/img_35.jpg", "alt": "Architecture" },
+            { "src": "http://localhost:3001/assets/images/img_36.jpg", "alt": "Architecture" },
+            { "src": "http://localhost:3001/assets/images/img_37.jpg", "alt": "Architecture" },
+            { "src": "http://localhost:3001/assets/images/img_38.jpg", "alt": "Architecture" },
+            { "src": "http://localhost:3001/assets/images/img_39.jpg", "alt": "Architecture" },
+            { "src": "http://localhost:3001/assets/images/img_40.png", "alt": "Architecture" }
+          ]
+        }
+      }
+    },
+    {
+      "id": "footer",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "copyright": "ALL RIGHTS RESERVED",
+        "notice": "NOT FOR PUBLIC USE",
+        "locations": "L.A.  NYC  MIAMI",
+        "contact": { "text": "contact us", "url": "/contact" }
+      }
+    }
+  ]
+}

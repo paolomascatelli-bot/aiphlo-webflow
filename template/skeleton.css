@@ -1,0 +1,517 @@
+/* =========================================
+   AIPHLO SKELETON TEMPLATE CSS
+   Empty blocks, pre-wired animations
+   Content flows in via API
+   ========================================= */
+
+:root {
+  --pm-nav-bg: rgba(70, 76, 82, 0.96);
+  --pm-pill-bg: rgba(10, 10, 10, 0.94);
+  --aiphlo-gold: #d4af37;
+  --aiphlo-green: #6fb886;
+  --aiphlo-black: #000000;
+  --aiphlo-white: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--aiphlo-black);
+  color: var(--aiphlo-white);
+  font-family: "Nunito Sans", -apple-system, sans-serif;
+  min-height: 100vh;
+}
+
+/* =========================================
+   1. NAV BLOCK (aiphlo-nav)
+   ========================================= */
+.aiphlo-nav {
+  position: fixed;
+  top: 16px;
+  left: 16px;
+  z-index: 999999;
+}
+
+.nav-trigger {
+  background: var(--pm-nav-bg);
+  padding: 10px 18px;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.nav-trigger:hover {
+  background: rgba(80, 86, 92, 0.98);
+  transform: translateY(-2px);
+}
+
+.nav-logo {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+}
+
+.nav-label {
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.nav-dropdown {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  background: var(--pm-nav-bg);
+  border-radius: 16px;
+  padding: 14px 0;
+  min-width: 180px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+.nav-dropdown.visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.nav-arrow {
+  position: absolute;
+  top: -8px;
+  left: 24px;
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 8px solid var(--pm-nav-bg);
+}
+
+.nav-menu {
+  list-style: none;
+}
+
+.nav-menu li a {
+  display: block;
+  padding: 12px 24px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  transition: all 0.25s ease;
+}
+
+.nav-menu li a:hover {
+  background: rgba(255, 255, 255, 0.1);
+  padding-left: 28px;
+  color: var(--aiphlo-gold);
+}
+
+/* =========================================
+   2. HERO BLOCK (hero-announce)
+   ========================================= */
+.hero-announce {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 100px 40px;
+  background: var(--aiphlo-black);
+  opacity: 0;
+  transition: opacity 0.8s ease;
+}
+
+.hero-announce.aiphlo-loaded {
+  opacity: 1;
+}
+
+.hero-content {
+  max-width: 800px;
+}
+
+.hero-headline {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  color: var(--aiphlo-gold);
+  margin-bottom: 20px;
+}
+
+.hero-arrow {
+  font-size: 24px;
+  color: var(--aiphlo-gold);
+  margin-bottom: 30px;
+}
+
+.hero-subhead {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 20px;
+}
+
+.hero-body {
+  font-size: 14px;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 30px;
+}
+
+.hero-cta {
+  display: inline-block;
+  padding: 14px 32px;
+  background: var(--aiphlo-gold);
+  color: var(--aiphlo-black);
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  border-radius: 30px;
+  transition: all 0.3s ease;
+}
+
+.hero-cta:hover {
+  background: var(--aiphlo-white);
+  transform: translateY(-2px);
+}
+
+/* =========================================
+   3. TENEBRE BLOCK (tenebre-gallery)
+   ========================================= */
+.tenebre-gallery {
+  background: var(--aiphlo-black);
+  padding-bottom: 60px;
+}
+
+/* Header */
+.tenebre-header {
+  width: 100%;
+  padding: 40px 0 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.tenebre-logo {
+  width: 160px;
+  height: auto;
+  opacity: 0.95;
+  filter: drop-shadow(0 4px 12px rgba(255, 255, 255, 0.15));
+  transition: all 0.5s ease;
+}
+
+.tenebre-logo:hover {
+  opacity: 1;
+  filter: drop-shadow(0 6px 16px rgba(255, 255, 255, 0.25));
+  transform: translateY(-2px);
+}
+
+/* Slideshow */
+.tenebre-slideshow {
+  position: relative;
+  width: 100%;
+  height: 0;
+  overflow: hidden;
+  background: var(--aiphlo-black);
+  transition: height 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tenebre-slideshow.expanded {
+  height: calc(85vh - 8px);
+  min-height: 500px;
+}
+
+.slideshow-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slideshow-overlay {
+  position: absolute;
+  inset: 0;
+  background: var(--aiphlo-black);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 1s ease;
+  z-index: 2;
+}
+
+.slide-current,
+.slide-next {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity 2.18s ease;
+  z-index: 1;
+}
+
+.slide-current.visible,
+.slide-next.visible {
+  opacity: 1;
+}
+
+/* Toggle */
+.tenebre-toggle-container {
+  width: 100%;
+  padding: 30px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.tenebre-toggle-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.toggle-label {
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--aiphlo-gold);
+  opacity: 0.6;
+  transition: all 0.4s ease;
+}
+
+.toggle-label.active {
+  opacity: 1;
+  color: var(--aiphlo-green);
+}
+
+.tenebre-toggle {
+  position: relative;
+  width: 64px;
+  height: 32px;
+  background: rgba(212, 175, 55, 0.2);
+  border-radius: 16px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  border: 1px solid rgba(212, 175, 55, 0.3);
+}
+
+.tenebre-toggle:hover {
+  background: rgba(212, 175, 55, 0.3);
+  transform: scale(1.05);
+}
+
+.tenebre-toggle.active {
+  background: rgba(111, 184, 134, 0.3);
+  border-color: rgba(111, 184, 134, 0.6);
+  box-shadow: 0 0 16px rgba(111, 184, 134, 0.3);
+}
+
+.toggle-knob {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 24px;
+  height: 24px;
+  background: linear-gradient(135deg, var(--aiphlo-gold), #b8860b);
+  border-radius: 50%;
+  transition: all 0.5s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4), 0 0 8px rgba(212, 175, 55, 0.4);
+}
+
+.tenebre-toggle.active .toggle-knob {
+  left: 35px;
+  background: linear-gradient(135deg, var(--aiphlo-green), #50a068);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4), 0 0 12px rgba(111, 184, 134, 0.6);
+}
+
+/* Category Tabs */
+.tenebre-tabs-container {
+  padding: 20px;
+}
+
+.tenebre-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.tenebre-tab {
+  padding: 12px 24px;
+  background: transparent;
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  border-radius: 25px;
+  color: var(--aiphlo-gold);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.4s ease;
+}
+
+.tenebre-tab:hover {
+  background: rgba(212, 175, 55, 0.15);
+  border-color: var(--aiphlo-gold);
+}
+
+.tenebre-tab.active {
+  background: var(--aiphlo-gold);
+  color: var(--aiphlo-black);
+  border-color: var(--aiphlo-gold);
+}
+
+/* Gallery Grid */
+.tenebre-grid {
+  display: none;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+  padding: 40px 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+.tenebre-grid.visible {
+  display: grid;
+  opacity: 1;
+}
+
+.gallery-item {
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.gallery-item:hover img {
+  transform: scale(1.05);
+}
+
+/* =========================================
+   4. FOOTER BLOCK (footer-signup)
+   ========================================= */
+.footer-signup {
+  background: var(--aiphlo-black);
+  padding: 60px 20px 40px;
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-film {
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 20px;
+}
+
+.footer-notice,
+.footer-copyright {
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 8px;
+}
+
+.footer-locations {
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0.3em;
+  color: var(--aiphlo-gold);
+  margin-top: 30px;
+}
+
+/* =========================================
+   5. LOADING STATES
+   ========================================= */
+[data-block]:not(.aiphlo-loaded) {
+  opacity: 0.3;
+}
+
+[data-block].aiphlo-loaded {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+/* =========================================
+   6. MOBILE RESPONSIVE
+   ========================================= */
+@media (max-width: 767px) {
+  .nav-trigger {
+    padding: 8px 14px;
+  }
+
+  .nav-logo {
+    width: 18px;
+    height: 18px;
+  }
+
+  .nav-label {
+    font-size: 10px;
+  }
+
+  .hero-announce {
+    padding: 80px 20px;
+  }
+
+  .hero-headline {
+    font-size: 12px;
+  }
+
+  .tenebre-logo {
+    width: 110px;
+  }
+
+  .tenebre-slideshow.expanded {
+    height: 70vh;
+    min-height: 400px;
+  }
+
+  .tenebre-tabs {
+    gap: 8px;
+  }
+
+  .tenebre-tab {
+    padding: 10px 18px;
+    font-size: 9px;
+  }
+
+  .tenebre-grid {
+    grid-template-columns: 1fr;
+    padding: 20px;
+  }
+}
+
+/* =========================================
+   7. SCROLL BEHAVIOR
+   ========================================= */
+html {
+  scroll-behavior: smooth;
+}

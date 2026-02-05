@@ -1,0 +1,395 @@
+{
+  "title": "AiPhlo | Luxury Design Systems & Advanced API",
+  "meta": {
+    "description": "Premium navigation templates and AI-powered design automation for Webflow",
+    "keywords": "webflow template, luxury navigation, design api, migration tools"
+  },
+  "blocks": [
+    {
+      "id": "aiphlo-hero",
+      "type": "aiphlo-hero",
+      "slots": {
+        "badge": "INTRODUCING AIPHLO",
+        "headline": "Luxury Navigation.<br>Intelligent Automation.",
+        "subtitle": "Two powerful products for designers who refuse to compromise. Premium templates for instant elegance. Advanced API for intelligent site migration.",
+        "features": [
+          "Phantom Nav Templates",
+          "AI-Powered Migration",
+          "Webflow Optimized"
+        ],
+        "ctas": [
+          { "text": "Explore Templates", "href": "#templates", "type": "primary" },
+          { "text": "View API Pricing", "href": "#api", "type": "secondary" }
+        ]
+      }
+    },
+    {
+      "id": "product-intro",
+      "type": "aiphlo-split",
+      "slots": {
+        "headline": "Two Products. One Vision.",
+        "content": "Whether you need a stunning template you can install today, or an intelligent system that migrates and transforms entire sites—AiPhlo delivers luxury-grade results.",
+        "cards": [
+          {
+            "icon": "phantom",
+            "title": "Phantom Nav Template",
+            "description": "Premium Webflow template with cinema-grade navigation, galleries, and interactions. Install in minutes.",
+            "price": "From $25",
+            "cta": { "text": "View Template", "href": "#templates" }
+          },
+          {
+            "icon": "api",
+            "title": "Advanced Design API",
+            "description": "AI-powered migration system. Extract, transform, and deploy sites with intelligent automation.",
+            "price": "From $49/mo",
+            "cta": { "text": "View API", "href": "#api" }
+          }
+        ]
+      }
+    },
+    {
+      "id": "templates-section",
+      "type": "aiphlo-product-section",
+      "slots": {
+        "anchor": "templates",
+        "badge": "PRODUCT 01",
+        "headline": "AiPhlo Phantom Nav Template",
+        "tagline": "Cinema-grade navigation. Zero code required.",
+        "description": "The exact navigation system powering this site—now available for your projects. Includes all gallery types, smooth interactions, and luxury styling that makes template sites look custom-built.",
+        "features": [
+          {
+            "title": "4 Navigation Systems",
+            "items": ["Phantom Gallery Nav", "Smart Product Nav", "Project Reveal System", "Photography Nav"]
+          },
+          {
+            "title": "Gallery Types",
+            "items": ["Horizontal Scroll", "Tenebre Toggle", "Lightbox Integration", "Mobile Swipe"]
+          },
+          {
+            "title": "Included Assets",
+            "items": ["Complete CSS Library", "JavaScript Interactions", "Responsive Breakpoints", "Animation Presets"]
+          }
+        ],
+        "tiers": [
+          {
+            "id": "template-basic",
+            "name": "TEMPLATE",
+            "price": "$25",
+            "period": "one-time",
+            "tagline": "Self-Install Package",
+            "description": "Complete template with all navigation systems and galleries. You handle the installation.",
+            "features": [
+              "All 4 navigation systems",
+              "All gallery types included",
+              "Complete CSS + JS package",
+              "Installation documentation",
+              "30-day email support",
+              "Commercial license (1 site)"
+            ],
+            "cta": { "text": "Add to Cart", "action": "add-to-cart", "productId": "phantom-template-basic" }
+          },
+          {
+            "id": "template-install",
+            "name": "PHANTOM INSTALL",
+            "price": "$495",
+            "period": "one-time",
+            "tagline": "White-Glove Migration",
+            "popular": true,
+            "description": "Template + full migration service. We extract your existing site, apply the Phantom Nav system, and deliver a polished result.",
+            "features": [
+              "Everything in Template tier",
+              "Full site migration service",
+              "Content extraction & transfer",
+              "Custom brand color matching",
+              "Design token extraction",
+              "Typography optimization",
+              "1-on-1 design consultation",
+              "2 revision rounds included",
+              "60-day priority support",
+              "Commercial license (unlimited)"
+            ],
+            "cta": { "text": "Add to Cart", "action": "add-to-cart", "productId": "phantom-template-install" }
+          }
+        ]
+      }
+    },
+    {
+      "id": "api-section",
+      "type": "aiphlo-product-section",
+      "slots": {
+        "anchor": "api",
+        "badge": "PRODUCT 02",
+        "headline": "AiPhlo Advanced Design API",
+        "tagline": "Intelligent migration. Automated transformation.",
+        "description": "The engine behind our migration service—now available as an API. Extract design tokens, migrate content, and transform sites with AI-powered automation. Built for Webflow.",
+        "features": [
+          {
+            "title": "Extraction Engine",
+            "items": ["Color extraction (RGB/HEX/HSL)", "Typography mapping", "Spacing & layout tokens", "Interaction patterns"]
+          },
+          {
+            "title": "AI Capabilities",
+            "items": ["Content restructuring", "Image optimization", "SEO preservation", "Responsive adaptation"]
+          },
+          {
+            "title": "Integrations",
+            "items": ["Webflow API", "Squarespace export", "WordPress import", "Custom platforms"]
+          }
+        ],
+        "tiers": [
+          {
+            "id": "api-basic",
+            "name": "BASIC",
+            "price": "$49",
+            "period": "/month",
+            "tagline": "Pay-As-You-Go",
+            "description": "Perfect for occasional projects. Token-based usage with essential features.",
+            "features": [
+              "500 API calls/month",
+              "Design token extraction",
+              "Basic content migration",
+              "Standard color matching",
+              "Email support",
+              "API documentation access"
+            ],
+            "tokenPrice": "$0.05/additional call",
+            "cta": { "text": "Add to Cart", "action": "add-to-cart", "productId": "api-basic" }
+          },
+          {
+            "id": "api-semipro",
+            "name": "SEMI-PRO",
+            "price": "$149",
+            "period": "/month",
+            "tagline": "Design Studio Package",
+            "popular": true,
+            "description": "For design studios and freelancers. Enhanced features with design suggestions.",
+            "features": [
+              "2,500 API calls/month",
+              "Everything in Basic",
+              "AI design suggestions",
+              "Advanced color harmonics",
+              "Typography recommendations",
+              "Layout optimization hints",
+              "Priority support (24hr)",
+              "Webhook integrations",
+              "Team access (3 seats)"
+            ],
+            "tokenPrice": "$0.03/additional call",
+            "cta": { "text": "Add to Cart", "action": "add-to-cart", "productId": "api-semipro" }
+          },
+          {
+            "id": "api-premium",
+            "name": "PREMIUM",
+            "price": "$495",
+            "period": "/month",
+            "tagline": "Agency Unlimited",
+            "description": "Full power for agencies. Unlimited calls, white-label, and dedicated support.",
+            "features": [
+              "Unlimited API calls",
+              "Everything in Semi-Pro",
+              "White-label reports",
+              "Custom AI model training",
+              "Dedicated account manager",
+              "SLA guarantee (99.9%)",
+              "Custom integrations",
+              "Phone support",
+              "Team access (unlimited)",
+              "Early access to new features"
+            ],
+            "cta": { "text": "Add to Cart", "action": "add-to-cart", "productId": "api-premium" }
+          }
+        ]
+      }
+    },
+    {
+      "id": "how-it-works",
+      "type": "aiphlo-steps",
+      "slots": {
+        "headline": "From Source to Stunning",
+        "subhead": "How the AiPhlo system transforms your site",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Extract",
+            "description": "Our extraction engine scans your source site, capturing colors, typography, spacing, and interaction patterns with pixel-perfect accuracy.",
+            "icon": "scan"
+          },
+          {
+            "number": "02",
+            "title": "Transform",
+            "description": "AI analyzes the extracted data, mapping it to our luxury design system while preserving your brand identity and optimizing for performance.",
+            "icon": "transform"
+          },
+          {
+            "number": "03",
+            "title": "Deploy",
+            "description": "The transformed site deploys to Webflow with all content, images, and interactions intact. Ready to customize or launch.",
+            "icon": "deploy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "comparison",
+      "type": "aiphlo-comparison",
+      "slots": {
+        "headline": "Traditional vs AiPhlo",
+        "traditional": {
+          "title": "Traditional Migration",
+          "items": [
+            { "text": "2-4 weeks timeline", "negative": true },
+            { "text": "$5,000-$15,000 cost", "negative": true },
+            { "text": "Manual content transfer", "negative": true },
+            { "text": "Design inconsistencies", "negative": true },
+            { "text": "SEO disruption risk", "negative": true }
+          ]
+        },
+        "aiphlo": {
+          "title": "AiPhlo Migration",
+          "items": [
+            { "text": "24-48 hours delivery", "positive": true },
+            { "text": "Starting at $495", "positive": true },
+            { "text": "Automated extraction", "positive": true },
+            { "text": "Pixel-perfect matching", "positive": true },
+            { "text": "SEO preservation built-in", "positive": true }
+          ]
+        }
+      }
+    },
+    {
+      "id": "testimonials",
+      "type": "aiphlo-testimonials",
+      "slots": {
+        "headline": "Trusted by Designers",
+        "items": [
+          {
+            "quote": "The Phantom Nav template transformed our portfolio site. Clients think we spent $20K on custom development.",
+            "author": "Sarah Chen",
+            "role": "Creative Director, Studio Noir"
+          },
+          {
+            "quote": "Migrated 3 client sites in a week using the API. What used to take a month now takes days.",
+            "author": "Marcus Webb",
+            "role": "Founder, Webb Digital"
+          },
+          {
+            "quote": "The design token extraction is incredibly accurate. Colors, spacing, everything matches perfectly.",
+            "author": "Elena Voss",
+            "role": "Lead Designer, Voss & Co"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aiphlo-faqs",
+      "type": "aiphlo-faqs",
+      "slots": {
+        "headline": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "What's the difference between the Template and the API?",
+            "answer": "The Phantom Nav Template is a complete, ready-to-use Webflow template with luxury navigation systems. The Advanced Design API is a developer tool for automating site migrations and extracting design tokens programmatically."
+          },
+          {
+            "question": "Can I use the $25 template without the installation service?",
+            "answer": "Absolutely. The $25 template includes complete documentation for self-installation. The $495 tier is for those who want hands-off, white-glove migration where we handle everything."
+          },
+          {
+            "question": "What platforms does the API support?",
+            "answer": "Currently optimized for Squarespace-to-Webflow migrations. WordPress and Shopify import capabilities are in development and will be available to all subscribers."
+          },
+          {
+            "question": "Is there a free trial for the API?",
+            "answer": "We offer a sandbox environment with 50 free API calls to test the extraction engine. Contact us to get access."
+          },
+          {
+            "question": "What's included in the migration service?",
+            "answer": "Full content extraction, image optimization, design token mapping, custom color matching, typography optimization, and 2 rounds of revisions. We deliver a production-ready Webflow site."
+          },
+          {
+            "question": "Do you offer refunds?",
+            "answer": "Template purchases include a 30-day money-back guarantee. API subscriptions can be cancelled anytime with no penalty."
+          }
+        ]
+      }
+    },
+    {
+      "id": "aiphlo-cta",
+      "type": "aiphlo-cta",
+      "slots": {
+        "headline": "Ready to Elevate Your Design?",
+        "subhead": "Join designers who've discovered the AiPhlo advantage.",
+        "stats": [
+          { "value": "500+", "label": "Sites Transformed" },
+          { "value": "48hr", "label": "Avg Delivery" },
+          { "value": "99%", "label": "Client Satisfaction" }
+        ],
+        "ctas": [
+          { "text": "Get Template — $25", "href": "#templates", "type": "primary" },
+          { "text": "Start API Trial", "href": "#api", "type": "secondary" }
+        ],
+        "guarantee": "30-day money-back guarantee on all products",
+        "contact": "Questions? hello@aiphlo.com"
+      }
+    },
+    {
+      "id": "footer",
+      "type": "footer",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/aiphlo-rainbow-transparent.png",
+        "copyright": "AIPHLO 2024. ALL RIGHTS RESERVED.",
+        "tagline": "Luxury Design Systems",
+        "locations": "L.A.  •  NYC  •  MIAMI",
+        "links": [
+          { "text": "Privacy", "url": "/privacy" },
+          { "text": "Terms", "url": "/terms" },
+          { "text": "Contact", "url": "/contact" }
+        ]
+      }
+    }
+  ],
+  "cart": {
+    "enabled": true,
+    "currency": "USD",
+    "products": {
+      "phantom-template-basic": {
+        "id": "phantom-template-basic",
+        "name": "AiPhlo Phantom Nav Template",
+        "price": 25.00,
+        "type": "one-time",
+        "description": "Complete template with all navigation systems"
+      },
+      "phantom-template-install": {
+        "id": "phantom-template-install",
+        "name": "AiPhlo Phantom Install (Migration Service)",
+        "price": 495.00,
+        "type": "one-time",
+        "description": "Template + full white-glove migration service"
+      },
+      "api-basic": {
+        "id": "api-basic",
+        "name": "AiPhlo API — Basic",
+        "price": 49.00,
+        "type": "subscription",
+        "period": "month",
+        "description": "500 API calls/month, essential features"
+      },
+      "api-semipro": {
+        "id": "api-semipro",
+        "name": "AiPhlo API — Semi-Pro",
+        "price": 149.00,
+        "type": "subscription",
+        "period": "month",
+        "description": "2,500 API calls/month, AI suggestions, team access"
+      },
+      "api-premium": {
+        "id": "api-premium",
+        "name": "AiPhlo API — Premium",
+        "price": 495.00,
+        "type": "subscription",
+        "period": "month",
+        "description": "Unlimited calls, white-label, dedicated support"
+      }
+    }
+  }
+}

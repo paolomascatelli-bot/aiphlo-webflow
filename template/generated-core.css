@@ -1,0 +1,468 @@
+/* =========================================
+   AUTO-GENERATED CSS
+   Extracted from Squarespace computed styles
+   Generated: 2026-02-03T01:38:27.228Z
+   ========================================= */
+
+/* ========== ID Selectors ========== */
+
+/* footer#footer-sections */
+#footer-sections {
+  display: block;
+  position: relative;
+  color: rgba(0, 0, 0, 0.94);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* header#header */
+#header {
+  display: block;
+  position: absolute;
+  z-index: 10;
+  height: 16px;
+  color: rgba(0, 0, 0, 0.94);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 16px;
+  pointer-events: none;
+}
+
+/* div#pm-nav-dropdown */
+#pm-nav-dropdown {
+  display: block;
+  position: fixed;
+  top: 125px;
+  right: 815px;
+  bottom: 715px;
+  left: 960px;
+  z-index: 999999;
+  width: 105px;
+  height: 208px;
+  padding-top: 16px;
+  padding-right: 20px;
+  padding-bottom: 16px;
+  padding-left: 20px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.22) 0px 15px 40px 0px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(-72.5px, -12px);
+  color: rgba(0, 0, 0, 0.94);
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+/* div#pm-nav-trigger */
+#pm-nav-trigger {
+  display: block;
+  position: fixed;
+  top: 24px;
+  right: 906px;
+  bottom: 982.531px;
+  left: 960px;
+  z-index: 99999;
+  width: 54px;
+  height: 73.4688px;
+  transform: translateX(-27px);
+  color: rgba(0, 0, 0, 0.94);
+  font-family: sans-serif;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* div#tenebre-black-overlay */
+#tenebre-black-overlay {
+  display: block;
+  position: absolute;
+  z-index: 2;
+  height: 0px;
+  background-color: rgb(0, 0, 0);
+  opacity: 0;
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  pointer-events: none;
+}
+
+/* div#tenebre-gallery-nav */
+#tenebre-gallery-nav {
+  display: flex;
+  position: relative;
+  bottom: 80px;
+  z-index: 50;
+  height: 54px;
+  max-width: 1200px;
+  margin-right: -14.8438px;
+  padding-top: 25px;
+  padding-right: 20px;
+  padding-bottom: 25px;
+  padding-left: 20px;
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  row-gap: 60px;
+  column-gap: 60px;
+}
+
+/* div#tenebre-gallery-nav-wrapper */
+#tenebre-gallery-nav-wrapper {
+  display: block;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  height: 104px;
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* div#tenebre-header-logo */
+#tenebre-header-logo {
+  display: flex;
+  position: relative;
+  z-index: 10;
+  height: 160px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+/* span#tenebre-label-off */
+#tenebre-label-off {
+  display: block;
+  width: 23.1406px;
+  height: 24px;
+  color: rgb(111, 184, 134);
+  font-family: "Nunito Sans";
+  font-size: 10px;
+  line-height: 24px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+/* span#tenebre-label-on */
+#tenebre-label-on {
+  display: block;
+  width: 18.0781px;
+  height: 24px;
+  opacity: 0.6;
+  color: rgb(212, 175, 55);
+  font-family: "Nunito Sans";
+  font-size: 10px;
+  line-height: 24px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+/* img#tenebre-slide-current */
+#tenebre-slide-current {
+  display: block;
+  position: absolute;
+  right: 810.188px;
+  left: 960px;
+  z-index: 1;
+  overflow-x: clip;
+  overflow-y: clip;
+  width: 149.812px;
+  height: 0px;
+  max-width: 100%;
+  max-height: 100%;
+  opacity: 0;
+  transform: translateX(-74.9062px);
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  object-fit: contain;
+}
+
+/* img#tenebre-slide-next */
+#tenebre-slide-next {
+  display: block;
+  position: absolute;
+  right: 810.188px;
+  left: 960px;
+  z-index: 1;
+  overflow-x: clip;
+  overflow-y: clip;
+  width: 149.812px;
+  height: 0px;
+  max-width: 100%;
+  max-height: 100%;
+  opacity: 0;
+  transform: translateX(-74.9062px);
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  object-fit: contain;
+}
+
+/* div#tenebre-slideshow-canvas */
+#tenebre-slideshow-canvas {
+  display: flex;
+  position: absolute;
+  height: 0px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+/* div#tenebre-slideshow-container */
+#tenebre-slideshow-container {
+  display: block;
+  position: relative;
+  z-index: 1;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  height: 0px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* div#tenebre-toggle */
+#tenebre-toggle {
+  display: block;
+  position: relative;
+  width: 64px;
+  height: 32px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  background-color: rgba(212, 175, 55, 0.2);
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 8px 0px inset;
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  cursor: pointer;
+}
+
+/* div#tenebre-toggle-container */
+#tenebre-toggle-container {
+  display: flex;
+  position: relative;
+  z-index: 10;
+  height: 34px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+/* section#tenebregallery */
+#tenebregallery {
+  display: flex;
+  position: relative;
+  height: 693.844px;
+  min-height: 356.4px;
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  align-items: center;
+}
+
+/* ========== Class Selectors ========== */
+
+/* figure.gallery-grid-item (75 elements) */
+.gallery-grid-item {
+  display: block;
+  visibility: hidden;
+  color: rgba(0, 0, 0, 0.94);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* div.gallery-grid-item-wrapper (75 elements) */
+.gallery-grid-item-wrapper {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  opacity: 0;
+  visibility: hidden;
+  color: rgba(0, 0, 0, 0.94);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* a.gallery-grid-lightbox-link (60 elements) */
+.gallery-grid-lightbox-link {
+  display: block;
+  position: absolute;
+  background-position: 0px 0px;
+  visibility: hidden;
+  color: rgba(0, 0, 0, 0.94);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  cursor: zoom-in;
+}
+
+/* div.gallery-grid-wrapper (5 elements) */
+.gallery-grid-wrapper {
+  display: grid;
+  position: relative;
+  padding-right: 8.64px;
+  padding-left: 8.64px;
+  visibility: hidden;
+  color: rgba(0, 0, 0, 0.94);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  row-gap: 8.64px;
+  column-gap: 8.64px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* div.gallery-grid.gallery-grid--layout-grid (5 elements) */
+.gallery-grid.gallery-grid--layout-grid {
+  display: block;
+  max-width: 100%;
+  visibility: hidden;
+  color: rgba(0, 0, 0, 0.94);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.pm-dropdown-arrow {
+  display: block;
+  position: absolute;
+  top: -16px;
+  right: 52.5px;
+  bottom: 246px;
+  left: 72.5px;
+  z-index: 10000;
+  width: 0px;
+  height: 0px;
+  opacity: 0;
+  visibility: hidden;
+  filter: drop-shadow(rgba(0, 0, 0, 0.1) 0px -2px 4px);
+  transform: translate(-10px, 20px);
+  color: rgba(0, 0, 0, 0.94);
+  font-family: sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  pointer-events: none;
+}
+
+.tenebre-logo-grid {
+  display: none;
+  padding-top: 14px;
+  padding-right: 10px;
+  padding-bottom: 14px;
+  padding-left: 10px;
+  opacity: 0;
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+/* button.tenebre-nav-btn (5 elements) */
+.tenebre-nav-btn {
+  display: block;
+  position: relative;
+  width: 158.609px;
+  height: 54px;
+  padding-top: 16px;
+  padding-right: 24px;
+  padding-bottom: 16px;
+  padding-left: 24px;
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* span.tenebre-nav-text (5 elements) */
+.tenebre-nav-text {
+  position: relative;
+  z-index: 2;
+  color: rgb(212, 175, 55);
+  font-family: "Nunito Sans";
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 2.1px;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.tenebre-toggle-knob {
+  display: block;
+  position: absolute;
+  top: 3px;
+  right: 37px;
+  bottom: 5px;
+  left: 3px;
+  width: 24px;
+  height: 24px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  background-image: linear-gradient(135deg, rgb(212, 175, 55), rgb(184, 134, 11));
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 6px 0px, rgba(212, 175, 55, 0.4) 0px 0px 8px 0px;
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  cursor: pointer;
+}
+
+.tenebre-toggle-wrapper {
+  display: flex;
+  width: 139.219px;
+  height: 34px;
+  color: rgb(255, 255, 255);
+  font-family: "Nunito Sans";
+  font-size: 16px;
+  line-height: 24px;
+  align-items: center;
+  row-gap: 16px;
+  column-gap: 16px;
+}
+

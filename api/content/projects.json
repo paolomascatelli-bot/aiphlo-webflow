@@ -1,0 +1,90 @@
+{
+  "title": "Projects",
+  "blocks": [
+    {
+      "id": "nav",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "menu": [
+          { "text": "Home", "url": "/" },
+          { "text": "Projects", "url": "/projects" },
+          { "text": "Photography", "url": "/photography" },
+          { "text": "Social Media", "url": "/socialmedia" },
+          { "text": "FAQs", "url": "/faqs" },
+          { "text": "AiPhlo", "url": "/aiphlo" },
+          { "text": "Contact", "url": "/contact" }
+        ]
+      }
+    },
+    {
+      "id": "project-showcase",
+      "slots": {
+        "background": "#000000",
+        "pageTitle": "Projects",
+        "subtitle": "PAOLO MASCATELLI | AIPHLO: Live build",
+        "intro": "My site is an example of the Custom AIPHLO Navigation Systems in development",
+        "projects": [
+          {
+            "id": "aiphlo",
+            "name": "AIPHLO",
+            "thumbnail": "http://localhost:3001/assets/images/contact_321_AiPhlo_Color_Drop",
+            "tagline": "Luxury Navigation. Zero Code.",
+            "description": "High-end luxury platform-agnostic UX/UI augmentation for open-source platforms",
+            "content": {
+              "type": "image",
+              "src": "http://localhost:3001/assets/images/contact_321_AiPhlo_Color_Drop"
+            }
+          },
+          {
+            "id": "tenebre",
+            "name": "TENEBRE",
+            "thumbnail": "http://localhost:3001/assets/images/projects_154_TENEBRE-WHITE.png",
+            "tagline": "modern geometric | light brutalism",
+            "description": "Lead Creative - Full Stack Web, UX, Product Photography, Branding",
+            "hasToggle": true,
+            "toggleLabel": "SLIDESHOW",
+            "content": {
+              "type": "slideshow",
+              "images": [
+                { "src": "http://localhost:3001/assets/images/projects_154_TENEBRE-WHITE.png", "alt": "Tenebre White" },
+                { "src": "http://localhost:3001/assets/images/projects_153_Tenebre_Branding_072125.png", "alt": "Tenebre Branding" }
+              ]
+            }
+          },
+          {
+            "id": "cpi",
+            "name": "CPI",
+            "thumbnail": "http://localhost:3001/assets/images/projects_155_cpi.png",
+            "tagline": "Branding",
+            "description": "international psychotherapy educational platform (web coming)",
+            "content": {
+              "type": "image",
+              "src": "http://localhost:3001/assets/images/projects_155_cpi.png"
+            }
+          },
+          {
+            "id": "graffdigital",
+            "name": "GRAFFDIGITAL",
+            "thumbnail": "http://localhost:3001/assets/images/projects_156_GraffDigital.png",
+            "tagline": "Digital Art",
+            "description": "Digital graffiti art and urban design",
+            "content": {
+              "type": "image",
+              "src": "http://localhost:3001/assets/images/projects_156_GraffDigital.png"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "copyright": "ALL RIGHTS RESERVED",
+        "notice": "NOT FOR PUBLIC USE",
+        "locations": "L.A.  NYC  MIAMI",
+        "contact": { "text": "contact us", "url": "/contact" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects | Paolo Mascatelli</title>
+  <meta name="description" content="This is a collection of new and old works that tell a story between NY, LA and Miami over a decade.">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<!-- =========================================
+     SITEWIDE FLOATING NAV
+     ========================================= -->
+<div id="pm-nav-trigger">
+  <img src="../assets/images/projects_161_Aiphloweb1nlk_red.png" alt="AiPhlo Icon">
+  <span>NAV</span>
+</div>
+
+<div id="pm-nav-dropdown">
+  <div class="pm-dropdown-arrow"></div>
+  <a href="../index.html">Home</a>
+  <a href="projects.html">Projects</a>
+  <a href="photography.html">Photography</a>
+  <a href="socialmedia.html">Social Media</a>
+  <a href="faqs.html">FAQs</a>
+  <a href="contact.html">Contact</a>
+</div>
+
+<!-- =========================================
+     PROJECTS NAV (from embed)
+     ========================================= -->
+<div id="pm-project-nav">
+  <div class="pm-project-track">
+
+    <button type="button"
+            class="pm-project-toggle"
+            data-role="toggle"
+            aria-label="Toggle project navigation">
+      <span class="pm-toggle-text">PROJECTS</span>
+      <svg class="pm-toggle-icon pm-icon-visible" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="8" cy="8" r="2.5" stroke="currentColor" stroke-width="1.2"/>
+        <path d="M2 8h2M12 8h2M8 2v2M8 12v2" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      </svg>
+      <svg class="pm-toggle-icon pm-icon-hidden" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="8" cy="8" r="2.5" stroke="currentColor" stroke-width="1.2" opacity="0.3"/>
+        <line x1="3" y1="13" x2="13" y2="3" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      </svg>
+    </button>
+
+    <div class="pm-project-group">
+
+      <a href="#project-aiphlo"
+         class="pm-project-circle"
+         data-target="project-aiphlo"
+         aria-label="Scroll to Aiphlo project">
+        <img src="../assets/images/projects_163_aiphloweb.png"
+             alt="AIPHLO">
+      </a>
+
+      <a href="#project-tenebre"
+         class="pm-project-circle"
+         data-target="project-tenebre"
+         aria-label="Scroll to Tenebre project">
+        <img src="../assets/images/projects_164_tenebreweb.png"
+             alt="TENEBRE">
+      </a>
+
+      <a href="#project-cpi"
+         class="pm-project-circle"
+         data-target="project-cpi"
+         aria-label="Scroll to CPI project">
+        <img src="../assets/images/projects_165_cpiweb.png"
+             alt="CPI">
+      </a>
+
+      <a href="#project-graffdigital"
+         class="pm-project-circle"
+         data-target="project-graffdigital"
+         aria-label="Scroll to GraffDigital project">
+        <img src="../assets/images/projects_166_graffdigitalweb.png"
+             alt="GRAFFDIGITAL">
+      </a>
+
+    </div>
+  </div>
+</div>
+
+<!-- =========================================
+     PROJECTS PAGE CONTENT
+     ========================================= -->
+<main class="projects-page">
+
+  <section class="projects-hero">
+    <h1>Luxury Navigation.<br>Zero Code.</h1>
+    <p class="projects-subhead">High-end luxury platform-agnostic UX/UI augmentation for open-source platforms. Built for boutique brands who refuse to look basic.</p>
+  </section>
+
+  <!-- Project Sections -->
+  <section id="project-aiphlo" class="project-section" data-project="project-aiphlo">
+    <h2>AIPHLO</h2>
+    <p>Owner, Founder, Developer - In beta</p>
+  </section>
+
+  <section id="project-tenebre" class="project-section" data-project="project-tenebre">
+    <h2>TENEBRE</h2>
+    <p>Luxury furniture collection</p>
+  </section>
+
+  <section id="project-cpi" class="project-section" data-project="project-cpi">
+    <h2>CPI</h2>
+    <p>Creative project initiative</p>
+  </section>
+
+  <section id="project-graffdigital" class="project-section" data-project="project-graffdigital">
+    <h2>GRAFFDIGITAL</h2>
+    <p>Digital art and design</p>
+  </section>
+
+</main>
+
+<!-- FOOTER -->
+<footer class="pm-footer">
+  <p class="pm-footer-notice">NOT FOR PUBLIC USE</p>
+  <p class="pm-footer-rights">ALL RIGHTS RESERVED</p>
+  <p class="pm-footer-locations">L.A.  NYC  MIAMI</p>
+</footer>
+
+<script src="../interactions.js"></script>
+
+</body>
+</html>

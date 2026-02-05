@@ -1,0 +1,240 @@
+{
+  "title": "Paolo Mascatelli",
+  "blocks": [
+    {
+      "id": "nav",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "menu": [
+          {
+            "text": "Home",
+            "url": "/"
+          },
+          {
+            "text": "Projects",
+            "url": "/projects"
+          },
+          {
+            "text": "Photography",
+            "url": "/photography"
+          },
+          {
+            "text": "Social Media",
+            "url": "/socialmedia"
+          },
+          {
+            "text": "FAQs",
+            "url": "/faqs"
+          },
+          {
+            "text": "AiPhlo",
+            "url": "/aiphlo"
+          },
+          {
+            "text": "Contact",
+            "url": "/contact"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "slots": {
+        "background": "http://localhost:3001/assets/images/home_5_amandaedit.png",
+        "headline": "PAOLO MASCATELLI",
+        "subhead": "Creative and Art Direction, Photography & Design",
+        "body": "Boutique creative agency, scalable production, luxury art direction. This portfolio showcases photography and creative work—and is also a live demonstration of the AiPhlo navigation system, a luxury template platform now available for designers.",
+        "cta": {
+          "text": "Explore AiPhlo",
+          "url": "/aiphlo"
+        }
+      }
+    },
+    {
+      "id": "tenebre",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/home_6_TENEBRE-WHITE.png",
+        "toggle": "off",
+        "slideshow": [
+          "http://localhost:3001/assets/images/home_104_DU9A0533-2.jpg",
+          "http://localhost:3001/assets/images/home_106_DU9A0654.png",
+          "http://localhost:3001/assets/images/home_107_DU9A3129.png",
+          "http://localhost:3001/assets/images/home_108_DU9A0799.png",
+          "http://localhost:3001/assets/images/home_10_DU9A7439.jpg",
+          "http://localhost:3001/assets/images/home_111_DU9A7439.jpg",
+          "http://localhost:3001/assets/images/home_115_DU9A5796.png",
+          "http://localhost:3001/assets/images/home_117_DU9A5849.png",
+          "http://localhost:3001/assets/images/home_11_DU9A7383.jpg",
+          "http://localhost:3001/assets/images/home_120_DU9A2089.png",
+          "http://localhost:3001/assets/images/home_121_DU9A2083-2.jpg",
+          "http://localhost:3001/assets/images/home_122_DU9A2074.jpg"
+        ],
+        "categories": [
+          {
+            "id": "seating",
+            "name": "SEAT STYLES",
+            "preview": "http://localhost:3001/assets/images/home_124_DU9A1989.jpg",
+            "images": [
+              {
+                "src": "http://localhost:3001/assets/images/home_114_DU9A2621-Edit.jpg",
+                "alt": "Seating collection",
+                "productId": "seat-1"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_120_DU9A2089.png",
+                "alt": "Seating collection",
+                "productId": "seat-2"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_121_DU9A2083-2.jpg",
+                "alt": "Seating collection",
+                "productId": "seat-3"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_122_DU9A2074.jpg",
+                "alt": "Seating collection",
+                "productId": "seat-4"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_123_DU9A2076.jpg",
+                "alt": "Seating collection",
+                "productId": "seat-5"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_124_DU9A1989.jpg",
+                "alt": "Seating collection",
+                "productId": "seat-6"
+              }
+            ]
+          },
+          {
+            "id": "lighting",
+            "name": "CHANDELIERS",
+            "preview": "http://localhost:3001/assets/images/home_105_file_00000000bde461f9b3fbf768fd9133af__281_29.jpg",
+            "images": [
+              {
+                "src": "http://localhost:3001/assets/images/home_106_DU9A0654.png",
+                "alt": "Lighting collection",
+                "productId": "light-1"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_107_DU9A3129.png",
+                "alt": "Lighting collection",
+                "productId": "light-2"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_109_DU9A3033-Edit.jpg",
+                "alt": "Lighting collection",
+                "productId": "light-3"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_20_DU9A3975.png",
+                "alt": "Lighting collection",
+                "productId": "light-4"
+              }
+            ]
+          },
+          {
+            "id": "outdoor",
+            "name": "PATIO & POOL",
+            "preview": "http://localhost:3001/assets/images/home_47_poolswingSquare.png",
+            "images": [
+              {
+                "src": "http://localhost:3001/assets/images/home_39_outdoorlifestyle.png",
+                "alt": "Outdoor collection",
+                "productId": "outdoor-1"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_47_poolswingSquare.png",
+                "alt": "Outdoor collection",
+                "productId": "outdoor-2"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_48_swingsquareside.png",
+                "alt": "Outdoor collection",
+                "productId": "outdoor-3"
+              }
+            ]
+          },
+          {
+            "id": "kingbed",
+            "name": "KING BED/BATH",
+            "preview": "http://localhost:3001/assets/images/home_113_floorbed.png",
+            "images": [
+              {
+                "src": "http://localhost:3001/assets/images/home_101_bedr3.png",
+                "alt": "Bedroom collection",
+                "productId": "king-1"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_113_floorbed.png",
+                "alt": "Bedroom collection",
+                "productId": "king-2"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_116_2bedside.png",
+                "alt": "Bedroom collection",
+                "productId": "king-3"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_118_SideTable_3Abedroom.png",
+                "alt": "Bedroom collection",
+                "productId": "king-4"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_12_bathbronze.jpg",
+                "alt": "Bedroom collection",
+                "productId": "king-5"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_23_bedr3.png",
+                "alt": "Bedroom collection",
+                "productId": "king-6"
+              }
+            ]
+          },
+          {
+            "id": "guestbed",
+            "name": "GUEST BED/BATH",
+            "preview": "http://localhost:3001/assets/images/home_114_DU9A2621-Edit.jpg",
+            "images": [
+              {
+                "src": "http://localhost:3001/assets/images/home_114_DU9A2621-Edit.jpg",
+                "alt": "Guest room collection",
+                "productId": "guest-1"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_115_DU9A5796.png",
+                "alt": "Guest room collection",
+                "productId": "guest-2"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_117_DU9A5849.png",
+                "alt": "Guest room collection",
+                "productId": "guest-3"
+              },
+              {
+                "src": "http://localhost:3001/assets/images/home_51_DU9A2621-Edit.jpg",
+                "alt": "Guest room collection",
+                "productId": "guest-4"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "slots": {
+        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "copyright": "ALL RIGHTS RESERVED",
+        "notice": "NOT FOR PUBLIC USE",
+        "locations": "L.A.  NYC  MIAMI",
+        "contact": {
+          "text": "contact us",
+          "url": "/contact"
+        }
+      }
+    }
+  ]
+}

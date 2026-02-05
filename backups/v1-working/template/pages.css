@@ -1,0 +1,678 @@
+/* =========================================
+   PAGES CSS - Section styles for all pages
+   ========================================= */
+
+/* =========================================
+   HERO SECTION
+   ========================================= */
+.page-hero {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 120px 40px 80px;
+  background: #000000;
+  text-align: center;
+}
+
+.hero-content {
+  max-width: 800px;
+}
+
+.hero-headline {
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgb(212, 175, 55);
+  margin-bottom: 20px;
+}
+
+.hero-subhead {
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 16px;
+}
+
+.hero-body {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 1.7;
+  margin-bottom: 32px;
+}
+
+.hero-cta {
+  display: inline-block;
+  padding: 14px 32px;
+  background: rgba(212, 175, 55, 0.15);
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  border-radius: 6px;
+  color: rgb(212, 175, 55);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.hero-cta:hover {
+  background: rgba(212, 175, 55, 0.25);
+  border-color: rgba(212, 175, 55, 0.7);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(212, 175, 55, 0.2);
+}
+
+/* =========================================
+   PROJECTS SECTION
+   ========================================= */
+.projects-section {
+  padding: 60px 40px;
+  background: #000000;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 32px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.project-card {
+  display: block;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  transition: all 0.4s ease;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.project-card:hover {
+  transform: translateY(-8px);
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(212, 175, 55, 0.3);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4);
+}
+
+.project-image {
+  position: relative;
+  width: 100%;
+  padding-bottom: 75%;
+  overflow: hidden;
+}
+
+.project-image img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.project-card:hover .project-image img {
+  transform: scale(1.05);
+}
+
+.project-info {
+  padding: 24px;
+}
+
+.project-info h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 8px;
+}
+
+.project-info p {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* =========================================
+   GALLERY SECTION
+   ========================================= */
+.gallery-section {
+  padding: 60px 20px;
+  background: #000000;
+}
+
+.gallery-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.gallery-tab {
+  padding: 10px 24px;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 24px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.gallery-tab:hover {
+  border-color: rgba(212, 175, 55, 0.5);
+  color: rgb(212, 175, 55);
+}
+
+.gallery-tab.active {
+  background: rgba(212, 175, 55, 0.15);
+  border-color: rgba(212, 175, 55, 0.5);
+  color: rgb(212, 175, 55);
+}
+
+/* =========================================
+   FAQs SECTION
+   ========================================= */
+.faqs-section {
+  padding: 60px 40px;
+  background: #000000;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.faqs-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.faq-item {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: all 0.3s ease;
+}
+
+.faq-item:hover {
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.faq-question {
+  width: 100%;
+  padding: 20px 24px;
+  background: transparent;
+  border: none;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  transition: all 0.3s ease;
+}
+
+.faq-question:hover {
+  color: rgb(212, 175, 55);
+}
+
+.faq-arrow {
+  color: rgb(212, 175, 55);
+  font-size: 14px;
+  transition: transform 0.3s ease;
+}
+
+.faq-item[data-state="open"] .faq-arrow {
+  transform: rotate(180deg);
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+}
+
+.faq-item[data-state="open"] .faq-answer {
+  max-height: 300px;
+}
+
+.faq-answer p {
+  padding: 0 24px 20px 56px;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.7;
+}
+
+/* =========================================
+   CONTACT SECTION
+   ========================================= */
+.contact-section {
+  padding: 60px 40px;
+  background: #000000;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 48px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.contact-block {
+  text-align: center;
+}
+
+.contact-block h3 {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 20px;
+}
+
+.contact-email {
+  font-size: 20px;
+  color: rgb(212, 175, 55);
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.contact-email:hover {
+  color: #ffffff;
+  text-shadow: 0 0 20px rgba(212, 175, 55, 0.5);
+}
+
+.locations-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.location-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.location-item strong {
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.location-item span {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.social-link {
+  padding: 10px 20px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 6px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.social-link:hover {
+  background: rgba(212, 175, 55, 0.15);
+  border-color: rgba(212, 175, 55, 0.5);
+  color: rgb(212, 175, 55);
+}
+
+/* =========================================
+   PHOTO NAV V3 - Photography Page Pills
+   ========================================= */
+#pm-photo-nav-v3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  padding: 30px 20px;
+  background: #000000;
+  flex-wrap: wrap;
+}
+
+.pm-photo-pill {
+  position: relative;
+  padding: 12px 28px;
+  background: transparent;
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 24px;
+  color: rgba(212, 175, 55, 0.8);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.pm-photo-pill:hover {
+  background: rgba(212, 175, 55, 0.1);
+  border-color: rgba(212, 175, 55, 0.6);
+  color: rgb(212, 175, 55);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(212, 175, 55, 0.2);
+}
+
+.pm-photo-pill.pm-active {
+  background: rgba(212, 175, 55, 0.2);
+  border-color: rgba(212, 175, 55, 0.8);
+  color: rgb(212, 175, 55);
+  box-shadow:
+    0 0 20px rgba(212, 175, 55, 0.3),
+    0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+.pm-photo-pill.pm-active::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 6px;
+  height: 6px;
+  background: rgb(212, 175, 55);
+  border-radius: 50%;
+  box-shadow: 0 0 8px rgba(212, 175, 55, 0.8);
+}
+
+/* Photography Gallery Grid */
+#pm-photo-gallery {
+  padding: 20px;
+  background: #000000;
+}
+
+#pm-photo-gallery .gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(var(--grid-columns, 3), 1fr);
+  gap: 16px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+#pm-photo-gallery .gallery-grid-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.4s ease;
+}
+
+#pm-photo-gallery .gallery-grid-item:hover {
+  transform: scale(1.02);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.5);
+}
+
+#pm-photo-gallery .gallery-grid-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+#pm-photo-gallery .gallery-grid-item:hover img {
+  transform: scale(1.08);
+}
+
+/* =========================================
+   CAMPAIGN NAV - Social Media Page
+   ========================================= */
+#pm-campaign-nav {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 24px;
+  padding: 40px 20px;
+  background: #000000;
+  flex-wrap: wrap;
+}
+
+.pm-campaign-btn {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 24px 32px;
+  background: rgba(15, 17, 21, 0.95);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  min-width: 180px;
+}
+
+.pm-campaign-btn:hover {
+  background: rgba(25, 28, 35, 0.98);
+  border-color: rgba(192, 36, 40, 0.3);
+  transform: translateY(-4px);
+  box-shadow:
+    0 0 24px rgba(192, 36, 40, 0.15),
+    0 12px 32px rgba(0, 0, 0, 0.4);
+}
+
+.pm-campaign-icon {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  transition: all 0.4s ease;
+}
+
+.pm-campaign-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.pm-campaign-btn:hover .pm-campaign-icon {
+  border-color: rgba(192, 36, 40, 0.5);
+  box-shadow:
+    0 0 16px rgba(192, 36, 40, 0.3),
+    0 6px 20px rgba(0, 0, 0, 0.4);
+}
+
+.pm-campaign-name {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.pm-campaign-desc {
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.5);
+  letter-spacing: 0.05em;
+}
+
+.pm-campaign-arrow {
+  position: absolute;
+  bottom: 12px;
+  right: 16px;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.3);
+  opacity: 0;
+  transform: translateY(-4px);
+  transition: all 0.3s ease;
+}
+
+.pm-campaign-btn:hover .pm-campaign-arrow {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.pm-campaign-btn.pm-active {
+  background: rgba(15, 17, 21, 0.98);
+  border-color: rgba(192, 36, 40, 0.6);
+  transform: translateY(2px);
+}
+
+.pm-campaign-btn.pm-active .pm-campaign-icon {
+  transform: translateY(2px) scale(0.95);
+  box-shadow:
+    inset 0 2px 8px rgba(0, 0, 0, 0.4),
+    0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.pm-campaign-btn.pm-active .pm-campaign-name {
+  color: #c02428;
+}
+
+.pm-campaign-btn.pm-active .pm-campaign-arrow {
+  opacity: 1;
+  transform: translateY(0) rotate(180deg);
+  color: #c02428;
+}
+
+.pm-campaign-btn.pm-open .pm-campaign-arrow {
+  opacity: 1;
+  transform: rotate(180deg);
+  color: #c02428;
+}
+
+.pm-campaign-btn.pm-open .pm-campaign-name {
+  color: #c02428;
+}
+
+/* Campaign Gallery */
+#pm-campaign-gallery {
+  padding: 20px;
+  background: #000000;
+}
+
+#pm-campaign-gallery .gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(var(--grid-columns, 3), 1fr);
+  gap: 16px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+#pm-campaign-gallery .gallery-grid-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  transition: all 0.4s ease;
+}
+
+#pm-campaign-gallery .gallery-grid-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+#pm-campaign-gallery .gallery-grid-item:hover img {
+  transform: scale(1.05);
+}
+
+/* =========================================
+   RESPONSIVE
+   ========================================= */
+@media (max-width: 768px) {
+  .page-hero {
+    padding: 100px 20px 60px;
+    min-height: 50vh;
+  }
+
+  .hero-headline {
+    font-size: 32px;
+  }
+
+  .hero-subhead {
+    font-size: 16px;
+  }
+
+  .projects-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .faqs-section {
+    padding: 40px 20px;
+  }
+
+  .faq-question {
+    font-size: 14px;
+    padding: 16px 20px;
+  }
+
+  .contact-grid {
+    gap: 32px;
+  }
+
+  /* Photo Nav Mobile */
+  #pm-photo-nav-v3 {
+    gap: 8px;
+    padding: 20px 16px;
+  }
+
+  .pm-photo-pill {
+    padding: 10px 20px;
+    font-size: 10px;
+  }
+
+  #pm-photo-gallery .gallery-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+
+  /* Campaign Nav Mobile */
+  #pm-campaign-nav {
+    flex-direction: column;
+    gap: 16px;
+    padding: 30px 16px;
+  }
+
+  .pm-campaign-btn {
+    width: 100%;
+    padding: 20px;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 16px;
+  }
+
+  .pm-campaign-icon {
+    width: 60px;
+    height: 60px;
+  }
+
+  .pm-campaign-info {
+    text-align: left;
+  }
+
+  #pm-campaign-gallery .gallery-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+}

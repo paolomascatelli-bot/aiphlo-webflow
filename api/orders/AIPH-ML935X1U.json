@@ -1,0 +1,21 @@
+{
+  "id": "AIPH-ML935X1U",
+  "customer": {
+    "name": "Test User",
+    "email": "test@example.com",
+    "company": "Test Co"
+  },
+  "items": [
+    {
+      "productId": "phantom-template-install",
+      "name": "AiPhlo Phantom Install (Migration Service)",
+      "price": 495,
+      "quantity": 1,
+      "type": "one-time"
+    }
+  ],
+  "subtotal": "495.00",
+  "status": "pending",
+  "createdAt": "2026-02-05T06:39:09.714Z",
+  "sessionId": "demo-session"
+}

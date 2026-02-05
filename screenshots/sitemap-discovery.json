@@ -1,0 +1,48 @@
+{
+  "siteUrl": "https://www.paolomascatelli.com",
+  "timestamp": "2026-02-04T20:55:27.800Z",
+  "sitemap": {
+    "found": true,
+    "pages": [
+      "https://www.paolomascatelli.com/departmentofcreativity",
+      "https://www.paolomascatelli.com/photography",
+      "https://www.paolomascatelli.com/new-page-5",
+      "https://www.paolomascatelli.com/socialmedia",
+      "https://www.paolomascatelli.com/new-page-3",
+      "https://www.paolomascatelli.com/new-page-2",
+      "https://www.paolomascatelli.com/projects",
+      "https://www.paolomascatelli.com/new-gallery-37",
+      "https://www.paolomascatelli.com/home",
+      "https://www.paolomascatelli.com/therealdigitalgraffiti",
+      "https://www.paolomascatelli.com/faqs",
+      "https://www.paolomascatelli.com/aiphlo"
+    ]
+  },
+  "navigation": {
+    "pages": [
+      "/",
+      "/aiphlo"
+    ]
+  },
+  "analysis": {
+    "unlinkedPages": [
+      "/departmentofcreativity",
+      "/photography",
+      "/new-page-5",
+      "/socialmedia",
+      "/new-page-3",
+      "/new-page-2",
+      "/projects",
+      "/new-gallery-37",
+      "/home",
+      "/therealdigitalgraffiti",
+      "/faqs"
+    ],
+    "missingFromSitemap": [
+      "/"
+    ]
+  },
+  "flags": [
+    "UNLINKED_PAGES_FOUND"
+  ]
+}
