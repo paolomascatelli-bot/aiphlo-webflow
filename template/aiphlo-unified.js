@@ -6,29 +6,32 @@
 (function() {
   'use strict';
 
-  const API_BASE = 'http://localhost:3001';
+  // Auto-detect API base: use current origin if deployed, localhost for dev
+  const API_BASE = window.location.hostname === 'localhost'
+    ? 'http://localhost:3001'
+    : window.location.origin;
   const SITE_KEY = document.querySelector('meta[name="aiphlo-key"]')?.content || 'aiphlo-demo';
 
   // =========================================
   // DATA: Slideshow Images
   // =========================================
   const slideshowImages = [
-    'http://localhost:3001/assets/images/img_3.png',
-    'http://localhost:3001/assets/images/img_4.png',
-    'http://localhost:3001/assets/images/img_5.jpg',
-    'http://localhost:3001/assets/images/img_6.jpg',
-    'http://localhost:3001/assets/images/img_7.jpg',
-    'http://localhost:3001/assets/images/img_8.jpg',
-    'http://localhost:3001/assets/images/img_9.jpg',
-    'http://localhost:3001/assets/images/img_10.png',
-    'http://localhost:3001/assets/images/img_11.png',
-    'http://localhost:3001/assets/images/img_12.png',
-    'http://localhost:3001/assets/images/img_13.png',
-    'http://localhost:3001/assets/images/img_14.png',
-    'http://localhost:3001/assets/images/img_15.png',
-    'http://localhost:3001/assets/images/img_16.png',
-    'http://localhost:3001/assets/images/img_17.png',
-    'http://localhost:3001/assets/images/img_18.png'
+    '/assets/images/img_3.png',
+    '/assets/images/img_4.png',
+    '/assets/images/img_5.jpg',
+    '/assets/images/img_6.jpg',
+    '/assets/images/img_7.jpg',
+    '/assets/images/img_8.jpg',
+    '/assets/images/img_9.jpg',
+    '/assets/images/img_10.png',
+    '/assets/images/img_11.png',
+    '/assets/images/img_12.png',
+    '/assets/images/img_13.png',
+    '/assets/images/img_14.png',
+    '/assets/images/img_15.png',
+    '/assets/images/img_16.png',
+    '/assets/images/img_17.png',
+    '/assets/images/img_18.png'
   ];
 
   // =========================================
@@ -59,87 +62,87 @@
   // =========================================
   const galleryImages = {
     seating: [
-      { src: 'http://localhost:3001/assets/images/img_52.png', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_53.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_54.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_55.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_56.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_57.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_58.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_59.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_60.png', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_61.png', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_62.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_63.png', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_64.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_65.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_66.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_67.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_68.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_69.png', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_70.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_71.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_72.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_73.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_74.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_75.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_76.jpg', alt: 'Seat Styles' },
-      { src: 'http://localhost:3001/assets/images/img_77.jpg', alt: 'Seat Styles' }
+      { src: '/assets/images/img_52.png', alt: 'Seat Styles' },
+      { src: '/assets/images/img_53.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_54.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_55.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_56.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_57.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_58.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_59.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_60.png', alt: 'Seat Styles' },
+      { src: '/assets/images/img_61.png', alt: 'Seat Styles' },
+      { src: '/assets/images/img_62.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_63.png', alt: 'Seat Styles' },
+      { src: '/assets/images/img_64.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_65.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_66.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_67.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_68.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_69.png', alt: 'Seat Styles' },
+      { src: '/assets/images/img_70.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_71.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_72.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_73.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_74.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_75.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_76.jpg', alt: 'Seat Styles' },
+      { src: '/assets/images/img_77.jpg', alt: 'Seat Styles' }
     ],
     lighting: [
-      { src: 'http://localhost:3001/assets/images/img_21.jpg', alt: 'Chandeliers' },
-      { src: 'http://localhost:3001/assets/images/img_22.jpg', alt: 'Chandeliers' },
-      { src: 'http://localhost:3001/assets/images/img_23.png', alt: 'Chandeliers' },
-      { src: 'http://localhost:3001/assets/images/img_24.png', alt: 'Chandeliers' },
-      { src: 'http://localhost:3001/assets/images/img_25.png', alt: 'Chandeliers' },
-      { src: 'http://localhost:3001/assets/images/img_26.jpg', alt: 'Chandeliers' },
-      { src: 'http://localhost:3001/assets/images/img_27.jpg', alt: 'Chandeliers' },
-      { src: 'http://localhost:3001/assets/images/img_28.jpg', alt: 'Chandeliers' }
+      { src: '/assets/images/img_21.jpg', alt: 'Chandeliers' },
+      { src: '/assets/images/img_22.jpg', alt: 'Chandeliers' },
+      { src: '/assets/images/img_23.png', alt: 'Chandeliers' },
+      { src: '/assets/images/img_24.png', alt: 'Chandeliers' },
+      { src: '/assets/images/img_25.png', alt: 'Chandeliers' },
+      { src: '/assets/images/img_26.jpg', alt: 'Chandeliers' },
+      { src: '/assets/images/img_27.jpg', alt: 'Chandeliers' },
+      { src: '/assets/images/img_28.jpg', alt: 'Chandeliers' }
     ],
     outdoor: [
-      { src: 'http://localhost:3001/assets/images/img_29.png', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_30.png', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_31.png', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_32.png', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_33.png', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_34.png', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_35.jpg', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_36.jpg', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_37.jpg', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_38.jpg', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_39.jpg', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_40.png', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_41.jpg', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_42.png', alt: 'Patio & Pool' },
-      { src: 'http://localhost:3001/assets/images/img_43.png', alt: 'Patio & Pool' }
+      { src: '/assets/images/img_29.png', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_30.png', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_31.png', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_32.png', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_33.png', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_34.png', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_35.jpg', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_36.jpg', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_37.jpg', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_38.jpg', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_39.jpg', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_40.png', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_41.jpg', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_42.png', alt: 'Patio & Pool' },
+      { src: '/assets/images/img_43.png', alt: 'Patio & Pool' }
     ],
     kingbed: [
-      { src: 'http://localhost:3001/assets/images/img_3.png', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_4.png', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_5.jpg', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_6.jpg', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_7.jpg', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_8.jpg', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_9.jpg', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_10.png', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_11.png', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_12.png', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_13.png', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_14.png', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_15.png', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_16.png', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_17.png', alt: 'King Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_18.png', alt: 'King Bed/Bath' }
+      { src: '/assets/images/img_3.png', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_4.png', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_5.jpg', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_6.jpg', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_7.jpg', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_8.jpg', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_9.jpg', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_10.png', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_11.png', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_12.png', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_13.png', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_14.png', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_15.png', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_16.png', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_17.png', alt: 'King Bed/Bath' },
+      { src: '/assets/images/img_18.png', alt: 'King Bed/Bath' }
     ],
     guestbed: [
-      { src: 'http://localhost:3001/assets/images/img_44.jpg', alt: 'Guest Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_45.png', alt: 'Guest Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_46.jpg', alt: 'Guest Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_47.png', alt: 'Guest Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_48.png', alt: 'Guest Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_49.png', alt: 'Guest Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_50.png', alt: 'Guest Bed/Bath' },
-      { src: 'http://localhost:3001/assets/images/img_51.png', alt: 'Guest Bed/Bath' }
+      { src: '/assets/images/img_44.jpg', alt: 'Guest Bed/Bath' },
+      { src: '/assets/images/img_45.png', alt: 'Guest Bed/Bath' },
+      { src: '/assets/images/img_46.jpg', alt: 'Guest Bed/Bath' },
+      { src: '/assets/images/img_47.png', alt: 'Guest Bed/Bath' },
+      { src: '/assets/images/img_48.png', alt: 'Guest Bed/Bath' },
+      { src: '/assets/images/img_49.png', alt: 'Guest Bed/Bath' },
+      { src: '/assets/images/img_50.png', alt: 'Guest Bed/Bath' },
+      { src: '/assets/images/img_51.png', alt: 'Guest Bed/Bath' }
     ]
   };
 
@@ -539,7 +542,7 @@
     // Legacy support for old simple format
     if (block.slots && block.slots.newsletterTitle) {
       const { headline, email, newsletterTitle, newsletterText, locations, logoImage } = block.slots;
-      const logoSrc = logoImage ? 'http://localhost:3001/assets/images/' + logoImage : '';
+      const logoSrc = logoImage ? '/assets/images/' + logoImage : '';
       return `
         <section class="pm-contact-page">
           <div class="pm-contact-newsletter">
