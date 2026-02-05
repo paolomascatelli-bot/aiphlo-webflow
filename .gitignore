@@ -24,3 +24,7 @@ npm-debug.log*
 .env
 .env.local
 .mcp.json
+
+# Large export files
+scripts/export.zip
+scripts/export/sqsp.json
