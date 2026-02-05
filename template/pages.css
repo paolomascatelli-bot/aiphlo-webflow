@@ -4354,3 +4354,317 @@
     flex-direction: column;
   }
 }
+
+/* =========================================
+   COMPREHENSIVE MOBILE FIX
+   All mobile responsive styles
+   ========================================= */
+
+@media (max-width: 768px) {
+  /* === GLOBAL MOBILE === */
+  body {
+    font-size: 14px;
+    line-height: 1.5;
+    overflow-x: hidden;
+  }
+
+  main {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  section {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+
+  /* === NAVIGATION MOBILE === */
+  #pm-nav-trigger {
+    top: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 16px;
+  }
+
+  #pm-nav-trigger img {
+    width: 32px;
+    height: auto;
+  }
+
+  #pm-nav-trigger span {
+    font-size: 11px;
+    letter-spacing: 1px;
+  }
+
+  #pm-nav-dropdown {
+    top: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% - 32px);
+    max-width: 280px;
+    padding: 20px;
+  }
+
+  #pm-nav-dropdown.pm-visible,
+  #pm-nav-dropdown.pm-open {
+    transform: translateX(-50%) translateY(0);
+  }
+
+  #pm-nav-dropdown a {
+    font-size: 15px;
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+  }
+
+  #pm-nav-dropdown a:last-child {
+    border-bottom: none;
+  }
+
+  /* === HERO MOBILE === */
+  .page-hero {
+    min-height: auto;
+    padding: 100px 20px 60px !important;
+  }
+
+  .page-hero--with-bg {
+    min-height: 70vh;
+  }
+
+  .hero-content {
+    max-width: 100%;
+  }
+
+  .hero-headline {
+    font-size: 28px !important;
+    letter-spacing: 0.05em;
+    line-height: 1.2;
+  }
+
+  .hero-subhead {
+    font-size: 14px !important;
+    margin-bottom: 12px;
+  }
+
+  .hero-body {
+    font-size: 14px !important;
+    line-height: 1.6;
+  }
+
+  .hero-cta {
+    padding: 12px 24px;
+    font-size: 11px;
+    width: 100%;
+    text-align: center;
+  }
+
+  /* === TENEBRE SECTION MOBILE === */
+  #tenebre-header-logo {
+    height: auto;
+    padding: 24px 16px;
+  }
+
+  #tenebre-header-logo img {
+    width: 100px;
+  }
+
+  #tenebre-gallery-nav {
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 16px;
+  }
+
+  .tenebre-nav-btn {
+    padding: 10px 14px;
+    flex: 1 1 calc(50% - 6px);
+    text-align: center;
+  }
+
+  .tenebre-nav-text {
+    font-size: 11px;
+    letter-spacing: 0.1em;
+  }
+
+  /* === GALLERY GRIDS MOBILE === */
+  .gallery-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 4px !important;
+    padding: 8px !important;
+  }
+
+  .gallery-grid-item {
+    border-radius: 4px;
+  }
+
+  /* === PROJECTS MOBILE === */
+  .projects-grid {
+    grid-template-columns: 1fr !important;
+    gap: 20px;
+    padding: 20px 16px;
+  }
+
+  .project-card {
+    border-radius: 8px;
+  }
+
+  .project-content {
+    padding: 16px;
+  }
+
+  .project-content h3 {
+    font-size: 18px;
+  }
+
+  .project-content p {
+    font-size: 13px;
+  }
+
+  /* === PHOTOGRAPHY MOBILE === */
+  .pm-photo-section {
+    padding: 16px !important;
+  }
+
+  .pm-photo-section .gallery-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+
+  #pm-photo-nav-v3 {
+    top: 70px;
+    padding: 8px 12px;
+    width: calc(100% - 24px);
+    left: 12px;
+    right: 12px;
+    border-radius: 20px;
+  }
+
+  .pm-photo-pill-track {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+  }
+
+  .pm-pill {
+    padding: 6px 12px;
+    font-size: 10px;
+  }
+
+  /* === SOCIAL MEDIA MOBILE === */
+  .pm-campaign-section {
+    padding: 24px 16px !important;
+  }
+
+  .pm-campaign-content {
+    flex-direction: column;
+  }
+
+  .pm-campaign-info,
+  .pm-campaign-preview {
+    width: 100%;
+  }
+
+  /* === FAQ MOBILE === */
+  .faqs-section {
+    padding: 32px 16px !important;
+  }
+
+  .faq-question {
+    font-size: 14px;
+    padding: 16px;
+  }
+
+  .faq-answer {
+    font-size: 13px;
+    padding: 0 16px;
+  }
+
+  /* === CONTACT MOBILE === */
+  .contact-section {
+    padding: 32px 16px !important;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr !important;
+    gap: 24px;
+  }
+
+  /* === FOOTER MOBILE === */
+  .pm-footer {
+    padding: 32px 16px !important;
+  }
+
+  .pm-footer-grid {
+    grid-template-columns: 1fr !important;
+    gap: 32px;
+    text-align: center;
+  }
+
+  .pm-footer-locations {
+    font-size: 28px;
+  }
+
+  .pm-footer-logo-large {
+    width: 120px;
+  }
+
+  /* === AIPHLO PRODUCT PAGE MOBILE === */
+  .pm-aiphlo-page section {
+    padding: 32px 16px !important;
+  }
+
+  .aip-split-grid {
+    grid-template-columns: 1fr !important;
+    gap: 24px;
+  }
+
+  .aip-tiers-grid {
+    grid-template-columns: 1fr !important;
+    gap: 16px;
+  }
+
+  .aip-tier-card {
+    padding: 24px 20px;
+  }
+
+  .aip-steps-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .aip-comparison-table {
+    font-size: 12px;
+    overflow-x: auto;
+    display: block;
+  }
+
+  .aip-comparison-table th,
+  .aip-comparison-table td {
+    padding: 12px 8px;
+    min-width: 80px;
+  }
+
+  .aip-testimonials-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* === EXTRA SMALL SCREENS === */
+@media (max-width: 480px) {
+  .hero-headline {
+    font-size: 24px !important;
+  }
+
+  .gallery-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  #tenebre-gallery-nav {
+    flex-direction: column;
+  }
+
+  .tenebre-nav-btn {
+    flex: 1 1 100%;
+  }
+
+  .pm-pill {
+    padding: 6px 10px;
+    font-size: 9px;
+  }
+}
