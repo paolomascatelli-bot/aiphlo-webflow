@@ -498,7 +498,8 @@
   display: flex;
   justify-content: center;
   gap: 12px;
-  padding: 20px;
+  padding: 30px 20px;
+  margin-top: 40px;
   background: #000000;
 }
 
@@ -1055,4 +1056,66 @@ body {
   font-size: 24px !important;
   letter-spacing: 0.3em !important;
   margin-top: 30px !important;
+}
+
+/* =========================================
+   11. SECONDARY NAV SYNC WITH MAIN NAV
+   When main nav opens, all secondary navs shift down
+   to avoid overlap and stay accessible
+   ========================================= */
+
+/* Photography nav sync - shifts down when main nav is open */
+body.main-nav-open #pm-photo-nav-v3,
+body.main-nav-open #pm-photo-nav {
+  top: 280px !important;
+  transition: top 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* Tenebre gallery nav sync */
+body.main-nav-open .tenebre-gallery-nav {
+  margin-top: 220px;
+  transition: margin-top 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* Projects nav sync */
+body.main-nav-open .pm-projects-nav {
+  top: 280px !important;
+  transition: top 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* Social media nav sync */
+body.main-nav-open .pm-social-nav {
+  margin-top: 220px;
+  transition: margin-top 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* Default transition for closing */
+#pm-photo-nav-v3,
+#pm-photo-nav,
+.tenebre-gallery-nav,
+.pm-projects-nav,
+.pm-social-nav {
+  transition: top 0.3s ease, margin-top 0.3s ease;
+}
+
+/* Mobile adjustments for nav sync */
+@media (max-width: 767px) {
+  body.main-nav-open #pm-photo-nav-v3,
+  body.main-nav-open #pm-photo-nav {
+    /* On mobile, photo nav is at bottom, so no shift needed */
+    top: auto !important;
+    bottom: 20px !important;
+  }
+
+  body.main-nav-open .tenebre-gallery-nav {
+    margin-top: 180px;
+  }
+
+  body.main-nav-open .pm-projects-nav {
+    top: 230px !important;
+  }
+
+  body.main-nav-open .pm-social-nav {
+    margin-top: 180px;
+  }
 }

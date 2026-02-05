@@ -22,6 +22,27 @@
     let hoverTimeout = null;
     const HOVER_DELAY = 300;
 
+    // Helper: Sync secondary navs when main nav opens/closes
+    // This shifts secondary navs down so they don't overlap with main nav dropdown
+    function syncSecondaryNavs(isOpen) {
+      if (isOpen) {
+        document.body.classList.add('main-nav-open');
+      } else {
+        document.body.classList.remove('main-nav-open');
+      }
+    }
+
+    // Watch for visibility changes on dropdown
+    const navObserver = new MutationObserver(function(mutations) {
+      mutations.forEach(function(mutation) {
+        if (mutation.attributeName === 'class') {
+          const isVisible = dropdown.classList.contains('pm-visible');
+          syncSecondaryNavs(isVisible);
+        }
+      });
+    });
+    navObserver.observe(dropdown, { attributes: true });
+
     // Hover enter
     trigger.addEventListener('mouseenter', function() {
       if (isLocked) return;
@@ -311,18 +332,18 @@
   function initTenebreSystem() {
     // Slideshow images
     const slideshowImages = [
-      'assets/images/home_88_DU9A7439.jpg',
-      'assets/images/home_89_DU9A7383.jpg',
-      'assets/images/home_90_bathbronze.jpg',
-      'assets/images/home_91_DU9A4760.jpg',
-      'assets/images/home_92_DU9A4790.jpg',
-      'assets/images/home_93_DU9A4794.png',
-      'assets/images/home_94_RUGCLEAN.png',
-      'assets/images/home_95_DU9A4764.png',
-      'assets/images/home_96_DU9A4773.png',
-      'assets/images/home_97_DU9A4788.png',
-      'assets/images/home_98_DU9A3975.png',
-      'assets/images/home_99_handle3.png'
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c281a47d-82d2-4ca7-9935-6e64238b737f/DU9A7439.jpg',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b4129fc7-3080-4bdc-bcac-c60d41af1a00/DU9A7383.jpg',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a0c0ca31-e8df-4fa3-b2f1-330fa1815836/bathbronze.jpg',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/15d7bf53-15cf-4f58-8581-ac65532b3f55/DU9A4760.jpg',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1763210110407-JV8RT00V5Q85C2HRX2E9/DU9A4790.jpg',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6c5f9fd-406d-45a8-888d-355b0d4e8adb/DU9A4794.png',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d15c2806-d254-4945-87fd-5ff57fc62f3c/RUGCLEAN.png',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d4c44de0-5d3e-4529-978b-788f68839141/DU9A4764.png',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/ae21bb24-f939-4685-9c64-b6f016f067ec/DU9A4773.png',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/d62fa7e4-34f7-40a1-bc2f-79a24509f795/DU9A4788.png',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/847e2968-efbd-4c9e-b550-4ac4307eca65/DU9A3975.png',
+      'https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a79268fd-3820-4eee-b925-6d5b47fe8a13/handle3.png'
     ];
 
     const container = document.getElementById('tenebre-slideshow-container');
