@@ -4,7 +4,7 @@
     {
       "id": "nav",
       "slots": {
-        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "logo": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/691c122d67108c0d02cc5c0a/1763447341974/Aiphloweb1nlk_red.png",
         "menu": [
           {
             "text": "Home",
@@ -139,7 +139,7 @@
     {
       "id": "footer",
       "slots": {
-        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "logo": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/691c122d67108c0d02cc5c0a/1763447341974/Aiphloweb1nlk_red.png",
         "copyright": "ALL RIGHTS RESERVED",
         "notice": "NOT FOR PUBLIC USE",
         "locations": "L.A.  NYC  MIAMI",

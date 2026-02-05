@@ -1,0 +1,8 @@
+assets/
+scripts/export/
+screenshots/
+backups/
+*.zip
+*.png
+*.jpg
+*.jpeg

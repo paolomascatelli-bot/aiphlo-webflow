@@ -4,7 +4,7 @@
     {
       "id": "nav",
       "slots": {
-        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "logo": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/691c122d67108c0d02cc5c0a/1763447341974/Aiphloweb1nlk_red.png",
         "menu": [
           {
             "text": "Home",
@@ -40,7 +40,7 @@
     {
       "id": "hero",
       "slots": {
-        "background": "http://localhost:3001/assets/images/home_5_amandaedit.png",
+        "background": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1764730701059-V6QD7GE50Z2YD6H6PU0S/amandaedit.png",
         "headline": "PAOLO MASCATELLI",
         "subhead": "Creative and Art Direction, Photography & Design",
         "body": "Boutique creative agency, scalable production, luxury art direction. This portfolio showcases photography and creative work—and is also a live demonstration of the AiPhlo navigation system, a luxury template platform now available for designers.",
@@ -53,55 +53,55 @@
     {
       "id": "tenebre",
       "slots": {
-        "logo": "http://localhost:3001/assets/images/home_6_TENEBRE-WHITE.png",
+        "logo": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/697060ea7b39843e1ecc2320/1768972523086/TENEBRE-WHITE.png",
         "toggle": "off",
         "slideshow": [
-          "http://localhost:3001/assets/images/home_104_DU9A0533-2.jpg",
-          "http://localhost:3001/assets/images/home_106_DU9A0654.png",
-          "http://localhost:3001/assets/images/home_107_DU9A3129.png",
-          "http://localhost:3001/assets/images/home_108_DU9A0799.png",
-          "http://localhost:3001/assets/images/home_10_DU9A7439.jpg",
-          "http://localhost:3001/assets/images/home_111_DU9A7439.jpg",
-          "http://localhost:3001/assets/images/home_115_DU9A5796.png",
-          "http://localhost:3001/assets/images/home_117_DU9A5849.png",
-          "http://localhost:3001/assets/images/home_11_DU9A7383.jpg",
-          "http://localhost:3001/assets/images/home_120_DU9A2089.png",
-          "http://localhost:3001/assets/images/home_121_DU9A2083-2.jpg",
-          "http://localhost:3001/assets/images/home_122_DU9A2074.jpg"
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/8f065840-8abf-420c-aadf-b71dff609730/DU9A0533-2.jpg",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/791967dd-25a4-482a-865a-9b35fb204693/DU9A0654.png",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/56082020-9bc8-48d2-8be9-744ffcfb0158/DU9A3129.png",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1763202709356-3ADQH2X0F4PH7J12B1UE/DU9A0799.png",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c281a47d-82d2-4ca7-9935-6e64238b737f/DU9A7439.jpg",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a47227ee-9fc4-4ca1-86fa-3e0f466e8f41/DU9A7439.jpg",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/f138c2c6-1276-4f5c-8855-510021240165/DU9A5796.png",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/3ee95d36-2221-4c43-a9cf-18d38493ba5e/DU9A5849.png",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/b4129fc7-3080-4bdc-bcac-c60d41af1a00/DU9A7383.jpg",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/3bb53f54-efcf-4956-a867-0fb9c6bc24ef/DU9A2083-2.jpg",
+          "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/eaee5397-0412-47cd-8d04-c0cd6d7be0a3/DU9A2074.jpg"
         ],
         "categories": [
           {
             "id": "seating",
             "name": "SEAT STYLES",
-            "preview": "http://localhost:3001/assets/images/home_124_DU9A1989.jpg",
+            "preview": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/6d1430f3-a254-4374-843d-bd7610d3a2c5/DU9A1989.jpg",
             "images": [
               {
-                "src": "http://localhost:3001/assets/images/home_114_DU9A2621-Edit.jpg",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1232d80f-ff73-439e-9016-b881bf7e5416/DU9A2621-Edit.jpg",
                 "alt": "Seating collection",
                 "productId": "seat-1"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_120_DU9A2089.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/c6807220-8397-4312-96a5-4394dfb811fd/DU9A2089.png",
                 "alt": "Seating collection",
                 "productId": "seat-2"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_121_DU9A2083-2.jpg",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/3bb53f54-efcf-4956-a867-0fb9c6bc24ef/DU9A2083-2.jpg",
                 "alt": "Seating collection",
                 "productId": "seat-3"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_122_DU9A2074.jpg",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/eaee5397-0412-47cd-8d04-c0cd6d7be0a3/DU9A2074.jpg",
                 "alt": "Seating collection",
                 "productId": "seat-4"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_123_DU9A2076.jpg",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/f1c83caa-efd3-48f0-89f9-55ecf27be046/DU9A2076.jpg",
                 "alt": "Seating collection",
                 "productId": "seat-5"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_124_DU9A1989.jpg",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/6d1430f3-a254-4374-843d-bd7610d3a2c5/DU9A1989.jpg",
                 "alt": "Seating collection",
                 "productId": "seat-6"
               }
@@ -110,25 +110,25 @@
           {
             "id": "lighting",
             "name": "CHANDELIERS",
-            "preview": "http://localhost:3001/assets/images/home_105_file_00000000bde461f9b3fbf768fd9133af__281_29.jpg",
+            "preview": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/018a5eac-db69-4d4e-85a0-e483a408ed8d/file_00000000bde461f9b3fbf768fd9133af+%281%29.jpg",
             "images": [
               {
-                "src": "http://localhost:3001/assets/images/home_106_DU9A0654.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/791967dd-25a4-482a-865a-9b35fb204693/DU9A0654.png",
                 "alt": "Lighting collection",
                 "productId": "light-1"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_107_DU9A3129.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/56082020-9bc8-48d2-8be9-744ffcfb0158/DU9A3129.png",
                 "alt": "Lighting collection",
                 "productId": "light-2"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_109_DU9A3033-Edit.jpg",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/bf226373-c821-4e55-b358-b33ff3179792/DU9A3033-Edit.jpg",
                 "alt": "Lighting collection",
                 "productId": "light-3"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_20_DU9A3975.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/847e2968-efbd-4c9e-b550-4ac4307eca65/DU9A3975.png",
                 "alt": "Lighting collection",
                 "productId": "light-4"
               }
@@ -137,20 +137,20 @@
           {
             "id": "outdoor",
             "name": "PATIO & POOL",
-            "preview": "http://localhost:3001/assets/images/home_47_poolswingSquare.png",
+            "preview": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/38effd9f-9a89-4893-a018-cd5ef526feef/poolswingSquare.png",
             "images": [
               {
-                "src": "http://localhost:3001/assets/images/home_39_outdoorlifestyle.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/6a598afb-fce4-485c-a35f-6ea0e40433e9/outdoorlifestyle.png",
                 "alt": "Outdoor collection",
                 "productId": "outdoor-1"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_47_poolswingSquare.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/38effd9f-9a89-4893-a018-cd5ef526feef/poolswingSquare.png",
                 "alt": "Outdoor collection",
                 "productId": "outdoor-2"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_48_swingsquareside.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/118e0f7d-84db-4b9d-98be-7078bb5e839a/swingsquareside.png",
                 "alt": "Outdoor collection",
                 "productId": "outdoor-3"
               }
@@ -159,35 +159,35 @@
           {
             "id": "kingbed",
             "name": "KING BED/BATH",
-            "preview": "http://localhost:3001/assets/images/home_113_floorbed.png",
+            "preview": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/385e3f19-3275-4246-916e-bad08660b5c4/floorbed.png",
             "images": [
               {
-                "src": "http://localhost:3001/assets/images/home_101_bedr3.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/6f5d2543-802b-4795-ba32-61f93dd182ac/bedr3.png",
                 "alt": "Bedroom collection",
                 "productId": "king-1"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_113_floorbed.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/385e3f19-3275-4246-916e-bad08660b5c4/floorbed.png",
                 "alt": "Bedroom collection",
                 "productId": "king-2"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_116_2bedside.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/f80a26b5-c10e-4f40-ac1a-7d6eebcad5f8/2bedside.png",
                 "alt": "Bedroom collection",
                 "productId": "king-3"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_118_SideTable_3Abedroom.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/297621f7-d638-482e-a96c-f9744db1f0e4/SideTable%3Abedroom.png",
                 "alt": "Bedroom collection",
                 "productId": "king-4"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_12_bathbronze.jpg",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/a0c0ca31-e8df-4fa3-b2f1-330fa1815836/bathbronze.jpg",
                 "alt": "Bedroom collection",
                 "productId": "king-5"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_23_bedr3.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/6f5d2543-802b-4795-ba32-61f93dd182ac/bedr3.png",
                 "alt": "Bedroom collection",
                 "productId": "king-6"
               }
@@ -196,25 +196,25 @@
           {
             "id": "guestbed",
             "name": "GUEST BED/BATH",
-            "preview": "http://localhost:3001/assets/images/home_114_DU9A2621-Edit.jpg",
+            "preview": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1232d80f-ff73-439e-9016-b881bf7e5416/DU9A2621-Edit.jpg",
             "images": [
               {
-                "src": "http://localhost:3001/assets/images/home_114_DU9A2621-Edit.jpg",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1232d80f-ff73-439e-9016-b881bf7e5416/DU9A2621-Edit.jpg",
                 "alt": "Guest room collection",
                 "productId": "guest-1"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_115_DU9A5796.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/f138c2c6-1276-4f5c-8855-510021240165/DU9A5796.png",
                 "alt": "Guest room collection",
                 "productId": "guest-2"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_117_DU9A5849.png",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/3ee95d36-2221-4c43-a9cf-18d38493ba5e/DU9A5849.png",
                 "alt": "Guest room collection",
                 "productId": "guest-3"
               },
               {
-                "src": "http://localhost:3001/assets/images/home_51_DU9A2621-Edit.jpg",
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1232d80f-ff73-439e-9016-b881bf7e5416/DU9A2621-Edit.jpg",
                 "alt": "Guest room collection",
                 "productId": "guest-4"
               }
@@ -226,7 +226,7 @@
     {
       "id": "footer",
       "slots": {
-        "logo": "http://localhost:3001/assets/images/contact_314_Aiphloweb1nlk_red.png",
+        "logo": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/691c122d67108c0d02cc5c0a/1763447341974/Aiphloweb1nlk_red.png",
         "copyright": "ALL RIGHTS RESERVED",
         "notice": "NOT FOR PUBLIC USE",
         "locations": "L.A.  NYC  MIAMI",
