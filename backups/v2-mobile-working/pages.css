@@ -921,11 +921,10 @@
     gap: 32px;
   }
 
-  /* Photo Nav Mobile - Squarespace extracted values */
+  /* Photo Nav Mobile */
   #pm-photo-nav-v3 {
-    top: 80px; /* Below main nav on mobile */
-    padding: 8px 10px;
-    max-width: calc(100% - 24px);
+    top: 56px; /* Slightly lower on mobile */
+    padding: 10px 12px;
   }
 
   .pm-photo-pill-track {
@@ -4468,12 +4467,10 @@
     width: 100px;
   }
 
-  /* Tenebre Nav Mobile - Squarespace extracted: grid layout, gap 20px 16px, padding 25px 16px */
   #tenebre-gallery-nav {
-    display: grid !important;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px 16px;
-    padding: 25px 16px !important;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 16px;
   }
 
   .tenebre-nav-btn {
@@ -4658,15 +4655,12 @@
     grid-template-columns: 1fr !important;
   }
 
-  /* Keep 2-column grid on extra small screens too */
   #tenebre-gallery-nav {
-    grid-template-columns: 1fr 1fr;
-    gap: 16px 12px;
-    padding: 20px 12px !important;
+    flex-direction: column;
   }
 
   .tenebre-nav-btn {
-    width: 100%;
+    flex: 1 1 100%;
   }
 
   .pm-pill {

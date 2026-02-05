@@ -1,0 +1,153 @@
+{
+  "title": "Social Media",
+  "blocks": [
+    {
+      "id": "nav",
+      "slots": {
+        "logo": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/691c122d67108c0d02cc5c0a/1763447341974/Aiphloweb1nlk_red.png",
+        "menu": [
+          {
+            "text": "Home",
+            "url": "/"
+          },
+          {
+            "text": "Projects",
+            "url": "/projects"
+          },
+          {
+            "text": "Photography",
+            "url": "/photography"
+          },
+          {
+            "text": "Social Media",
+            "url": "/socialmedia"
+          },
+          {
+            "text": "FAQs",
+            "url": "/faqs"
+          },
+          {
+            "text": "AiPhlo",
+            "url": "/aiphlo"
+          },
+          {
+            "text": "Contact",
+            "url": "/contact"
+          }
+        ]
+      }
+    },
+    {
+      "id": "campaigns",
+      "slots": {
+        "fullWidthBackground": true,
+        "pageTitle": "Social Media",
+        "items": [
+          {
+            "id": "vyayama",
+            "name": "VYAYAMA",
+            "description": "Wellness & Fitness Campaign - Yoga and athleisure aesthetics",
+            "icon": "http://localhost:3001/assets/images/socialmedia_vyayama.png",
+            "iconStyle": "circular",
+            "layoutType": "phone-mockups",
+            "images": [
+              {
+                "src": "http://localhost:3001/assets/images/socialmedia_vyayama.png",
+                "alt": "",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/986bdcc9-4f7a-4e6e-a1bc-2e4814fa93f7/vyayama.png"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489906083-KXHFOM1J6PXRTWR9AESA/CE7FF834-A338-4004-B26C-10096D247430.jpg?format=300w",
+                "alt": "CE7FF834-A338-4004-B26C-10096D247430.jpg",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489906083-KXHFOM1J6PXRTWR9AESA/CE7FF834-A338-4004-B26C-10096D247430.jpg?format=300w"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489956263-04D82GU2F09O7DL570RT/73555D33-029B-4AAD-BA5B-1F076AC6E4FB.jpg?format=300w",
+                "alt": "73555D33-029B-4AAD-BA5B-1F076AC6E4FB.jpg",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489956263-04D82GU2F09O7DL570RT/73555D33-029B-4AAD-BA5B-1F076AC6E4FB.jpg?format=300w"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489892524-EZ4TV29F9B5X8WUAE0ET/9F44728E-2CF0-418A-9BD1-31C4B0152F8C.jpg?format=300w",
+                "alt": "9F44728E-2CF0-418A-9BD1-31C4B0152F8C.jpg",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489892524-EZ4TV29F9B5X8WUAE0ET/9F44728E-2CF0-418A-9BD1-31C4B0152F8C.jpg?format=300w"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489856004-KCSBAA3RTOSBVHG77K7E/FB38D244-6F33-4933-B1EB-1E6FC325A5A8.jpg?format=300w",
+                "alt": "FB38D244-6F33-4933-B1EB-1E6FC325A5A8.jpg",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489856004-KCSBAA3RTOSBVHG77K7E/FB38D244-6F33-4933-B1EB-1E6FC325A5A8.jpg?format=300w"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489874396-OQZCCCOW40ESJ0VK5C2R/05330FBE-2B82-42EB-8486-2CEE48B86B03.jpg?format=300w",
+                "alt": "05330FBE-2B82-42EB-8486-2CEE48B86B03.jpg",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489874396-OQZCCCOW40ESJ0VK5C2R/05330FBE-2B82-42EB-8486-2CEE48B86B03.jpg?format=300w"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489970145-IMG63BHPC0IWEISDNK4Q/B5332CF6-E799-466E-8A87-4A52BFBDA80C.jpg?format=300w",
+                "alt": "B5332CF6-E799-466E-8A87-4A52BFBDA80C.jpg",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489970145-IMG63BHPC0IWEISDNK4Q/B5332CF6-E799-466E-8A87-4A52BFBDA80C.jpg?format=300w"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489782377-J36VNU1SUWUYY6DH0LL1/CE4D1ED8-3FB7-47BC-8465-5BCBB0859C8D.jpg?format=300w",
+                "alt": "CE4D1ED8-3FB7-47BC-8465-5BCBB0859C8D.jpg",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1685489782377-J36VNU1SUWUYY6DH0LL1/CE4D1ED8-3FB7-47BC-8465-5BCBB0859C8D.jpg?format=300w"
+              }
+            ]
+          },
+          {
+            "id": "victoria",
+            "name": "VICTORIA",
+            "description": "Luxury Lifestyle Campaign - Built influencer relationships, influencer status within multiple niche fashion and lifestyle markets.",
+            "icon": "http://localhost:3001/assets/images/socialmedia_victoria.png",
+            "iconStyle": "circular",
+            "layoutType": "horizontal-slideshow",
+            "images": [
+              {
+                "src": "http://localhost:3001/assets/images/socialmedia_victoria.png",
+                "alt": "",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/2ee832aa-8c2a-46f4-a6e1-600bfbf80c14/victoria.png"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1636067344096-81DQ5OR1XPC2CT0U32MZ/dsc_3707.JPG?format=750w",
+                "alt": "dsc_3707.JPG",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1636067344096-81DQ5OR1XPC2CT0U32MZ/dsc_3707.JPG?format=750w"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1636067318252-ZWG00N1P05I37M7OIXWX/dsc_3401.JPG?format=750w",
+                "alt": "dsc_3401.JPG",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1636067318252-ZWG00N1P05I37M7OIXWX/dsc_3401.JPG?format=750w"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1636067348401-YPEH6BSKGQNU8HEU78B6/dscf0191-1.JPG?format=300w",
+                "alt": "dscf0191-1.JPG",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1636067348401-YPEH6BSKGQNU8HEU78B6/dscf0191-1.JPG?format=300w"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1636067355192-KDOZZ1J6Y2288T352KU0/IMG_4263.JPG?format=500w",
+                "alt": "IMG_4263.JPG",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1636067355192-KDOZZ1J6Y2288T352KU0/IMG_4263.JPG?format=500w"
+              },
+              {
+                "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1636067357423-ZH5KKUUF5TGVVBLB5CO9/IMG_4267.JPG?format=500w",
+                "alt": "IMG_4267.JPG",
+                "originalSrc": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/1636067357423-ZH5KKUUF5TGVVBLB5CO9/IMG_4267.JPG?format=500w"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "slots": {
+        "logo": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/691c122d67108c0d02cc5c0a/1763447341974/Aiphloweb1nlk_red.png",
+        "copyright": "ALL RIGHTS RESERVED",
+        "notice": "NOT FOR PUBLIC USE",
+        "locations": "L.A.  NYC  MIAMI",
+        "contact": {
+          "text": "contact us",
+          "url": "/contact"
+        }
+      }
+    }
+  ]
+}

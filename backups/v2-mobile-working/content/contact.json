@@ -1,0 +1,158 @@
+{
+  "title": "Contact | Paolo Mascatelli",
+  "blocks": [
+    {
+      "id": "contactHeader",
+      "type": "resume-header",
+      "slots": {
+        "logo": "PM",
+        "name": "Paolo Mascatelli",
+        "tagline": "Creative Director · Brand Strategist · Visual Storyteller",
+        "summary": "10+ years orchestrating luxury brand experiences through photography, video production, and strategic creative direction. From Disney features to boutique brand launches."
+      }
+    },
+    {
+      "id": "quickActions",
+      "type": "quick-actions",
+      "slots": {
+        "actions": [
+          { "icon": "📧", "label": "Email Me", "href": "mailto:paolomascatelli@gmail.com" },
+          { "icon": "📄", "label": "View Full Resume", "href": "#resume" },
+          { "label": "Freelance Work", "href": "mailto:paolomascatelli@gmail.com?subject=Freelance%20Inquiry" },
+          { "label": "AiPhlo Inquiries", "href": "/aiphlo" }
+        ]
+      }
+    },
+    {
+      "id": "contactCards",
+      "type": "contact-cards",
+      "slots": {
+        "cards": [
+          {
+            "icon": "📧",
+            "title": "Personal Projects",
+            "description": "Photography, creative direction, brand strategy, and freelance opportunities",
+            "value": "paolomascatelli@gmail.com",
+            "href": "mailto:paolomascatelli@gmail.com"
+          },
+          {
+            "icon": "📱",
+            "title": "Direct Line",
+            "description": "Quick questions or time-sensitive projects",
+            "value": "+1 619 433 8917",
+            "href": "tel:+16194338917"
+          },
+          {
+            "icon": "🌐",
+            "title": "Portfolio",
+            "description": "View my photography and creative work",
+            "value": "paolomascatelli.com",
+            "href": "https://www.paolomascatelli.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "resumeSection",
+      "type": "resume-download",
+      "slots": {
+        "title": "Resume & Experience",
+        "downloadLabel": "Download PDF",
+        "coverLetterLabel": "View Cover Letter"
+      }
+    },
+    {
+      "id": "coverLetter",
+      "type": "cover-letter",
+      "slots": {
+        "paragraphs": [
+          "Dear Hiring Manager,",
+          "With over a decade of creative and strategic experience across photography, video production, branding, and marketing, I bring a rare blend of hands-on production expertise and conceptual vision. My background spans everything from feature film and fashion photography to startup brand development and AI-enhanced marketing strategy — all anchored by a deep understanding of storytelling and audience connection.",
+          "As Creative Director at AiPhlo (formerly Digital Graffiti Media Co.), I've led full-scale brand initiatives integrating design, social media management, SEO/SEM/MPO strategy, and scalable content production. I've developed campaigns for both emerging and established brands, directing creative teams, overseeing video and still production, and delivering organic engagement and measurable growth.",
+          "I've worked across every phase of content development: concepting, shooting, editing, and managing rollout strategy. Beyond production, I bring an advanced awareness of modern marketing ecosystems — including AI-driven tools, data-integrated campaigns, and algorithmic audience mapping.",
+          "What drives me most is crafting meaningful, resonant visual stories — whether it's a brand launch, a digital campaign, or a cinematic shoot. I'm at my best when I can unite art and analytics to create content that looks beautiful and performs effectively.",
+          "I'd love the opportunity to bring this mix of creativity, leadership, and strategy to your team.",
+          "Warm regards,\nPaolo Mascatelli"
+        ]
+      }
+    },
+    {
+      "id": "professionalSummary",
+      "type": "text-block",
+      "slots": {
+        "title": "Professional Summary",
+        "content": "10+ years of professional work experience across multiple media forms (Photo/Video, Design) with features including Walt Disney's \"Enchanted.\" Executive Producer and writer credits, degree in Advertising with hands-on marketing, production skills, conceptual strategic planning, technical strategy & brand management."
+      }
+    },
+    {
+      "id": "workExperience",
+      "type": "work-experience",
+      "slots": {
+        "title": "Work Experience",
+        "jobs": [
+          {
+            "title": "Owner / Creative Director",
+            "company": "AiPhlo (formerly Digital Graffiti Media Co.)",
+            "location": "Venice, CA",
+            "dates": "January 2017 – Present",
+            "description": "Social Media & P.R. Rooted Creative Marketing. Brand Identity, Design, Social Media Management, Video Production. Curated media spaces delivering 100% organic consumer audiences. Content & Engagement Strategies, Account Management (SEO, SEM, MPO), Computer learning algorithmic software, Scalable Production."
+          },
+          {
+            "title": "Art Director, Illustrator & P.A.",
+            "company": "PI&C & CY&N",
+            "location": "New York, NY",
+            "dates": "June 2016 – July 2017",
+            "description": "Partnered with writers on creative briefs for broadcast, content, integrated and digital advertising for Alitalia, Nutella, Match.com and Wyndham Resorts. Won Top Dog Award for Square Pay."
+          },
+          {
+            "title": "Director of Photography & Production",
+            "company": "Paolo Mascatelli Photography",
+            "location": "Los Angeles, CA",
+            "dates": "January 2010 – December 2015",
+            "description": "Specializing in portraiture, fashion, fine art and commercial photography. Creation / product design."
+          },
+          {
+            "title": "E.P., Writer",
+            "company": "Motion Picture Industry Featured",
+            "location": "New York, NY",
+            "dates": "January 2006 – December 2011",
+            "description": "Featured in documentary Mad Hot Ballroom, Principal Dancer in Walt Disney's Enchanted, Executive Producer and Co-writer of The Cynical Life."
+          }
+        ]
+      }
+    },
+    {
+      "id": "coreSkills",
+      "type": "skills-grid",
+      "slots": {
+        "title": "Core Skills",
+        "skills": [
+          "Creative Direction",
+          "Photography",
+          "Videography",
+          "Adobe Creative Suite",
+          "SEO/SEM",
+          "Brand Strategy",
+          "Social Media",
+          "Content Strategy",
+          "Production",
+          "UX/UI Design",
+          "AI Integration"
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "type": "contact-footer",
+      "slots": {
+        "copyright": "© 2025 Paolo Mascatelli · Available for freelance projects and creative direction opportunities",
+        "location": "Venice, CA 90291 · Authorized to work in the US · Willing to relocate",
+        "notice": "ALL RIGHTS RESERVED",
+        "privacy": "NOT FOR PUBLIC USE",
+        "newsletterTitle": "Stay in the loop",
+        "newsletterText": "Sign up with your email address to receive news and updates.",
+        "locations": "L.A.  NYC  MIAMI"
+      }
+    }
+  ]
+}

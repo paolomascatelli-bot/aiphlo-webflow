@@ -1,0 +1,90 @@
+{
+  "title": "Projects",
+  "blocks": [
+    {
+      "id": "nav",
+      "slots": {
+        "logo": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/691c122d67108c0d02cc5c0a/1763447341974/Aiphloweb1nlk_red.png",
+        "menu": [
+          { "text": "Home", "url": "/" },
+          { "text": "Projects", "url": "/projects" },
+          { "text": "Photography", "url": "/photography" },
+          { "text": "Social Media", "url": "/socialmedia" },
+          { "text": "FAQs", "url": "/faqs" },
+          { "text": "AiPhlo", "url": "/aiphlo" },
+          { "text": "Contact", "url": "/contact" }
+        ]
+      }
+    },
+    {
+      "id": "project-showcase",
+      "slots": {
+        "background": "#000000",
+        "pageTitle": "Projects",
+        "subtitle": "PAOLO MASCATELLI | AIPHLO: Live build",
+        "intro": "My site is an example of the Custom AIPHLO Navigation Systems in development",
+        "projects": [
+          {
+            "id": "aiphlo",
+            "name": "AIPHLO",
+            "thumbnail": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/90d78333-e034-49a5-b11a-d27499b9d8e8/AiPhlo+Color+Drop",
+            "tagline": "Luxury Navigation. Zero Code.",
+            "description": "High-end luxury platform-agnostic UX/UI augmentation for open-source platforms",
+            "content": {
+              "type": "image",
+              "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/90d78333-e034-49a5-b11a-d27499b9d8e8/AiPhlo+Color+Drop"
+            }
+          },
+          {
+            "id": "tenebre",
+            "name": "TENEBRE",
+            "thumbnail": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/697060ea7b39843e1ecc2320/1768972523086/TENEBRE-WHITE.png",
+            "tagline": "modern geometric | light brutalism",
+            "description": "Lead Creative - Full Stack Web, UX, Product Photography, Branding",
+            "hasToggle": true,
+            "toggleLabel": "SLIDESHOW",
+            "content": {
+              "type": "slideshow",
+              "images": [
+                { "src": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/697060ea7b39843e1ecc2320/1768972523086/TENEBRE-WHITE.png", "alt": "Tenebre White" },
+                { "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/9087e328-d62f-4e63-892e-394dfd50874a/Tenebre_Branding_072125.png", "alt": "Tenebre Branding" }
+              ]
+            }
+          },
+          {
+            "id": "cpi",
+            "name": "CPI",
+            "thumbnail": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/832ec613-de51-45d2-9b86-454ed031f67f/cpi.png",
+            "tagline": "Branding",
+            "description": "international psychotherapy educational platform (web coming)",
+            "content": {
+              "type": "image",
+              "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/832ec613-de51-45d2-9b86-454ed031f67f/cpi.png"
+            }
+          },
+          {
+            "id": "graffdigital",
+            "name": "GRAFFDIGITAL",
+            "thumbnail": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/cc9729bc-c839-45f7-8aed-4411dccc9a0d/GraffDigital.png",
+            "tagline": "Digital Art",
+            "description": "Digital graffiti art and urban design",
+            "content": {
+              "type": "image",
+              "src": "https://images.squarespace-cdn.com/content/v1/559bdae3e4b00228d055250c/cc9729bc-c839-45f7-8aed-4411dccc9a0d/GraffDigital.png"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "slots": {
+        "logo": "https://static1.squarespace.com/static/559bdae3e4b00228d055250c/t/691c122d67108c0d02cc5c0a/1763447341974/Aiphloweb1nlk_red.png",
+        "copyright": "ALL RIGHTS RESERVED",
+        "notice": "NOT FOR PUBLIC USE",
+        "locations": "L.A.  NYC  MIAMI",
+        "contact": { "text": "contact us", "url": "/contact" }
+      }
+    }
+  ]
+}
